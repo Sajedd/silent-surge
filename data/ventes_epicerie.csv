@@ -1,0 +1,1669 @@
+client_id,type_commerce,categorie_produit,produit,zone,saison,mois,jour,heure,quantite,prix_unitaire,cout_unitaire,marge_totale,date_vente
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,printemps,5,6,11,4,4.78,2.11,10.68,2023-05-06
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,été,8,5,8,1,2.2,1.07,1.13,2023-08-05
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,printemps,4,12,19,3,16.77,10.36,19.23,2023-04-12
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,printemps,4,30,21,3,3.87,1.98,5.67,2023-04-30
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,été,7,1,11,2,17.25,11.74,11.02,2023-07-01
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,automne,10,1,19,2,7.25,4.24,6.02,2023-10-01
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,été,7,24,13,3,6.65,5.31,4.02,2023-07-24
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,hiver,2,26,10,4,16.24,11.64,18.4,2023-02-26
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,hiver,12,16,22,1,14.12,7.16,6.96,2023-12-16
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,été,8,11,10,4,12.16,9.5,10.64,2023-08-11
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,hiver,2,24,21,3,16.19,11.93,12.78,2023-02-24
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,été,7,11,20,2,5.3,4.14,2.32,2023-07-11
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,automne,9,8,8,3,4.13,2.25,5.64,2023-09-08
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,automne,10,4,20,3,18.65,8.96,29.07,2023-10-04
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,été,8,31,20,1,11.07,4.85,6.22,2023-08-31
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,été,7,30,15,4,21.8,9.19,50.44,2023-07-30
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,été,6,23,20,3,21.75,10.86,32.67,2023-06-23
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,été,6,3,22,3,17.09,13.25,11.52,2023-06-03
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,automne,9,16,15,3,7.4,5.65,5.25,2023-09-16
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,été,7,9,17,6,14.48,8.28,37.2,2023-07-09
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone résidentielle,hiver,12,26,9,3,10.49,4.36,18.39,2023-12-26
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,hiver,2,5,18,3,23.14,15.02,24.36,2023-02-05
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,automne,9,17,12,0,17.17,9.11,0.0,2023-09-17
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,été,8,4,18,5,23.6,15.83,38.85,2023-08-04
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,hiver,12,11,12,4,6.78,3.25,14.12,2023-12-11
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,automne,9,11,14,5,7.23,4.79,12.2,2023-09-11
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,automne,11,10,21,1,18.4,11.08,7.32,2023-11-10
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,été,8,19,12,3,19.17,14.11,15.18,2023-08-19
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,été,6,30,12,1,19.21,14.24,4.97,2023-06-30
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,automne,11,7,17,1,24.15,16.6,7.55,2023-11-07
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,printemps,5,4,19,1,12.69,8.69,4.0,2023-05-04
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,automne,9,29,13,2,11.5,8.03,6.94,2023-09-29
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,hiver,2,22,21,5,1.79,0.92,4.35,2023-02-22
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,printemps,3,2,16,2,19.46,12.5,13.92,2023-03-02
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,été,8,19,22,5,11.9,8.85,15.25,2023-08-19
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,été,8,28,19,2,8.65,4.85,7.6,2023-08-28
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,automne,10,23,8,1,19.43,9.13,10.3,2023-10-23
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,automne,10,27,14,1,16.42,9.8,6.62,2023-10-27
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,été,6,11,12,3,9.1,7.17,5.79,2023-06-11
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,printemps,4,15,12,3,14.41,11.11,9.9,2023-04-15
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,printemps,5,22,20,1,20.07,11.36,8.71,2023-05-22
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,été,6,2,21,9,15.29,12.23,27.54,2023-06-02
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,printemps,3,6,16,6,24.19,12.89,67.8,2023-03-06
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,printemps,5,16,13,9,16.15,9.03,64.08,2023-05-16
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,automne,11,23,12,0,12.3,8.2,0.0,2023-11-23
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,été,8,22,21,7,8.6,6.88,12.04,2023-08-22
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,automne,11,18,18,1,2.43,1.74,0.69,2023-11-18
+EPICERIE,EPICERIE,Boissons,Oasis,Zone touristique bord de mer,hiver,12,11,19,1,17.3,10.97,6.33,2023-12-11
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,été,8,30,8,2,16.06,12.48,7.16,2023-08-30
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,1,24,8,2,8.65,5.16,6.98,2023-01-24
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,printemps,3,21,22,3,11.25,4.95,18.9,2023-03-21
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,printemps,5,5,10,1,19.99,9.64,10.35,2023-05-05
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,printemps,4,30,13,2,19.7,14.09,11.22,2023-04-30
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,printemps,3,8,16,1,7.39,3.47,3.92,2023-03-08
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,été,7,3,20,2,20.03,12.73,14.6,2023-07-03
+EPICERIE,EPICERIE,Boissons,Perrier,Zone montagne,été,6,4,15,4,16.62,6.86,39.04,2023-06-04
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,automne,9,29,12,1,12.16,7.81,4.35,2023-09-29
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,hiver,1,31,17,2,23.98,14.98,18.0,2023-01-31
+EPICERIE,EPICERIE,Boissons,Oasis,Zone touristique bord de mer,hiver,12,7,20,5,11.44,8.77,13.35,2023-12-07
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,été,6,29,21,2,14.57,6.5,16.14,2023-06-29
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,hiver,12,3,21,3,17.8,7.33,31.41,2023-12-03
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,automne,11,21,8,1,3.66,2.24,1.42,2023-11-21
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,printemps,3,21,10,5,19.23,8.07,55.8,2023-03-21
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,hiver,2,26,12,3,17.44,11.11,18.99,2023-02-26
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,été,7,22,17,4,2.79,1.34,5.8,2023-07-22
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,été,8,26,20,5,14.75,9.32,27.15,2023-08-26
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,printemps,3,19,15,2,3.1,1.79,2.62,2023-03-19
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,automne,10,25,16,3,23.92,16.64,21.84,2023-10-25
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,automne,9,25,17,6,5.23,2.87,14.16,2023-09-25
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,hiver,2,11,17,5,17.09,13.1,19.95,2023-02-11
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,automne,9,18,13,3,1.93,1.01,2.76,2023-09-18
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,printemps,4,13,20,3,15.71,11.77,11.82,2023-04-13
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,hiver,2,11,13,2,6.78,3.58,6.4,2023-02-11
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,hiver,1,1,17,2,9.79,6.15,7.28,2023-01-01
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,été,8,29,8,4,16.44,13.03,13.64,2023-08-29
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,hiver,12,23,15,1,16.35,11.85,4.5,2023-12-23
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone touristique bord de mer,hiver,1,25,21,4,16.91,8.61,33.2,2023-01-25
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,hiver,12,14,10,1,23.89,10.92,12.97,2023-12-14
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,2,4,11,3,19.8,10.82,26.94,2023-02-04
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,hiver,2,3,12,0,10.86,7.46,0.0,2023-02-03
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,été,8,10,16,2,22.9,9.67,26.46,2023-08-10
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,automne,11,6,13,3,21.3,13.32,23.94,2023-11-06
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,printemps,5,29,18,3,23.98,14.22,29.28,2023-05-29
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,hiver,2,7,19,5,2.91,1.68,6.15,2023-02-07
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,été,7,9,16,1,14.7,7.76,6.94,2023-07-09
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,automne,9,21,10,1,9.21,5.94,3.27,2023-09-21
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,automne,10,26,15,4,5.51,3.59,7.68,2023-10-26
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,1,17,17,5,23.78,10.56,66.1,2023-01-17
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,automne,9,23,11,1,14.68,11.73,2.95,2023-09-23
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,automne,11,12,19,1,15.29,7.6,7.69,2023-11-12
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,hiver,1,27,9,3,11.21,7.7,10.53,2023-01-27
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,hiver,2,27,13,2,5.32,3.1,4.44,2023-02-27
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,hiver,12,8,9,6,12.44,5.77,40.02,2023-12-08
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,automne,11,24,22,2,23.6,12.91,21.38,2023-11-24
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,automne,9,28,19,6,10.0,7.67,13.98,2023-09-28
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,automne,10,26,15,4,3.64,2.2,5.76,2023-10-26
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,printemps,5,11,21,3,1.57,0.76,2.43,2023-05-11
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,été,8,18,21,4,23.05,12.7,41.4,2023-08-18
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,1,2,20,5,2.03,1.05,4.9,2023-01-02
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,été,7,14,21,6,6.9,4.03,17.22,2023-07-14
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,été,7,25,15,2,7.01,3.41,7.2,2023-07-25
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,été,6,4,22,3,4.87,3.23,4.92,2023-06-04
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,été,7,29,10,5,8.55,4.05,22.5,2023-07-29
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,été,6,3,21,0,18.13,13.1,0.0,2023-06-03
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,printemps,4,11,13,0,6.91,4.34,0.0,2023-04-11
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,été,6,30,10,7,4.79,2.96,12.81,2023-06-30
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,printemps,3,12,21,1,16.32,6.97,9.35,2023-03-12
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,hiver,1,4,16,4,14.46,5.85,34.44,2023-01-04
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,automne,9,15,21,5,17.9,10.24,38.3,2023-09-15
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,hiver,12,1,21,5,16.77,6.92,49.25,2023-12-01
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,printemps,3,25,17,3,7.15,5.25,5.7,2023-03-25
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,été,8,12,11,4,21.21,11.37,39.36,2023-08-12
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,hiver,1,16,18,3,7.92,6.31,4.83,2023-01-16
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,hiver,1,14,9,1,9.82,4.29,5.53,2023-01-14
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,printemps,5,30,14,0,10.61,4.6,0.0,2023-05-30
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone montagne,printemps,3,28,18,7,10.45,4.76,39.83,2023-03-28
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,été,6,21,14,3,20.66,15.37,15.87,2023-06-21
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone touristique bord de mer,automne,11,5,19,1,6.22,3.27,2.95,2023-11-05
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,hiver,12,29,11,1,11.8,6.1,5.7,2023-12-29
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,printemps,3,13,18,2,8.62,4.32,8.6,2023-03-13
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,printemps,5,8,18,7,17.12,7.99,63.91,2023-05-08
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,été,6,19,20,5,11.62,4.7,34.6,2023-06-19
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,automne,10,31,14,4,10.64,7.26,13.52,2023-10-31
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,été,7,20,17,6,4.18,2.26,11.52,2023-07-20
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,automne,9,8,12,2,4.8,2.52,4.56,2023-09-08
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,hiver,12,17,15,3,11.27,8.29,8.94,2023-12-17
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,été,8,19,12,6,9.69,7.04,15.9,2023-08-19
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,printemps,3,13,20,5,6.36,3.07,16.45,2023-03-13
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,printemps,5,17,21,3,13.59,10.33,9.78,2023-05-17
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,été,7,23,11,1,24.25,17.7,6.55,2023-07-23
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,printemps,3,23,21,2,23.42,11.94,22.96,2023-03-23
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,été,7,10,18,5,22.74,10.6,60.7,2023-07-10
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,hiver,2,21,10,4,19.18,12.2,27.92,2023-02-21
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,hiver,12,4,22,2,8.59,5.21,6.76,2023-12-04
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,été,6,1,18,2,2.78,2.11,1.34,2023-06-01
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,hiver,1,9,17,3,3.09,1.56,4.59,2023-01-09
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,printemps,5,3,8,5,7.25,5.58,8.35,2023-05-03
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,été,7,10,10,0,19.12,14.33,0.0,2023-07-10
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,été,8,8,12,6,13.81,6.98,40.98,2023-08-08
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,automne,9,19,13,3,2.8,2.08,2.16,2023-09-19
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,printemps,5,8,14,2,23.02,12.15,21.74,2023-05-08
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,été,8,27,21,1,8.13,6.0,2.13,2023-08-27
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,hiver,1,1,20,3,16.95,12.54,13.23,2023-01-01
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,automne,9,29,11,4,11.37,8.92,9.8,2023-09-29
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,été,6,17,10,7,3.64,1.82,12.74,2023-06-17
+EPICERIE,EPICERIE,Boissons,Perrier,Zone montagne,printemps,5,13,22,1,20.6,8.42,12.18,2023-05-13
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,automne,10,9,15,2,2.93,1.5,2.86,2023-10-09
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,printemps,5,19,10,3,2.11,1.35,2.28,2023-05-19
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,printemps,4,7,21,3,24.72,18.61,18.33,2023-04-07
+EPICERIE,EPICERIE,Boissons,Oasis,Zone touristique bord de mer,été,6,15,10,4,24.43,16.93,30.0,2023-06-15
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,printemps,3,31,14,5,8.71,5.88,14.15,2023-03-31
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,hiver,2,7,20,2,21.38,11.07,20.62,2023-02-07
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,hiver,2,1,21,5,10.6,6.46,20.7,2023-02-01
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,été,6,3,9,2,10.78,7.99,5.58,2023-06-03
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,automne,11,1,12,4,9.01,6.22,11.16,2023-11-01
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,été,6,3,19,3,11.91,8.7,9.63,2023-06-03
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,printemps,4,13,21,2,2.85,1.18,3.34,2023-04-13
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,printemps,5,4,13,2,12.99,7.51,10.96,2023-05-04
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,été,7,17,8,4,5.33,3.35,7.92,2023-07-17
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,automne,11,28,10,3,15.63,6.3,27.99,2023-11-28
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,été,6,22,12,2,16.55,12.32,8.46,2023-06-22
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,hiver,1,14,18,2,13.19,6.84,12.7,2023-01-14
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,été,8,29,8,5,21.86,13.85,40.05,2023-08-29
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,automne,9,14,9,3,21.89,12.1,29.37,2023-09-14
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,printemps,3,8,17,4,11.69,6.68,20.04,2023-03-08
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,printemps,4,16,19,4,17.61,7.11,42.0,2023-04-16
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,printemps,5,12,18,3,6.93,5.51,4.26,2023-05-12
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,été,7,14,20,2,9.93,4.09,11.68,2023-07-14
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,hiver,2,27,22,0,11.17,4.67,0.0,2023-02-27
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,automne,9,23,16,3,17.67,11.44,18.69,2023-09-23
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,automne,11,26,22,3,5.19,3.84,4.05,2023-11-26
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,été,7,26,21,0,7.02,4.1,0.0,2023-07-26
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,été,8,17,13,3,4.29,2.57,5.16,2023-08-17
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,été,7,31,8,2,14.59,5.84,17.5,2023-07-31
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,été,8,23,18,4,15.35,9.24,24.44,2023-08-23
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone montagne,printemps,3,30,19,6,20.66,9.12,69.24,2023-03-30
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,été,7,16,14,1,24.52,18.79,5.73,2023-07-16
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,été,6,10,19,1,18.82,11.7,7.12,2023-06-10
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone montagne,hiver,12,22,18,2,9.08,4.05,10.06,2023-12-22
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,automne,9,25,9,0,2.09,0.96,0.0,2023-09-25
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,printemps,3,24,12,1,17.56,8.05,9.51,2023-03-24
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,été,7,19,11,5,13.51,9.71,19.0,2023-07-19
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,été,7,18,14,2,23.98,18.95,10.06,2023-07-18
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,été,8,8,12,2,14.58,6.59,15.98,2023-08-08
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,été,8,27,19,3,23.53,9.79,41.22,2023-08-27
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,printemps,5,31,11,2,23.83,15.43,16.8,2023-05-31
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,hiver,12,16,22,5,9.04,6.93,10.55,2023-12-16
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,automne,10,3,16,1,1.67,0.71,0.96,2023-10-03
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,hiver,2,23,11,3,14.14,9.63,13.53,2023-02-23
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,1,13,15,0,18.35,7.62,0.0,2023-01-13
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,automne,11,25,19,7,16.03,11.26,33.39,2023-11-25
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,été,7,3,22,3,13.32,6.87,19.35,2023-07-03
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,été,8,13,14,5,10.79,7.17,18.1,2023-08-13
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,hiver,12,13,22,1,22.98,16.5,6.48,2023-12-13
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,automne,10,12,10,3,4.4,1.77,7.89,2023-10-12
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,printemps,4,18,19,4,18.92,13.06,23.44,2023-04-18
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,hiver,12,10,9,3,7.39,3.54,11.55,2023-12-10
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,printemps,3,7,18,0,16.9,7.44,0.0,2023-03-07
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,automne,9,6,15,2,9.22,6.12,6.2,2023-09-06
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,automne,10,18,13,4,20.48,16.05,17.72,2023-10-18
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,hiver,2,11,21,2,8.09,5.91,4.36,2023-02-11
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,hiver,2,8,22,4,1.94,1.17,3.08,2023-02-08
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,été,7,7,14,4,6.75,4.78,7.88,2023-07-07
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,automne,9,14,16,2,3.63,1.98,3.3,2023-09-14
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,hiver,12,1,14,2,10.08,6.67,6.82,2023-12-01
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,été,8,1,20,7,9.26,4.12,35.98,2023-08-01
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,automne,10,30,10,2,16.71,9.43,14.56,2023-10-30
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,printemps,5,13,22,5,5.73,4.49,6.2,2023-05-13
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,hiver,2,13,11,4,12.06,9.61,9.8,2023-02-13
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,automne,11,7,9,4,5.67,4.31,5.44,2023-11-07
+EPICERIE,EPICERIE,Boissons,Perrier,Zone montagne,printemps,3,2,9,5,12.83,5.8,35.15,2023-03-02
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,automne,9,25,14,1,10.2,4.26,5.94,2023-09-25
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,été,7,15,13,2,15.34,10.69,9.3,2023-07-15
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,printemps,3,10,12,1,12.71,6.27,6.44,2023-03-10
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,printemps,5,22,18,1,10.84,5.22,5.62,2023-05-22
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,été,7,9,16,2,14.54,7.29,14.5,2023-07-09
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,été,7,19,18,3,1.62,0.71,2.73,2023-07-19
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,été,7,25,17,5,16.92,8.71,41.05,2023-07-25
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,été,8,13,8,3,6.24,4.14,6.3,2023-08-13
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,automne,11,3,16,2,13.62,6.71,13.82,2023-11-03
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,printemps,5,26,19,1,21.0,16.09,4.91,2023-05-26
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,printemps,3,1,12,6,3.09,2.02,6.42,2023-03-01
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,automne,9,19,12,4,10.85,7.6,13.0,2023-09-19
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,hiver,12,24,16,1,12.31,8.32,3.99,2023-12-24
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,printemps,4,1,14,2,13.24,10.57,5.34,2023-04-01
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,été,6,3,12,2,14.71,9.23,10.96,2023-06-03
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,été,7,15,17,3,8.23,5.37,8.58,2023-07-15
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,printemps,3,27,10,4,21.57,9.71,47.44,2023-03-27
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,automne,11,24,18,3,14.04,10.72,9.96,2023-11-24
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,hiver,1,5,20,3,11.62,6.01,16.83,2023-01-05
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,automne,11,29,19,4,14.0,7.11,27.56,2023-11-29
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,hiver,2,18,16,7,17.15,8.29,62.02,2023-02-18
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,automne,9,4,18,3,8.52,4.64,11.64,2023-09-04
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,hiver,2,15,11,3,5.21,2.27,8.82,2023-02-15
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,été,7,2,18,3,5.12,3.15,5.91,2023-07-02
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,été,6,15,19,6,12.51,9.35,18.96,2023-06-15
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,automne,9,29,10,6,12.06,8.78,19.68,2023-09-29
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,automne,11,23,16,3,10.41,4.94,16.41,2023-11-23
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,hiver,12,16,15,2,19.49,9.0,20.98,2023-12-16
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,automne,11,16,19,2,15.37,6.45,17.84,2023-11-16
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,été,7,3,18,5,12.28,8.18,20.5,2023-07-03
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,automne,10,9,13,2,21.35,12.06,18.58,2023-10-09
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,printemps,5,4,17,2,14.32,7.88,12.88,2023-05-04
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,été,8,18,14,2,1.5,0.62,1.76,2023-08-18
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,hiver,1,20,15,6,9.86,4.49,32.22,2023-01-20
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,été,6,16,20,6,12.84,7.64,31.2,2023-06-16
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,automne,11,25,12,2,2.38,1.72,1.32,2023-11-25
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,automne,10,17,10,3,9.18,6.23,8.85,2023-10-17
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,été,7,24,16,5,11.71,7.95,18.8,2023-07-24
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,hiver,2,6,12,3,19.75,10.45,27.9,2023-02-06
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,été,8,5,13,1,9.69,5.12,4.57,2023-08-05
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,été,6,29,17,4,20.81,15.01,23.2,2023-06-29
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,printemps,4,30,11,3,17.61,8.14,28.41,2023-04-30
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,printemps,5,5,17,4,23.28,17.4,23.52,2023-05-05
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,automne,10,7,16,2,19.13,11.85,14.56,2023-10-07
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,été,7,12,17,4,22.79,13.92,35.48,2023-07-12
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,printemps,5,30,21,2,22.26,12.35,19.82,2023-05-30
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,printemps,5,22,20,5,2.96,1.49,7.35,2023-05-22
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,automne,10,25,16,2,17.58,8.45,18.26,2023-10-25
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,été,7,18,15,2,12.64,5.88,13.52,2023-07-18
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,été,7,31,13,1,12.1,5.71,6.39,2023-07-31
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,printemps,5,9,13,4,17.76,13.55,16.84,2023-05-09
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,hiver,2,14,8,3,4.06,3.24,2.46,2023-02-14
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone montagne,été,7,4,22,3,2.34,1.66,2.04,2023-07-04
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,automne,11,19,16,4,24.7,14.66,40.16,2023-11-19
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,automne,11,8,21,1,8.94,5.45,3.49,2023-11-08
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,automne,10,16,15,5,13.71,8.95,23.8,2023-10-16
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone résidentielle,automne,11,18,15,3,22.46,13.81,25.95,2023-11-18
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,automne,10,23,18,0,9.3,7.13,0.0,2023-10-23
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,hiver,1,23,18,4,21.43,16.05,21.52,2023-01-23
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,printemps,4,13,11,4,8.23,5.04,12.76,2023-04-13
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,automne,10,5,13,2,14.41,7.33,14.16,2023-10-05
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,hiver,2,6,12,3,15.91,8.52,22.17,2023-02-06
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,été,6,20,21,6,6.16,4.33,10.98,2023-06-20
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,printemps,3,9,9,6,20.6,15.82,28.68,2023-03-09
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,automne,9,7,8,4,3.04,1.35,6.76,2023-09-07
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,automne,10,31,17,4,12.38,7.7,18.72,2023-10-31
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,été,8,20,16,6,8.35,5.4,17.7,2023-08-20
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,hiver,2,13,10,4,16.59,9.4,28.76,2023-02-13
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone montagne,printemps,5,18,14,3,23.27,14.67,25.8,2023-05-18
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,printemps,5,24,15,3,13.65,8.32,15.99,2023-05-24
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,automne,11,19,19,7,17.1,11.41,39.83,2023-11-19
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,hiver,1,28,22,3,9.57,6.81,8.28,2023-01-28
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,automne,10,24,10,2,14.96,9.91,10.1,2023-10-24
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,printemps,3,27,15,6,10.87,5.66,31.26,2023-03-27
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,hiver,12,16,19,5,10.67,5.39,26.4,2023-12-16
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,été,8,18,14,6,17.44,13.69,22.5,2023-08-18
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,automne,11,23,13,3,23.97,13.73,30.72,2023-11-23
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,printemps,5,17,20,4,3.81,2.52,5.16,2023-05-17
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone montagne,hiver,1,6,18,8,1.7,0.73,7.76,2023-01-06
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,hiver,2,25,10,1,14.2,8.13,6.07,2023-02-25
+EPICERIE,EPICERIE,Boissons,Oasis,Zone touristique bord de mer,hiver,2,22,8,5,3.21,2.02,5.95,2023-02-22
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,hiver,12,25,13,2,22.76,14.34,16.84,2023-12-25
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,été,7,26,21,1,18.6,13.48,5.12,2023-07-26
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,hiver,12,16,12,3,10.91,7.12,11.37,2023-12-16
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,été,6,24,9,1,21.27,14.98,6.29,2023-06-24
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,1,19,11,2,2.1,1.68,0.84,2023-01-19
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,printemps,3,14,15,3,16.87,9.93,20.82,2023-03-14
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,hiver,1,8,10,3,16.37,12.47,11.7,2023-01-08
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,hiver,12,17,17,3,14.33,7.58,20.25,2023-12-17
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,automne,10,4,16,5,6.65,4.71,9.7,2023-10-04
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,printemps,4,10,9,3,20.22,13.63,19.77,2023-04-10
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,été,6,16,11,2,3.8,2.64,2.32,2023-06-16
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,automne,9,25,15,2,21.76,10.59,22.34,2023-09-25
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,printemps,5,4,9,0,14.62,5.92,0.0,2023-05-04
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,été,7,3,12,2,7.12,5.69,2.86,2023-07-03
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,printemps,3,12,21,1,18.02,8.54,9.48,2023-03-12
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,printemps,5,19,19,5,23.73,14.64,45.45,2023-05-19
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,été,7,16,13,4,12.44,5.18,29.04,2023-07-16
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,été,6,14,13,5,22.6,13.59,45.05,2023-06-14
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,été,8,23,9,1,3.38,2.57,0.81,2023-08-23
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,hiver,12,7,19,3,13.96,8.65,15.93,2023-12-07
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,printemps,3,1,8,5,24.85,15.65,46.0,2023-03-01
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,été,8,31,22,4,8.31,6.46,7.4,2023-08-31
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,été,6,23,19,3,4.14,2.45,5.07,2023-06-23
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,automne,10,12,15,1,18.19,12.77,5.42,2023-10-12
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,automne,9,9,22,2,17.66,8.79,17.74,2023-09-09
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,automne,10,25,8,2,4.93,2.88,4.1,2023-10-25
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone résidentielle,hiver,1,28,12,3,9.99,6.54,10.35,2023-01-28
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,printemps,3,27,16,4,9.08,4.78,17.2,2023-03-27
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,hiver,2,19,16,1,15.13,11.03,4.1,2023-02-19
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,été,8,24,22,2,3.3,2.4,1.8,2023-08-24
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,hiver,12,30,12,2,2.18,1.58,1.2,2023-12-30
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,hiver,1,15,9,4,4.92,3.44,5.92,2023-01-15
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,hiver,12,29,15,1,10.11,6.43,3.68,2023-12-29
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,été,8,13,16,3,16.98,7.37,28.83,2023-08-13
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,automne,11,6,18,0,9.18,4.78,0.0,2023-11-06
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,automne,9,10,20,2,12.45,6.44,12.02,2023-09-10
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,printemps,3,10,12,4,18.32,10.9,29.68,2023-03-10
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,automne,9,15,20,1,19.48,10.44,9.04,2023-09-15
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,printemps,4,14,15,0,16.43,12.97,0.0,2023-04-14
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,printemps,4,18,13,4,20.2,13.34,27.44,2023-04-18
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,automne,11,17,8,4,13.77,7.51,25.04,2023-11-17
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,printemps,5,3,9,1,5.02,2.06,2.96,2023-05-03
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,été,7,6,18,5,16.95,7.39,47.8,2023-07-06
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,automne,10,20,19,2,13.26,5.94,14.64,2023-10-20
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,hiver,2,16,11,4,15.6,11.06,18.16,2023-02-16
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,automne,10,7,14,4,12.66,6.31,25.4,2023-10-07
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,hiver,12,20,22,1,20.04,9.94,10.1,2023-12-20
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,hiver,12,17,9,0,14.07,6.96,0.0,2023-12-17
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,hiver,2,11,21,4,19.82,11.83,31.96,2023-02-11
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,hiver,2,21,21,2,5.27,2.66,5.22,2023-02-21
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,été,6,13,15,2,12.74,8.84,7.8,2023-06-13
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,printemps,4,12,12,1,17.98,8.41,9.57,2023-04-12
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,été,8,11,20,3,23.12,13.44,29.04,2023-08-11
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,printemps,4,15,11,3,23.73,17.21,19.56,2023-04-15
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,été,8,29,10,1,21.98,17.36,4.62,2023-08-29
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,printemps,5,10,16,4,16.06,8.37,30.76,2023-05-10
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,printemps,3,9,9,7,8.96,5.49,24.29,2023-03-09
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,hiver,2,17,11,1,21.9,10.34,11.56,2023-02-17
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,printemps,5,26,18,3,24.56,11.02,40.62,2023-05-26
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,automne,11,1,18,1,1.64,1.29,0.35,2023-11-01
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,automne,10,19,10,4,6.47,2.71,15.04,2023-10-19
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,hiver,2,6,16,4,23.87,13.19,42.72,2023-02-06
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,été,8,28,14,7,3.36,2.42,6.58,2023-08-28
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,hiver,2,25,16,1,11.49,5.03,6.46,2023-02-25
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,printemps,5,11,17,2,3.42,2.06,2.72,2023-05-11
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,automne,10,1,8,3,1.64,0.73,2.73,2023-10-01
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,automne,11,12,13,3,17.73,13.92,11.43,2023-11-12
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,printemps,3,6,10,2,1.83,0.81,2.04,2023-03-06
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,automne,9,7,14,2,12.92,8.22,9.4,2023-09-07
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,automne,9,28,8,1,11.42,6.01,5.41,2023-09-28
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,hiver,12,31,14,6,24.06,17.64,38.52,2023-12-31
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,automne,11,15,11,3,8.14,5.7,7.32,2023-11-15
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,printemps,4,13,10,4,15.74,6.93,35.24,2023-04-13
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,été,8,13,20,3,12.24,9.02,9.66,2023-08-13
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,automne,11,28,13,1,9.36,4.26,5.1,2023-11-28
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,été,7,10,19,5,19.24,10.47,43.85,2023-07-10
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,été,8,4,20,1,6.86,4.94,1.92,2023-08-04
+EPICERIE,EPICERIE,Boissons,Perrier,Zone montagne,été,6,1,14,0,10.95,7.36,0.0,2023-06-01
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,hiver,1,5,21,4,8.07,4.93,12.56,2023-01-05
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,printemps,4,12,22,2,8.59,3.56,10.06,2023-04-12
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,hiver,1,12,8,1,22.42,13.81,8.61,2023-01-12
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,été,6,3,12,5,17.17,12.47,23.5,2023-06-03
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,automne,9,24,19,6,7.32,3.89,20.58,2023-09-24
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,hiver,2,20,10,2,18.22,13.33,9.78,2023-02-20
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,automne,10,14,16,2,19.8,14.83,9.94,2023-10-14
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,hiver,12,19,22,5,23.77,16.47,36.5,2023-12-19
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,été,8,22,15,3,2.27,1.05,3.66,2023-08-22
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,été,7,29,9,3,4.34,2.73,4.83,2023-07-29
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,hiver,2,13,11,3,23.95,14.77,27.54,2023-02-13
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,printemps,4,16,11,8,21.0,15.45,44.4,2023-04-16
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,automne,11,7,13,1,10.94,4.57,6.37,2023-11-07
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,hiver,1,15,14,3,16.39,12.55,11.52,2023-01-15
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,été,8,26,21,3,16.09,10.64,16.35,2023-08-26
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,été,7,22,19,4,4.39,2.0,9.56,2023-07-22
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,automne,11,9,16,4,24.0,12.66,45.36,2023-11-09
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,printemps,5,20,11,2,17.06,9.02,16.08,2023-05-20
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,hiver,2,11,20,2,22.1,14.6,15.0,2023-02-11
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,hiver,12,11,9,6,9.8,7.11,16.14,2023-12-11
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,hiver,12,23,8,4,4.43,2.43,8.0,2023-12-23
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,printemps,3,7,12,1,23.44,17.4,6.04,2023-03-07
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,hiver,12,21,18,3,14.02,7.03,20.97,2023-12-21
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,automne,11,25,18,4,23.66,9.95,54.84,2023-11-25
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,hiver,1,25,12,6,23.08,14.15,53.58,2023-01-25
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,hiver,2,8,22,4,7.37,3.43,15.76,2023-02-08
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,hiver,2,25,15,0,7.1,3.81,0.0,2023-02-25
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,été,8,26,20,5,11.56,7.49,20.35,2023-08-26
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,automne,10,5,20,1,4.92,2.89,2.03,2023-10-05
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,hiver,1,5,16,2,15.28,10.26,10.04,2023-01-05
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,printemps,4,7,18,2,12.68,8.58,8.2,2023-04-07
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone montagne,printemps,4,20,11,3,12.8,9.05,11.25,2023-04-20
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,hiver,1,16,11,3,6.15,2.89,9.78,2023-01-16
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,printemps,3,2,10,2,22.24,10.06,24.36,2023-03-02
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,automne,10,28,11,3,21.58,11.17,31.23,2023-10-28
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,hiver,2,11,20,2,12.56,8.36,8.4,2023-02-11
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,hiver,12,16,21,4,7.95,5.42,10.12,2023-12-16
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,hiver,2,13,13,3,21.38,12.22,27.48,2023-02-13
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,été,8,19,21,3,14.62,8.04,19.74,2023-08-19
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,automne,9,13,20,3,16.98,9.2,23.34,2023-09-13
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,été,6,19,17,3,16.3,10.45,17.55,2023-06-19
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,printemps,4,15,14,3,3.0,1.66,4.02,2023-04-15
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,automne,10,11,9,6,24.89,10.72,85.02,2023-10-11
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,hiver,2,4,9,6,14.39,7.15,43.44,2023-02-04
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,été,7,3,10,3,6.59,2.73,11.58,2023-07-03
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,hiver,12,23,8,2,21.16,15.33,11.66,2023-12-23
+EPICERIE,EPICERIE,Boissons,Oasis,Zone touristique bord de mer,été,8,16,8,7,15.56,6.53,63.21,2023-08-16
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,hiver,1,23,14,0,13.54,9.83,0.0,2023-01-23
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,hiver,2,4,22,1,6.64,3.46,3.18,2023-02-04
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,automne,10,19,10,2,7.42,3.25,8.34,2023-10-19
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,été,8,8,20,2,7.22,3.12,8.2,2023-08-08
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,automne,9,4,9,1,23.85,12.97,10.88,2023-09-04
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,printemps,3,5,14,1,23.41,10.88,12.53,2023-03-05
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,été,8,6,19,3,7.3,4.31,8.97,2023-08-06
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone résidentielle,été,8,7,12,3,17.76,10.66,21.3,2023-08-07
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,hiver,2,15,9,0,16.45,11.69,0.0,2023-02-15
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,été,7,11,10,1,18.05,8.65,9.4,2023-07-11
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,été,7,29,15,5,16.23,10.55,28.4,2023-07-29
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,hiver,2,13,14,2,4.43,1.89,5.08,2023-02-13
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,été,8,31,20,0,9.42,5.39,0.0,2023-08-31
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,hiver,1,9,18,2,9.96,4.17,11.58,2023-01-09
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,automne,11,7,15,4,10.9,7.03,15.48,2023-11-07
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,automne,9,12,20,3,3.55,2.6,2.85,2023-09-12
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,printemps,3,1,15,0,17.07,8.47,0.0,2023-03-01
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,printemps,4,25,12,4,4.22,1.84,9.52,2023-04-25
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,été,7,22,8,4,14.15,8.27,23.52,2023-07-22
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,été,6,8,16,3,24.77,11.13,40.92,2023-06-08
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,automne,9,11,12,2,18.05,9.94,16.22,2023-09-11
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,été,6,15,20,2,20.1,15.0,10.2,2023-06-15
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,hiver,12,22,19,3,3.72,2.37,4.05,2023-12-22
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,hiver,12,25,8,2,10.75,7.82,5.86,2023-12-25
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,automne,10,27,16,2,18.27,13.08,10.38,2023-10-27
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,automne,11,21,19,2,16.67,11.43,10.48,2023-11-21
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,printemps,3,20,13,1,24.82,14.23,10.59,2023-03-20
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,automne,10,18,19,3,7.78,5.97,5.43,2023-10-18
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,été,8,3,19,5,12.26,7.06,26.0,2023-08-03
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,hiver,2,17,10,5,15.02,6.52,42.5,2023-02-17
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,hiver,12,26,16,6,19.12,9.52,57.6,2023-12-26
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,été,8,18,10,5,17.35,13.06,21.45,2023-08-18
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,été,7,7,21,3,4.63,2.51,6.36,2023-07-07
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,printemps,5,29,12,3,12.85,6.5,19.05,2023-05-29
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,automne,11,13,21,0,12.97,7.03,0.0,2023-11-13
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,été,7,1,9,4,1.62,1.22,1.6,2023-07-01
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,automne,9,7,8,4,5.16,3.42,6.96,2023-09-07
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,hiver,12,8,11,3,23.79,18.65,15.42,2023-12-08
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,automne,10,30,18,5,16.41,8.07,41.7,2023-10-30
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,hiver,12,2,21,2,5.98,4.08,3.8,2023-12-02
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,automne,10,17,8,2,20.17,13.67,13.0,2023-10-17
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,automne,9,20,9,3,5.39,3.77,4.86,2023-09-20
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,automne,9,20,15,4,13.34,9.18,16.64,2023-09-20
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,hiver,2,12,19,4,22.27,11.26,44.04,2023-02-12
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,hiver,12,1,12,1,21.95,14.35,7.6,2023-12-01
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone résidentielle,été,6,16,12,5,6.29,4.1,10.95,2023-06-16
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,printemps,3,15,9,4,11.52,6.7,19.28,2023-03-15
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,printemps,3,12,19,1,19.14,7.75,11.39,2023-03-12
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,été,6,19,15,7,5.13,2.17,20.72,2023-06-19
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,hiver,1,23,9,4,14.3,6.31,31.96,2023-01-23
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,hiver,12,18,22,4,18.3,13.92,17.52,2023-12-18
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,printemps,3,18,22,1,17.18,8.94,8.24,2023-03-18
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,hiver,12,2,10,0,9.03,5.02,0.0,2023-12-02
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,automne,10,23,14,4,24.05,12.3,47.0,2023-10-23
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,hiver,12,1,22,5,7.28,4.13,15.75,2023-12-01
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,printemps,5,1,13,4,1.57,1.25,1.28,2023-05-01
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,hiver,12,23,14,1,10.23,6.96,3.27,2023-12-23
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,automne,11,1,21,3,5.22,2.39,8.49,2023-11-01
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,printemps,5,27,9,2,5.16,3.88,2.56,2023-05-27
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,printemps,3,18,8,6,15.3,8.46,41.04,2023-03-18
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,printemps,3,19,18,2,12.38,9.34,6.08,2023-03-19
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,printemps,3,9,13,7,8.33,5.41,20.44,2023-03-09
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,printemps,3,15,20,4,21.96,13.59,33.48,2023-03-15
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,printemps,5,27,14,2,11.11,7.2,7.82,2023-05-27
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone touristique bord de mer,automne,9,20,21,4,16.18,8.5,30.72,2023-09-20
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,automne,11,22,10,7,3.46,1.48,13.86,2023-11-22
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,hiver,12,7,21,0,23.57,16.43,0.0,2023-12-07
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,été,8,23,22,2,4.97,3.71,2.52,2023-08-23
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,été,7,6,8,2,8.6,4.5,8.2,2023-07-06
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,été,7,15,12,3,21.36,14.43,20.79,2023-07-15
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,hiver,2,23,15,3,19.12,12.42,20.1,2023-02-23
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,automne,9,15,17,5,20.44,13.64,34.0,2023-09-15
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,été,6,12,16,2,5.22,2.57,5.3,2023-06-12
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,automne,11,20,17,4,19.93,14.69,20.96,2023-11-20
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,printemps,4,15,9,3,3.69,2.12,4.71,2023-04-15
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,automne,11,13,19,5,14.28,11.27,15.05,2023-11-13
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,été,8,21,18,3,16.34,8.88,22.38,2023-08-21
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,été,8,24,22,0,15.5,6.86,0.0,2023-08-24
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,automne,11,7,8,4,14.09,8.56,22.12,2023-11-07
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone touristique bord de mer,automne,9,4,11,2,23.9,12.89,22.02,2023-09-04
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,été,8,12,16,1,23.74,18.25,5.49,2023-08-12
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,automne,11,27,16,4,9.78,4.03,23.0,2023-11-27
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,hiver,12,16,20,1,11.73,8.51,3.22,2023-12-16
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,hiver,2,22,8,3,6.76,4.94,5.46,2023-02-22
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,été,8,24,9,3,4.47,3.33,3.42,2023-08-24
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,automne,9,25,16,3,7.15,4.23,8.76,2023-09-25
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,hiver,12,2,10,1,21.42,9.47,11.95,2023-12-02
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,hiver,2,24,19,4,4.09,1.66,9.72,2023-02-24
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,printemps,5,20,13,5,3.8,2.51,6.45,2023-05-20
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,printemps,4,7,14,4,5.65,2.88,11.08,2023-04-07
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,hiver,12,15,8,1,16.69,13.08,3.61,2023-12-15
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,printemps,3,29,20,3,6.28,4.11,6.51,2023-03-29
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,hiver,2,18,10,1,13.33,9.07,4.26,2023-02-18
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,été,8,23,8,6,20.95,10.9,60.3,2023-08-23
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,hiver,2,15,11,1,23.14,12.75,10.39,2023-02-15
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,automne,10,29,14,4,23.71,12.1,46.44,2023-10-29
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,été,6,6,8,4,11.61,7.71,15.6,2023-06-06
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,printemps,5,19,10,2,24.9,11.92,25.96,2023-05-19
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,hiver,1,17,15,4,23.42,11.7,46.88,2023-01-17
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,hiver,2,20,22,3,7.64,3.98,10.98,2023-02-20
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone résidentielle,été,8,2,16,1,6.19,3.23,2.96,2023-08-02
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,printemps,3,13,17,2,22.81,16.3,13.02,2023-03-13
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,automne,11,14,16,6,22.65,17.01,33.84,2023-11-14
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,hiver,1,29,12,4,21.0,13.86,28.56,2023-01-29
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,12,12,18,0,21.53,11.2,0.0,2023-12-12
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,printemps,3,4,12,4,11.01,8.73,9.12,2023-03-04
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,automne,9,3,12,5,8.3,3.65,23.25,2023-09-03
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,été,7,20,14,5,17.89,7.92,49.85,2023-07-20
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,été,8,16,8,5,22.84,12.38,52.3,2023-08-16
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone montagne,été,7,19,16,3,2.97,1.97,3.0,2023-07-19
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,hiver,12,24,13,3,15.34,9.7,16.92,2023-12-24
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,hiver,1,24,8,4,21.52,9.98,46.16,2023-01-24
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,été,7,16,20,1,24.37,18.74,5.63,2023-07-16
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,printemps,5,10,15,2,11.78,6.06,11.44,2023-05-10
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,printemps,4,17,17,7,20.95,12.58,58.59,2023-04-17
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,été,6,2,9,2,4.27,2.1,4.34,2023-06-02
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,printemps,4,25,21,6,23.6,18.15,32.7,2023-04-25
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,automne,10,26,15,3,23.52,18.67,14.55,2023-10-26
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,été,8,4,12,5,6.21,4.69,7.6,2023-08-04
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,hiver,1,22,9,4,2.34,1.41,3.72,2023-01-22
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,été,6,5,20,3,21.47,16.93,13.62,2023-06-05
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,hiver,1,27,14,1,19.49,13.22,6.27,2023-01-27
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,automne,10,2,17,3,2.58,1.86,2.16,2023-10-02
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,hiver,1,30,10,2,11.81,6.06,11.5,2023-01-30
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone montagne,printemps,4,18,9,4,10.25,7.45,11.2,2023-04-18
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,automne,10,10,13,2,23.9,13.77,20.26,2023-10-10
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,hiver,12,2,8,2,5.83,3.51,4.64,2023-12-02
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,automne,11,25,14,1,22.08,10.1,11.98,2023-11-25
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,printemps,4,19,20,2,8.86,6.08,5.56,2023-04-19
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,été,7,13,21,3,15.19,10.07,15.36,2023-07-13
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,printemps,3,4,21,3,22.14,15.92,18.66,2023-03-04
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,printemps,5,18,11,4,21.15,10.94,40.84,2023-05-18
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,été,7,5,9,4,9.77,5.88,15.56,2023-07-05
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,été,8,21,8,4,5.42,3.08,9.36,2023-08-21
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,1,18,21,2,11.64,7.87,7.54,2023-01-18
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,printemps,3,2,13,4,22.59,17.15,21.76,2023-03-02
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,hiver,2,7,19,4,23.14,18.05,20.36,2023-02-07
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,été,6,15,14,5,8.99,4.24,23.75,2023-06-15
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,automne,9,8,21,5,20.83,11.41,47.1,2023-09-08
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,automne,9,17,13,1,7.99,5.21,2.78,2023-09-17
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,hiver,1,20,14,3,3.86,2.63,3.69,2023-01-20
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,hiver,12,5,21,5,22.12,9.16,64.8,2023-12-05
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,automne,10,28,14,1,21.99,10.73,11.26,2023-10-28
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,hiver,1,20,14,3,17.67,11.4,18.81,2023-01-20
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,automne,9,5,16,3,16.94,8.0,26.82,2023-09-05
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,printemps,4,23,9,5,24.13,18.31,29.1,2023-04-23
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,été,7,29,11,3,14.95,6.98,23.91,2023-07-29
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,hiver,12,27,13,1,22.94,16.21,6.73,2023-12-27
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,automne,9,23,11,5,10.01,4.8,26.05,2023-09-23
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,automne,9,6,8,3,5.19,2.7,7.47,2023-09-06
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,automne,10,5,17,1,23.1,10.12,12.98,2023-10-05
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,été,6,9,20,5,9.11,5.51,18.0,2023-06-09
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,hiver,2,25,15,3,6.77,5.35,4.26,2023-02-25
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,été,7,26,17,8,21.19,12.91,66.24,2023-07-26
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,printemps,5,10,14,2,8.82,4.72,8.2,2023-05-10
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,été,8,13,21,2,24.34,10.12,28.44,2023-08-13
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,automne,9,23,17,4,7.4,4.33,12.28,2023-09-23
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,été,6,19,9,4,2.94,1.73,4.84,2023-06-19
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,1,2,20,3,6.95,3.38,10.71,2023-01-02
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,automne,9,1,21,3,1.51,0.65,2.58,2023-09-01
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,automne,10,20,21,2,2.22,1.53,1.38,2023-10-20
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,hiver,1,15,17,2,22.52,10.39,24.26,2023-01-15
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,été,8,3,21,2,21.38,9.03,24.7,2023-08-03
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,automne,10,6,12,4,24.61,11.76,51.4,2023-10-06
+EPICERIE,EPICERIE,Boissons,Oasis,Zone touristique bord de mer,hiver,12,30,10,3,22.78,14.46,24.96,2023-12-30
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,hiver,2,15,9,3,23.07,10.91,36.48,2023-02-15
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,été,6,8,8,6,10.41,5.36,30.3,2023-06-08
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,été,8,19,21,1,16.33,11.96,4.37,2023-08-19
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,printemps,4,18,12,5,6.63,3.34,16.45,2023-04-18
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,hiver,12,26,9,0,16.29,12.18,0.0,2023-12-26
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,été,8,31,21,3,7.22,4.98,6.72,2023-08-31
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,été,6,3,8,2,24.31,18.26,12.1,2023-06-03
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,printemps,5,18,17,2,10.92,4.49,12.86,2023-05-18
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone montagne,hiver,12,24,16,2,6.16,4.86,2.6,2023-12-24
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,été,7,11,8,3,12.72,6.84,17.64,2023-07-11
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,automne,11,8,10,3,19.54,10.7,26.52,2023-11-08
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,été,8,6,16,2,19.35,14.48,9.74,2023-08-06
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,été,8,26,12,3,2.44,1.82,1.86,2023-08-26
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,2,13,16,1,3.72,2.57,1.15,2023-02-13
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,été,6,26,15,7,17.69,8.8,62.23,2023-06-26
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,hiver,2,9,13,4,10.26,4.71,22.2,2023-02-09
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,hiver,2,10,13,3,23.29,16.3,20.97,2023-02-10
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone touristique bord de mer,été,8,25,17,6,20.07,13.12,41.7,2023-08-25
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,été,8,4,18,5,15.49,9.55,29.7,2023-08-04
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,automne,11,19,9,3,17.11,11.54,16.71,2023-11-19
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,été,7,26,15,3,19.29,9.92,28.11,2023-07-26
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,hiver,1,12,19,6,15.63,11.19,26.64,2023-01-12
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,hiver,12,17,17,1,11.93,5.93,6.0,2023-12-17
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,été,8,2,12,2,22.26,13.69,17.14,2023-08-02
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,automne,9,4,21,6,18.56,9.6,53.76,2023-09-04
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,été,6,25,12,4,17.7,9.42,33.12,2023-06-25
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,été,7,9,17,2,10.02,5.18,9.68,2023-07-09
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,automne,9,1,19,3,11.84,6.13,17.13,2023-09-01
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,printemps,5,30,21,3,10.53,6.89,10.92,2023-05-30
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,automne,11,13,22,5,5.5,2.96,12.7,2023-11-13
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,printemps,3,31,15,3,22.58,9.16,40.26,2023-03-31
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,été,7,2,15,3,12.29,9.4,8.67,2023-07-02
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,automne,10,18,16,1,7.33,3.68,3.65,2023-10-18
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,printemps,4,27,19,4,18.36,8.65,38.84,2023-04-27
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,printemps,4,8,19,2,21.02,8.94,24.16,2023-04-08
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,hiver,1,5,17,0,11.6,8.84,0.0,2023-01-05
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,automne,11,22,17,4,19.26,15.35,15.64,2023-11-22
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,automne,9,30,11,4,9.52,6.39,12.52,2023-09-30
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,printemps,4,4,15,0,1.65,1.25,0.0,2023-04-04
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,printemps,4,2,9,2,19.37,12.96,12.82,2023-04-02
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,hiver,12,4,14,1,17.66,13.48,4.18,2023-12-04
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,printemps,3,19,21,3,5.03,2.61,7.26,2023-03-19
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,printemps,4,20,10,4,9.05,4.44,18.44,2023-04-20
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,hiver,1,9,17,1,11.77,4.86,6.91,2023-01-09
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,automne,10,22,13,2,16.41,11.38,10.06,2023-10-22
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,automne,9,30,10,1,20.27,14.97,5.3,2023-09-30
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,hiver,12,21,19,4,20.77,11.9,35.48,2023-12-21
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,printemps,4,16,12,3,5.77,2.37,10.2,2023-04-16
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,été,6,28,9,5,9.2,4.84,21.8,2023-06-28
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,hiver,1,4,14,3,20.38,11.42,26.88,2023-01-04
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,printemps,5,8,10,3,14.77,6.66,24.33,2023-05-08
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,été,8,1,21,4,5.2,2.44,11.04,2023-08-01
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,été,7,6,22,4,23.24,16.61,26.52,2023-07-06
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,été,6,19,8,5,22.39,9.26,65.65,2023-06-19
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,automne,10,20,11,4,4.46,2.7,7.04,2023-10-20
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,été,6,17,14,1,10.31,4.72,5.59,2023-06-17
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,automne,11,20,8,2,20.16,15.96,8.4,2023-11-20
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,été,7,7,14,3,16.59,13.04,10.65,2023-07-07
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,été,7,5,16,2,6.91,5.38,3.06,2023-07-05
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone résidentielle,hiver,2,21,18,3,5.39,3.52,5.61,2023-02-21
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,automne,10,4,17,2,11.46,5.51,11.9,2023-10-04
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,été,8,16,10,3,17.3,12.18,15.36,2023-08-16
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,printemps,3,28,22,7,18.18,13.57,32.27,2023-03-28
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,hiver,12,26,14,7,11.41,7.48,27.51,2023-12-26
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,automne,9,23,21,4,23.24,12.85,41.56,2023-09-23
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,automne,10,22,9,2,4.26,3.01,2.5,2023-10-22
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone résidentielle,printemps,5,16,21,3,18.12,9.79,24.99,2023-05-16
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,automne,10,3,10,0,10.85,7.36,0.0,2023-10-03
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,printemps,4,26,15,3,20.91,10.42,31.47,2023-04-26
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,automne,10,12,16,2,24.96,11.9,26.12,2023-10-12
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,été,8,9,13,6,10.07,7.76,13.86,2023-08-09
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone montagne,printemps,3,7,9,1,24.55,17.52,7.03,2023-03-07
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,automne,11,6,11,4,18.42,12.66,23.04,2023-11-06
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,printemps,5,18,17,1,21.16,12.36,8.8,2023-05-18
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,hiver,12,28,10,1,3.0,1.63,1.37,2023-12-28
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,automne,11,3,15,4,11.62,8.2,13.68,2023-11-03
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,automne,11,29,22,2,13.13,5.88,14.5,2023-11-29
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,printemps,4,4,9,3,8.81,4.15,13.98,2023-04-04
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,hiver,2,18,16,1,7.56,5.68,1.88,2023-02-18
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,printemps,3,1,18,0,14.53,7.78,0.0,2023-03-01
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,automne,11,26,11,1,8.14,3.7,4.44,2023-11-26
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,hiver,1,25,16,2,2.16,1.7,0.92,2023-01-25
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,été,7,9,18,6,17.93,13.7,25.38,2023-07-09
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,printemps,5,4,18,3,20.62,15.1,16.56,2023-05-04
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,hiver,12,30,21,2,22.7,11.89,21.62,2023-12-30
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,été,8,1,21,6,11.22,5.74,32.88,2023-08-01
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,printemps,5,27,12,4,21.6,10.9,42.8,2023-05-27
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,printemps,5,9,22,5,5.62,3.29,11.65,2023-05-09
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,printemps,3,20,12,4,13.38,6.56,27.28,2023-03-20
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,hiver,1,13,21,2,11.85,8.74,6.22,2023-01-13
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,printemps,3,24,10,3,14.36,7.57,20.37,2023-03-24
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,printemps,3,15,22,5,3.94,1.94,10.0,2023-03-15
+EPICERIE,EPICERIE,Boissons,Perrier,Zone montagne,hiver,2,7,8,4,16.75,12.8,15.8,2023-02-07
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,été,7,18,15,0,22.89,11.33,0.0,2023-07-18
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,printemps,4,22,13,2,14.46,6.69,15.54,2023-04-22
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone montagne,printemps,3,21,18,3,10.94,7.8,9.42,2023-03-21
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,été,6,23,19,4,5.62,2.93,10.76,2023-06-23
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,été,8,1,9,2,14.01,9.07,9.88,2023-08-01
+EPICERIE,EPICERIE,Boissons,Perrier,Zone montagne,hiver,1,10,12,5,10.45,7.96,12.45,2023-01-10
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,hiver,2,16,8,3,11.67,7.87,11.4,2023-02-16
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,automne,9,17,8,2,3.37,2.66,1.42,2023-09-17
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,été,8,7,12,3,20.88,14.49,19.17,2023-08-07
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,printemps,5,25,20,5,5.29,2.25,15.2,2023-05-25
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,été,6,13,17,4,19.63,15.03,18.4,2023-06-13
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,printemps,5,15,19,3,21.23,12.32,26.73,2023-05-15
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,été,6,3,20,2,12.99,8.03,9.92,2023-06-03
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,printemps,3,29,8,4,17.74,10.0,30.96,2023-03-29
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,automne,9,23,15,1,20.39,11.55,8.84,2023-09-23
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,automne,9,29,12,3,9.52,5.23,12.87,2023-09-29
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone montagne,été,8,31,9,3,1.92,1.05,2.61,2023-08-31
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,automne,9,19,22,2,3.75,2.63,2.24,2023-09-19
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,automne,9,9,15,1,15.66,11.84,3.82,2023-09-09
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,été,7,19,20,1,6.04,4.28,1.76,2023-07-19
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,été,8,31,11,1,6.75,2.71,4.04,2023-08-31
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone montagne,printemps,5,25,11,2,20.08,11.43,17.3,2023-05-25
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,printemps,5,21,15,2,7.98,5.45,5.06,2023-05-21
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,hiver,2,15,21,1,6.37,2.95,3.42,2023-02-15
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,hiver,1,22,11,1,19.33,15.08,4.25,2023-01-22
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,hiver,12,9,19,1,17.88,11.09,6.79,2023-12-09
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,automne,9,18,22,1,20.98,11.73,9.25,2023-09-18
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,2,27,8,0,10.61,4.7,0.0,2023-02-27
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,été,7,23,18,3,10.37,4.3,18.21,2023-07-23
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone touristique bord de mer,été,7,28,10,4,15.13,8.3,27.32,2023-07-28
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,automne,9,17,22,3,21.7,14.11,22.77,2023-09-17
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,printemps,3,13,21,4,20.12,14.69,21.72,2023-03-13
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,1,1,22,4,20.15,12.13,32.08,2023-01-01
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,hiver,1,20,15,4,19.34,8.41,43.72,2023-01-20
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,hiver,2,5,16,3,5.76,2.94,8.46,2023-02-05
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,automne,10,27,9,3,17.91,10.68,21.69,2023-10-27
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,été,6,4,10,1,6.75,5.04,1.71,2023-06-04
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,hiver,12,25,22,2,4.23,1.97,4.52,2023-12-25
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,automne,9,17,22,2,7.22,5.57,3.3,2023-09-17
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,printemps,5,15,15,4,3.07,2.2,3.48,2023-05-15
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,hiver,12,22,16,6,23.2,14.9,49.8,2023-12-22
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,été,6,22,9,2,17.75,14.02,7.46,2023-06-22
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,automne,11,19,12,2,23.45,17.59,11.72,2023-11-19
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,été,6,15,22,4,7.13,3.4,14.92,2023-06-15
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,hiver,12,19,12,4,5.96,4.02,7.76,2023-12-19
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,été,8,25,17,5,13.72,6.13,37.95,2023-08-25
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,automne,11,3,20,5,16.39,8.77,38.1,2023-11-03
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,été,7,20,15,5,18.35,14.18,20.85,2023-07-20
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,hiver,12,5,17,3,2.91,1.29,4.86,2023-12-05
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,printemps,5,4,11,3,6.68,4.28,7.2,2023-05-04
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,printemps,3,5,9,3,7.29,4.1,9.57,2023-03-05
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,printemps,4,17,11,3,8.88,4.99,11.67,2023-04-17
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,été,8,20,19,1,20.3,11.28,9.02,2023-08-20
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone montagne,été,8,29,14,3,22.53,11.14,34.17,2023-08-29
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,été,6,16,21,4,5.54,2.82,10.88,2023-06-16
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,automne,9,26,22,2,11.08,6.66,8.84,2023-09-26
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,été,7,22,11,3,4.84,3.68,3.48,2023-07-22
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,été,6,19,18,2,18.29,12.67,11.24,2023-06-19
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,printemps,4,11,9,2,16.0,8.16,15.68,2023-04-11
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,automne,10,23,16,1,14.38,10.94,3.44,2023-10-23
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,printemps,3,21,18,5,17.53,12.04,27.45,2023-03-21
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,hiver,1,12,14,3,12.86,6.83,18.09,2023-01-12
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,hiver,1,27,17,2,8.56,6.38,4.36,2023-01-27
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,été,8,30,10,1,2.27,1.17,1.1,2023-08-30
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,automne,11,7,11,2,17.69,7.3,20.78,2023-11-07
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,été,6,8,18,5,9.18,4.56,23.1,2023-06-08
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,été,8,11,14,1,4.38,2.88,1.5,2023-08-11
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,été,8,31,18,1,2.3,1.06,1.24,2023-08-31
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,été,7,20,22,3,13.93,8.86,15.21,2023-07-20
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,été,8,21,19,4,15.39,7.94,29.8,2023-08-21
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone touristique bord de mer,été,6,3,22,5,16.82,6.99,49.15,2023-06-03
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,automne,10,25,11,2,14.05,8.72,10.66,2023-10-25
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,automne,11,28,11,4,23.74,9.69,56.2,2023-11-28
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,printemps,3,21,21,2,4.35,3.37,1.96,2023-03-21
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,hiver,12,9,17,4,8.04,3.48,18.24,2023-12-09
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,printemps,3,16,13,3,5.27,3.83,4.32,2023-03-16
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone touristique bord de mer,hiver,1,16,13,1,21.56,15.46,6.1,2023-01-16
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,hiver,12,3,22,1,22.95,13.72,9.23,2023-12-03
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,hiver,2,13,10,3,21.31,13.59,23.16,2023-02-13
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,été,8,31,15,4,14.51,9.01,22.0,2023-08-31
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,printemps,5,24,13,3,21.47,17.02,13.35,2023-05-24
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,été,6,7,19,0,8.55,3.5,0.0,2023-06-07
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,automne,10,23,21,6,17.73,9.2,51.18,2023-10-23
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,hiver,1,21,12,1,23.09,13.12,9.97,2023-01-21
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,printemps,3,12,9,3,3.72,2.89,2.49,2023-03-12
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,été,8,29,11,1,18.63,8.4,10.23,2023-08-29
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,hiver,1,3,18,4,13.79,7.02,27.08,2023-01-03
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone montagne,printemps,5,2,8,1,11.6,7.49,4.11,2023-05-02
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,automne,11,12,21,5,22.4,15.29,35.55,2023-11-12
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,automne,11,25,17,2,4.32,2.89,2.86,2023-11-25
+EPICERIE,EPICERIE,Boissons,Oasis,Zone touristique bord de mer,été,7,30,14,6,17.0,11.43,33.42,2023-07-30
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,printemps,5,21,14,4,2.65,1.06,6.36,2023-05-21
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,été,6,28,12,2,16.64,9.65,13.98,2023-06-28
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,printemps,5,19,10,7,12.79,7.36,38.01,2023-05-19
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,été,7,9,16,5,7.49,3.29,21.0,2023-07-09
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,hiver,1,11,9,1,14.83,11.18,3.65,2023-01-11
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,automne,9,28,8,2,5.0,2.04,5.92,2023-09-28
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,été,6,24,8,2,12.8,6.08,13.44,2023-06-24
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,hiver,12,23,20,4,7.89,3.79,16.4,2023-12-23
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,été,6,24,22,4,7.06,3.16,15.6,2023-06-24
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,été,7,30,22,5,9.27,4.04,26.15,2023-07-30
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,hiver,1,1,14,2,17.86,13.82,8.08,2023-01-01
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,printemps,3,23,15,0,10.39,4.87,0.0,2023-03-23
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,printemps,3,22,21,2,24.93,15.29,19.28,2023-03-22
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,printemps,3,30,17,4,21.16,12.23,35.72,2023-03-30
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,printemps,3,1,20,2,17.82,13.55,8.54,2023-03-01
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,printemps,4,3,16,1,22.08,15.89,6.19,2023-04-03
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,automne,11,16,15,8,3.18,2.19,7.92,2023-11-16
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,été,8,24,10,3,17.51,13.96,10.65,2023-08-24
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,printemps,3,26,20,2,18.94,12.4,13.08,2023-03-26
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,printemps,3,23,9,4,14.33,6.58,31.0,2023-03-23
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,automne,9,9,16,3,22.89,9.86,39.09,2023-09-09
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone touristique bord de mer,hiver,12,5,8,5,10.11,7.37,13.7,2023-12-05
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,hiver,1,21,18,3,12.54,7.06,16.44,2023-01-21
+EPICERIE,EPICERIE,Boissons,Oasis,Zone touristique bord de mer,automne,11,26,10,1,14.37,8.47,5.9,2023-11-26
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,hiver,12,16,10,2,8.41,6.59,3.64,2023-12-16
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,été,8,29,14,3,8.73,6.26,7.41,2023-08-29
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone touristique bord de mer,printemps,3,10,15,3,15.84,10.75,15.27,2023-03-10
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,hiver,12,18,18,3,2.85,2.11,2.22,2023-12-18
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,printemps,5,4,17,4,3.65,2.45,4.8,2023-05-04
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,printemps,4,17,21,2,2.12,1.54,1.16,2023-04-17
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,hiver,2,27,16,0,4.51,2.88,0.0,2023-02-27
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,automne,10,2,14,1,23.61,9.85,13.76,2023-10-02
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,printemps,3,1,19,1,4.53,3.23,1.3,2023-03-01
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,printemps,3,20,18,2,12.21,6.45,11.52,2023-03-20
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,printemps,4,22,12,4,22.59,12.25,41.36,2023-04-22
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,printemps,4,19,11,3,16.66,10.76,17.7,2023-04-19
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,printemps,5,11,17,4,20.47,11.49,35.92,2023-05-11
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,automne,10,21,20,5,10.33,7.36,14.85,2023-10-21
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,été,6,19,17,2,3.92,1.6,4.64,2023-06-19
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,printemps,4,8,9,3,5.85,4.17,5.04,2023-04-08
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,hiver,12,3,22,3,14.69,5.98,26.13,2023-12-03
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,hiver,1,16,16,1,20.41,14.57,5.84,2023-01-16
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,été,7,28,18,4,3.21,2.35,3.44,2023-07-28
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,printemps,3,26,15,2,19.18,7.68,23.0,2023-03-26
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,été,7,20,22,2,22.3,9.48,25.64,2023-07-20
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,hiver,2,3,14,2,13.9,8.96,9.88,2023-02-03
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,automne,11,17,21,0,12.64,7.0,0.0,2023-11-17
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,printemps,4,10,11,2,6.26,3.09,6.34,2023-04-10
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,été,8,7,21,3,20.92,15.69,15.69,2023-08-07
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,printemps,4,1,16,4,17.52,9.24,33.12,2023-04-01
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,hiver,12,15,22,4,24.87,14.46,41.64,2023-12-15
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,printemps,5,1,22,5,11.02,7.85,15.85,2023-05-01
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,automne,10,4,15,3,23.52,15.87,22.95,2023-10-04
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone montagne,été,7,23,15,2,19.24,15.04,8.4,2023-07-23
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,été,8,9,17,3,15.81,8.15,22.98,2023-08-09
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,hiver,1,20,21,5,9.28,3.84,27.2,2023-01-20
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone montagne,été,8,10,19,1,15.56,10.53,5.03,2023-08-10
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,automne,11,7,13,2,21.38,13.77,15.22,2023-11-07
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,printemps,5,26,13,4,12.12,7.49,18.52,2023-05-26
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,automne,9,30,15,0,10.54,4.85,0.0,2023-09-30
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,automne,9,12,19,2,21.37,15.7,11.34,2023-09-12
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,hiver,1,1,14,2,16.62,11.18,10.88,2023-01-01
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,automne,10,5,10,3,19.79,10.63,27.48,2023-10-05
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,printemps,4,24,21,2,23.6,14.6,18.0,2023-04-24
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,printemps,3,26,12,2,3.37,2.27,2.2,2023-03-26
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,printemps,4,25,21,7,24.8,14.92,69.16,2023-04-25
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,hiver,1,14,18,6,13.01,6.57,38.64,2023-01-14
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,automne,9,4,17,5,12.88,5.39,37.45,2023-09-04
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,hiver,1,20,9,2,21.21,10.27,21.88,2023-01-20
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,été,8,7,15,6,21.51,9.0,75.06,2023-08-07
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,printemps,5,26,20,3,20.12,8.33,35.37,2023-05-26
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,hiver,1,31,17,5,18.71,8.47,51.2,2023-01-31
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,printemps,3,27,10,1,13.08,7.0,6.08,2023-03-27
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,été,6,20,8,3,4.7,3.48,3.66,2023-06-20
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,automne,10,12,19,0,5.78,2.54,0.0,2023-10-12
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,hiver,12,20,22,3,6.72,3.89,8.49,2023-12-20
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,printemps,3,18,19,1,1.65,0.9,0.75,2023-03-18
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone touristique bord de mer,printemps,4,18,9,2,13.86,10.01,7.7,2023-04-18
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,automne,11,17,12,1,16.17,6.85,9.32,2023-11-17
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,printemps,5,6,14,4,7.67,3.56,16.44,2023-05-06
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,hiver,1,13,16,1,5.38,3.17,2.21,2023-01-13
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,printemps,4,1,20,5,5.75,3.11,13.2,2023-04-01
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,printemps,5,4,19,5,3.9,1.64,11.3,2023-05-04
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,printemps,5,1,16,2,14.44,7.14,14.6,2023-05-01
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone montagne,été,6,7,12,5,11.32,6.74,22.9,2023-06-07
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,printemps,3,24,20,2,10.74,5.36,10.76,2023-03-24
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,automne,11,6,21,4,21.43,13.56,31.48,2023-11-06
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,automne,9,12,19,2,4.14,2.47,3.34,2023-09-12
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,été,7,23,19,6,20.08,14.96,30.72,2023-07-23
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,hiver,1,23,12,2,19.38,11.54,15.68,2023-01-23
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,hiver,12,17,11,3,17.79,12.25,16.62,2023-12-17
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,été,8,24,9,0,9.65,7.23,0.0,2023-08-24
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,hiver,2,17,12,1,6.17,3.15,3.02,2023-02-17
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,automne,11,10,21,1,6.11,2.46,3.65,2023-11-10
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,été,7,15,14,0,3.96,3.03,0.0,2023-07-15
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,automne,11,15,19,3,18.65,7.74,32.73,2023-11-15
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,été,6,22,11,4,14.1,9.36,18.96,2023-06-22
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,automne,11,2,13,2,4.51,3.06,2.9,2023-11-02
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,hiver,1,17,11,1,2.88,1.17,1.71,2023-01-17
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,hiver,1,14,20,2,22.92,16.43,12.98,2023-01-14
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,été,7,24,12,1,19.44,8.48,10.96,2023-07-24
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,printemps,3,17,17,0,2.22,1.53,0.0,2023-03-17
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,hiver,12,27,14,2,15.51,9.28,12.46,2023-12-27
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,hiver,1,2,13,3,7.36,5.88,4.44,2023-01-02
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,automne,11,7,16,1,24.76,16.23,8.53,2023-11-07
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,automne,10,30,15,5,17.6,12.77,24.15,2023-10-30
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,automne,10,19,22,5,4.18,2.69,7.45,2023-10-19
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,hiver,2,12,15,5,24.12,16.7,37.1,2023-02-12
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,hiver,1,16,21,2,20.78,8.9,23.76,2023-01-16
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,automne,10,1,10,2,5.28,2.37,5.82,2023-10-01
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,printemps,5,13,16,5,2.6,1.53,5.35,2023-05-13
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,printemps,5,26,18,2,22.5,15.22,14.56,2023-05-26
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,été,7,1,9,3,19.81,11.57,24.72,2023-07-01
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,automne,11,24,8,5,22.29,17.17,25.6,2023-11-24
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,automne,10,7,11,3,18.43,14.27,12.48,2023-10-07
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,printemps,5,21,16,4,14.35,5.74,34.44,2023-05-21
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone montagne,été,7,24,16,1,17.87,8.78,9.09,2023-07-24
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,hiver,1,12,17,1,21.08,9.18,11.9,2023-01-12
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,hiver,2,25,11,0,6.51,4.48,0.0,2023-02-25
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,automne,10,5,22,1,18.64,13.92,4.72,2023-10-05
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,automne,10,9,15,3,8.82,5.32,10.5,2023-10-09
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,été,6,24,17,5,7.64,4.01,18.15,2023-06-24
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,automne,11,11,10,4,18.48,12.42,24.24,2023-11-11
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,automne,10,24,12,3,9.2,5.89,9.93,2023-10-24
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,hiver,1,5,19,1,23.4,13.34,10.06,2023-01-05
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,printemps,5,20,15,3,4.67,3.21,4.38,2023-05-20
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,automne,10,11,13,6,24.38,15.95,50.58,2023-10-11
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,automne,11,11,20,3,18.81,14.88,11.79,2023-11-11
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,été,8,13,22,4,19.68,13.89,23.16,2023-08-13
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,hiver,2,7,22,2,12.66,8.68,7.96,2023-02-07
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,automne,11,7,20,3,10.6,5.29,15.93,2023-11-07
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,été,7,22,15,1,12.64,6.51,6.13,2023-07-22
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,printemps,5,4,18,0,15.5,7.11,0.0,2023-05-04
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,hiver,2,1,12,3,24.84,13.06,35.34,2023-02-01
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,printemps,5,21,21,4,12.06,5.49,26.28,2023-05-21
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,automne,9,21,22,3,2.66,1.68,2.94,2023-09-21
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,hiver,1,6,16,4,3.46,1.79,6.68,2023-01-06
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,hiver,1,2,11,7,18.73,14.94,26.53,2023-01-02
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,hiver,2,8,13,5,1.96,1.32,3.2,2023-02-08
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,hiver,2,14,19,4,3.62,2.67,3.8,2023-02-14
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,automne,9,25,17,2,1.85,1.31,1.08,2023-09-25
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,été,7,18,17,4,12.29,4.99,29.2,2023-07-18
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,hiver,1,12,9,6,4.62,3.48,6.84,2023-01-12
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,hiver,2,17,17,4,18.25,10.24,32.04,2023-02-17
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,hiver,1,28,20,0,18.12,14.46,0.0,2023-01-28
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,automne,9,12,21,1,1.5,0.94,0.56,2023-09-12
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,printemps,4,23,22,4,18.05,9.69,33.44,2023-04-23
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,été,8,20,11,8,3.62,2.89,5.84,2023-08-20
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,automne,10,22,13,2,24.41,15.72,17.38,2023-10-22
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,hiver,1,28,21,5,14.88,7.14,38.7,2023-01-28
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,2,5,15,5,22.47,10.91,57.8,2023-02-05
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,automne,9,26,20,0,22.21,11.03,0.0,2023-09-26
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,été,7,6,14,3,5.25,3.29,5.88,2023-07-06
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,automne,10,4,22,0,9.33,6.59,0.0,2023-10-04
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,été,6,1,19,3,23.65,15.91,23.22,2023-06-01
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,printemps,3,22,21,2,11.32,8.21,6.22,2023-03-22
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,hiver,12,29,19,2,15.36,8.39,13.94,2023-12-29
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,automne,10,7,14,3,18.35,10.84,22.53,2023-10-07
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,printemps,4,24,12,2,9.28,4.07,10.42,2023-04-24
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,hiver,1,3,18,2,19.46,12.0,14.92,2023-01-03
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,automne,10,16,16,1,20.06,12.38,7.68,2023-10-16
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,hiver,1,28,10,2,14.45,9.33,10.24,2023-01-28
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,printemps,3,11,18,3,23.72,10.05,41.01,2023-03-11
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,été,8,4,13,6,15.07,10.31,28.56,2023-08-04
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,automne,11,18,19,4,1.81,0.75,4.24,2023-11-18
+EPICERIE,EPICERIE,Boissons,Oasis,Zone touristique bord de mer,été,7,13,21,9,15.79,11.75,36.36,2023-07-13
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,été,8,3,15,6,1.83,0.77,6.36,2023-08-03
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,automne,10,18,14,1,9.58,4.99,4.59,2023-10-18
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,printemps,4,8,10,5,21.39,11.85,47.7,2023-04-08
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,automne,9,10,17,2,23.83,15.42,16.82,2023-09-10
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,automne,11,24,11,0,18.52,14.13,0.0,2023-11-24
+EPICERIE,EPICERIE,Boissons,Perrier,Zone montagne,automne,10,20,18,4,10.44,5.1,21.36,2023-10-20
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,printemps,5,25,15,5,24.39,11.58,64.05,2023-05-25
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,été,7,11,19,3,7.78,5.8,5.94,2023-07-11
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,été,6,19,20,2,12.16,7.72,8.88,2023-06-19
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,été,7,4,11,3,11.76,7.36,13.2,2023-07-04
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,automne,11,13,22,4,23.59,14.23,37.44,2023-11-13
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,printemps,3,22,14,0,20.69,10.77,0.0,2023-03-22
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,printemps,5,24,13,6,5.18,2.82,14.16,2023-05-24
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,automne,9,16,20,3,12.33,6.25,18.24,2023-09-16
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,automne,9,12,11,6,16.61,7.73,53.28,2023-09-12
+EPICERIE,EPICERIE,Boissons,Perrier,Zone montagne,été,7,30,20,1,9.52,6.63,2.89,2023-07-30
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,printemps,3,20,21,4,11.82,7.27,18.2,2023-03-20
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,automne,11,4,18,4,5.88,4.06,7.28,2023-11-04
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,printemps,3,28,10,3,16.54,11.72,14.46,2023-03-28
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,hiver,1,20,9,4,1.83,0.82,4.04,2023-01-20
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,automne,9,10,18,4,20.15,13.14,28.04,2023-09-10
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,automne,9,2,11,5,9.12,6.4,13.6,2023-09-02
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,automne,11,8,12,4,7.46,3.44,16.08,2023-11-08
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,printemps,4,2,19,2,24.02,13.5,21.04,2023-04-02
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,été,6,6,20,3,4.37,2.73,4.92,2023-06-06
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,automne,10,31,11,2,15.39,8.93,12.92,2023-10-31
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,automne,11,5,9,2,16.3,9.01,14.58,2023-11-05
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,hiver,2,15,14,2,20.68,11.46,18.44,2023-02-15
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,automne,10,19,19,3,10.43,5.51,14.76,2023-10-19
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,printemps,5,25,14,5,16.95,8.46,42.45,2023-05-25
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,printemps,5,22,17,1,12.1,5.94,6.16,2023-05-22
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,hiver,1,25,17,4,9.21,5.23,15.92,2023-01-25
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,hiver,12,9,21,4,14.03,9.94,16.36,2023-12-09
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,printemps,5,8,10,5,3.93,1.58,11.75,2023-05-08
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,hiver,12,20,10,3,4.21,2.49,5.16,2023-12-20
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,hiver,2,28,11,2,18.75,10.96,15.58,2023-02-28
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,été,8,9,20,6,3.35,2.11,7.44,2023-08-09
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,printemps,4,10,12,2,12.25,5.8,12.9,2023-04-10
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,printemps,5,24,14,1,19.2,15.05,4.15,2023-05-24
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,printemps,3,25,10,5,17.06,7.73,46.65,2023-03-25
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,automne,11,25,18,1,17.74,9.37,8.37,2023-11-25
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,automne,9,16,21,2,23.38,11.03,24.7,2023-09-16
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,été,8,21,21,4,2.66,1.94,2.88,2023-08-21
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,printemps,4,2,17,1,8.98,6.77,2.21,2023-04-02
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,automne,10,13,15,2,5.77,2.36,6.82,2023-10-13
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,été,6,10,11,3,20.02,11.6,25.26,2023-06-10
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,printemps,5,18,10,0,12.13,7.27,0.0,2023-05-18
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,printemps,5,6,15,1,17.21,12.48,4.73,2023-05-06
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,été,6,1,18,1,19.45,9.18,10.27,2023-06-01
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,printemps,4,10,11,5,18.51,9.06,47.25,2023-04-10
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,automne,10,21,16,5,21.51,10.54,54.85,2023-10-21
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,été,8,11,19,2,4.54,2.35,4.38,2023-08-11
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,automne,11,11,15,2,5.11,3.6,3.02,2023-11-11
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,hiver,12,20,16,3,3.77,1.75,6.06,2023-12-20
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,hiver,1,11,8,4,6.65,3.81,11.36,2023-01-11
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone montagne,automne,11,10,8,3,2.9,1.62,3.84,2023-11-10
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,été,8,12,22,2,7.24,3.55,7.38,2023-08-12
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone montagne,été,7,17,18,1,20.06,15.72,4.34,2023-07-17
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,été,8,21,9,2,7.32,4.54,5.56,2023-08-21
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,printemps,5,7,20,0,3.26,1.47,0.0,2023-05-07
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,été,8,24,22,1,13.32,5.92,7.4,2023-08-24
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,hiver,12,21,12,4,9.72,5.82,15.6,2023-12-21
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,hiver,12,26,14,6,10.36,7.03,19.98,2023-12-26
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,hiver,12,18,18,3,13.2,8.23,14.91,2023-12-18
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,printemps,5,22,9,5,23.91,11.42,62.45,2023-05-22
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,été,7,30,15,7,7.2,5.3,13.3,2023-07-30
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,automne,10,25,16,0,20.5,9.08,0.0,2023-10-25
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone montagne,été,7,21,22,2,1.73,1.36,0.74,2023-07-21
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,automne,10,6,10,4,7.86,5.76,8.4,2023-10-06
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,hiver,1,8,10,3,23.25,13.46,29.37,2023-01-08
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,automne,11,2,13,3,16.66,6.78,29.64,2023-11-02
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,automne,9,29,15,1,5.31,3.99,1.32,2023-09-29
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,printemps,5,13,15,5,8.72,6.63,10.45,2023-05-13
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,été,7,21,10,3,16.97,13.21,11.28,2023-07-21
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,été,6,16,10,2,5.75,3.84,3.82,2023-06-16
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,automne,11,11,9,7,12.04,5.08,48.72,2023-11-11
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,automne,9,3,16,1,12.67,5.12,7.55,2023-09-03
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,hiver,12,17,9,1,8.87,3.98,4.89,2023-12-17
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,hiver,12,5,11,5,23.27,16.09,35.9,2023-12-05
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,printemps,5,23,21,9,10.47,4.55,53.28,2023-05-23
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,printemps,4,2,10,1,3.18,2.22,0.96,2023-04-02
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,printemps,4,4,19,7,6.61,2.72,27.23,2023-04-04
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,automne,10,2,9,1,19.72,12.45,7.27,2023-10-02
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,été,6,22,17,4,1.77,1.29,1.92,2023-06-22
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,été,8,16,15,5,15.06,8.26,34.0,2023-08-16
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,printemps,5,4,20,3,15.24,6.16,27.24,2023-05-04
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,été,6,7,10,4,16.69,8.78,31.64,2023-06-07
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,hiver,1,22,12,4,9.2,6.92,9.12,2023-01-22
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,été,7,25,10,2,23.0,9.93,26.14,2023-07-25
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,printemps,5,6,11,4,9.8,7.05,11.0,2023-05-06
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,été,8,30,15,2,5.77,2.37,6.8,2023-08-30
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,hiver,2,23,17,5,24.98,14.61,51.85,2023-02-23
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,automne,9,11,14,1,7.61,5.35,2.26,2023-09-11
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,printemps,3,30,10,3,13.38,9.44,11.82,2023-03-30
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone montagne,été,8,21,10,1,21.38,9.61,11.77,2023-08-21
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,printemps,4,16,16,2,12.54,8.29,8.5,2023-04-16
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,printemps,4,21,10,3,7.86,6.28,4.74,2023-04-21
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,été,7,19,12,5,21.84,13.75,40.45,2023-07-19
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,été,6,23,15,2,12.68,6.66,12.04,2023-06-23
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,printemps,4,26,22,2,4.57,2.58,3.98,2023-04-26
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,hiver,1,13,18,2,4.65,3.62,2.06,2023-01-13
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,été,7,15,8,3,4.59,2.03,7.68,2023-07-15
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,automne,10,25,22,4,21.28,9.97,45.24,2023-10-25
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone montagne,hiver,2,15,17,4,4.07,1.68,9.56,2023-02-15
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,automne,11,8,19,4,16.2,11.88,17.28,2023-11-08
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,été,7,3,22,0,9.23,6.94,0.0,2023-07-03
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,printemps,5,10,9,6,11.05,4.43,39.72,2023-05-10
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,automne,11,18,10,1,20.78,9.47,11.31,2023-11-18
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,automne,9,3,12,3,10.63,4.42,18.63,2023-09-03
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,printemps,4,15,13,3,19.42,9.93,28.47,2023-04-15
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,été,8,15,10,2,18.33,8.03,20.6,2023-08-15
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,printemps,3,13,19,2,19.59,14.97,9.24,2023-03-13
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,hiver,12,1,11,5,13.56,8.66,24.5,2023-12-01
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone touristique bord de mer,printemps,3,23,22,4,6.72,5.36,5.44,2023-03-23
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,hiver,2,15,10,3,2.19,1.67,1.56,2023-02-15
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,été,8,8,14,4,19.16,9.38,39.12,2023-08-08
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,hiver,1,24,22,2,8.68,4.09,9.18,2023-01-24
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,automne,9,9,21,4,5.0,2.47,10.12,2023-09-09
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,été,7,29,16,0,5.47,4.25,0.0,2023-07-29
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,printemps,5,22,9,2,23.98,15.55,16.86,2023-05-22
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,printemps,4,26,13,1,17.41,12.46,4.95,2023-04-26
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,automne,9,28,16,2,8.01,5.77,4.48,2023-09-28
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,printemps,5,13,21,4,19.69,10.61,36.32,2023-05-13
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,hiver,2,15,20,1,7.99,6.19,1.8,2023-02-15
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,hiver,12,17,19,1,16.0,11.21,4.79,2023-12-17
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,hiver,1,5,18,4,4.33,2.09,8.96,2023-01-05
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,été,8,27,21,4,24.3,10.03,57.08,2023-08-27
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,printemps,5,13,14,5,17.16,7.0,50.8,2023-05-13
+EPICERIE,EPICERIE,Boissons,Perrier,Zone montagne,printemps,4,24,17,4,4.72,2.91,7.24,2023-04-24
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,été,8,30,11,3,14.47,7.65,20.46,2023-08-30
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,été,6,1,20,3,8.38,5.89,7.47,2023-06-01
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,automne,9,7,13,5,8.71,4.28,22.15,2023-09-07
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,hiver,1,26,10,2,14.72,7.84,13.76,2023-01-26
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,automne,9,25,14,4,15.4,7.6,31.2,2023-09-25
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,printemps,4,13,17,1,11.33,4.91,6.42,2023-04-13
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,hiver,1,30,19,1,12.63,8.06,4.57,2023-01-30
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,printemps,5,13,10,1,21.36,12.62,8.74,2023-05-13
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,hiver,2,24,20,2,3.26,1.91,2.7,2023-02-24
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,été,7,31,21,2,12.28,6.16,12.24,2023-07-31
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,hiver,12,24,17,5,6.65,4.27,11.9,2023-12-24
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,été,6,28,18,3,2.62,2.07,1.65,2023-06-28
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,été,8,9,19,5,11.36,6.34,25.1,2023-08-09
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,automne,11,17,17,1,10.28,5.97,4.31,2023-11-17
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,hiver,2,28,17,1,22.29,10.93,11.36,2023-02-28
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,automne,11,16,11,2,19.24,9.59,19.3,2023-11-16
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,automne,10,3,18,2,6.92,3.12,7.6,2023-10-03
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,automne,11,4,17,4,4.65,1.96,10.76,2023-11-04
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,printemps,3,3,15,5,20.5,10.07,52.15,2023-03-03
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone touristique bord de mer,hiver,1,6,13,5,3.71,1.8,9.55,2023-01-06
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,printemps,5,1,20,3,5.5,3.5,6.0,2023-05-01
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,été,7,3,21,4,16.01,6.77,36.96,2023-07-03
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,automne,9,29,11,3,20.99,12.94,24.15,2023-09-29
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,printemps,3,6,18,2,15.24,7.12,16.24,2023-03-06
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,été,8,17,10,6,14.48,6.88,45.6,2023-08-17
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,hiver,12,22,15,2,2.43,1.37,2.12,2023-12-22
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,printemps,5,6,13,2,19.43,11.96,14.94,2023-05-06
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,printemps,5,24,14,1,4.11,2.77,1.34,2023-05-24
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,automne,10,21,13,1,6.86,3.22,3.64,2023-10-21
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,automne,9,11,17,9,15.96,7.59,75.33,2023-09-11
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,hiver,12,1,8,0,24.51,9.84,0.0,2023-12-01
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,été,8,23,8,4,10.81,5.95,19.44,2023-08-23
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,printemps,5,12,22,6,11.23,6.59,27.84,2023-05-12
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,automne,10,11,22,3,20.51,16.12,13.17,2023-10-11
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,printemps,3,18,15,3,12.67,8.59,12.24,2023-03-18
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,été,6,7,13,4,2.46,1.43,4.12,2023-06-07
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,printemps,5,1,13,2,11.18,8.42,5.52,2023-05-01
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,hiver,1,14,14,2,12.85,7.4,10.9,2023-01-14
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,hiver,1,9,20,2,13.53,8.16,10.74,2023-01-09
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,automne,9,15,20,3,9.24,5.91,9.99,2023-09-15
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,hiver,12,10,18,1,8.61,3.92,4.69,2023-12-10
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,hiver,12,16,19,3,11.91,6.7,15.63,2023-12-16
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,automne,10,25,17,3,5.67,4.17,4.5,2023-10-25
+EPICERIE,EPICERIE,Boissons,Perrier,Zone montagne,automne,10,2,22,1,5.25,2.35,2.9,2023-10-02
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,été,6,17,12,2,17.65,11.58,12.14,2023-06-17
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,été,7,3,20,3,14.79,11.7,9.27,2023-07-03
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,été,8,27,19,3,14.16,8.01,18.45,2023-08-27
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,automne,11,25,12,3,17.09,11.47,16.86,2023-11-25
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone montagne,hiver,2,17,13,1,1.53,1.19,0.34,2023-02-17
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,été,6,3,21,7,13.87,9.72,29.05,2023-06-03
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,été,6,21,16,4,17.49,13.12,17.48,2023-06-21
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,printemps,5,8,17,1,10.35,7.29,3.06,2023-05-08
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,été,7,1,11,6,17.91,10.21,46.2,2023-07-01
+EPICERIE,EPICERIE,Boissons,Perrier,Zone montagne,été,8,14,20,2,10.13,7.87,4.52,2023-08-14
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,hiver,12,26,12,1,21.25,16.14,5.11,2023-12-26
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,automne,10,19,15,0,24.95,12.46,0.0,2023-10-19
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,hiver,2,7,10,4,10.26,5.38,19.52,2023-02-07
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,automne,11,5,20,2,23.86,14.78,18.16,2023-11-05
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,printemps,5,9,22,1,15.79,7.88,7.91,2023-05-09
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,automne,11,12,19,3,19.05,8.13,32.76,2023-11-12
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,hiver,1,17,17,1,15.9,9.13,6.77,2023-01-17
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,été,7,25,16,6,4.6,1.85,16.5,2023-07-25
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,printemps,5,7,20,1,23.58,14.06,9.52,2023-05-07
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,hiver,1,7,8,2,13.16,7.87,10.58,2023-01-07
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,été,6,29,8,4,6.81,2.96,15.4,2023-06-29
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,hiver,12,22,13,2,21.08,14.71,12.74,2023-12-22
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,printemps,4,12,16,7,12.88,6.23,46.55,2023-04-12
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone montagne,été,6,27,9,0,7.8,4.32,0.0,2023-06-27
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,printemps,5,8,17,3,17.16,13.19,11.91,2023-05-08
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,été,7,21,20,9,5.27,4.09,10.62,2023-07-21
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,été,7,10,22,3,20.79,12.93,23.58,2023-07-10
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,automne,10,1,16,5,1.79,1.0,3.95,2023-10-01
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,printemps,5,2,13,4,18.44,8.35,40.36,2023-05-02
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,hiver,1,22,16,1,18.42,11.83,6.59,2023-01-22
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,printemps,4,24,9,3,3.66,2.46,3.6,2023-04-24
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,été,7,24,11,2,5.88,2.63,6.5,2023-07-24
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,été,8,21,20,4,17.57,13.97,14.4,2023-08-21
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,printemps,5,2,18,4,2.18,1.19,3.96,2023-05-02
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,été,6,13,12,5,19.06,14.96,20.5,2023-06-13
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,automne,11,1,14,2,9.67,5.22,8.9,2023-11-01
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,automne,9,10,17,2,13.13,6.91,12.44,2023-09-10
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,été,8,24,9,4,14.96,10.38,18.32,2023-08-24
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,été,6,3,21,2,18.38,11.62,13.52,2023-06-03
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,été,8,24,14,1,14.35,5.78,8.57,2023-08-24
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,printemps,5,5,19,1,17.81,13.16,4.65,2023-05-05
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,printemps,5,6,21,2,1.64,1.08,1.12,2023-05-06
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,automne,11,5,13,2,11.66,5.79,11.74,2023-11-05
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,hiver,1,24,10,0,7.1,3.36,0.0,2023-01-24
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,hiver,2,3,14,4,16.0,7.86,32.56,2023-02-03
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,été,8,19,15,4,12.47,6.0,25.88,2023-08-19
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,printemps,5,19,8,1,17.37,12.98,4.39,2023-05-19
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,été,7,30,19,7,3.17,2.0,8.19,2023-07-30
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,automne,11,3,22,5,18.09,10.33,38.8,2023-11-03
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,hiver,1,8,21,4,8.13,5.54,10.36,2023-01-08
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,été,8,12,12,2,6.59,2.98,7.22,2023-08-12
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,été,6,18,17,3,8.28,6.4,5.64,2023-06-18
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,automne,10,30,16,5,18.03,9.41,43.1,2023-10-30
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,automne,9,14,16,4,4.82,3.79,4.12,2023-09-14
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,hiver,1,13,20,2,17.47,10.59,13.76,2023-01-13
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,été,7,18,11,2,22.26,13.73,17.06,2023-07-18
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,été,8,2,9,1,10.53,4.77,5.76,2023-08-02
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,été,7,2,9,2,11.25,6.09,10.32,2023-07-02
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,hiver,1,3,10,9,20.34,14.91,48.87,2023-01-03
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,été,6,22,10,6,14.55,6.46,48.54,2023-06-22
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,automne,11,18,20,7,14.39,6.56,54.81,2023-11-18
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,printemps,4,8,21,3,8.84,3.68,15.48,2023-04-08
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,automne,11,25,16,5,22.03,14.95,35.4,2023-11-25
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,automne,9,29,22,2,22.5,15.88,13.24,2023-09-29
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,automne,10,25,13,1,18.03,7.72,10.31,2023-10-25
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,printemps,4,18,15,2,13.58,7.35,12.46,2023-04-18
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,automne,10,9,11,4,13.38,8.3,20.32,2023-10-09
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,automne,10,18,18,2,20.04,12.21,15.66,2023-10-18
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,printemps,3,17,17,2,14.54,8.07,12.94,2023-03-17
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,hiver,12,28,16,6,17.07,12.63,26.64,2023-12-28
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,printemps,5,5,19,5,8.93,5.07,19.3,2023-05-05
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,hiver,12,30,21,1,8.08,3.38,4.7,2023-12-30
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,printemps,4,29,18,2,24.38,17.6,13.56,2023-04-29
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,automne,9,20,12,1,7.69,6.08,1.61,2023-09-20
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,été,8,5,19,3,21.62,16.9,14.16,2023-08-05
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,hiver,12,6,15,1,6.99,4.22,2.77,2023-12-06
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,printemps,3,11,17,4,21.0,11.18,39.28,2023-03-11
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,été,6,27,18,1,18.86,11.6,7.26,2023-06-27
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,été,8,27,22,2,6.37,3.29,6.16,2023-08-27
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,printemps,5,26,18,2,3.43,2.23,2.4,2023-05-26
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,été,6,3,21,5,7.93,4.69,16.2,2023-06-03
+EPICERIE,EPICERIE,Boissons,Perrier,Zone montagne,printemps,5,11,21,2,14.72,9.97,9.5,2023-05-11
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,été,8,11,9,6,1.54,1.23,1.86,2023-08-11
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,printemps,3,31,20,7,23.83,9.84,97.93,2023-03-31
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,été,8,20,17,2,3.2,1.47,3.46,2023-08-20
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,automne,10,26,20,1,5.21,2.46,2.75,2023-10-26
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,hiver,2,17,12,4,15.78,6.48,37.2,2023-02-17
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,été,6,21,13,1,2.99,2.06,0.93,2023-06-21
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,été,6,3,15,4,19.24,15.06,16.72,2023-06-03
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,printemps,4,12,10,5,9.9,4.41,27.45,2023-04-12
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,automne,9,22,15,0,15.36,8.09,0.0,2023-09-22
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,été,7,10,12,1,5.71,3.98,1.73,2023-07-10
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,été,7,25,14,1,22.48,10.84,11.64,2023-07-25
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,printemps,3,11,21,3,4.71,1.95,8.28,2023-03-11
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,automne,11,15,15,7,21.01,11.4,67.27,2023-11-15
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,été,8,2,12,3,3.97,2.34,4.89,2023-08-02
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,automne,10,10,22,3,9.47,4.73,14.22,2023-10-10
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,été,7,1,21,1,6.78,5.28,1.5,2023-07-01
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,été,7,17,19,4,7.96,3.85,16.44,2023-07-17
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone touristique bord de mer,été,6,26,20,2,11.03,8.46,5.14,2023-06-26
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,été,7,22,21,1,14.96,9.01,5.95,2023-07-22
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,printemps,4,3,18,1,11.22,8.58,2.64,2023-04-03
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,automne,11,14,14,1,12.11,8.1,4.01,2023-11-14
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,hiver,2,1,9,2,21.83,13.04,17.58,2023-02-01
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,été,7,15,8,2,3.38,2.42,1.92,2023-07-15
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,printemps,3,11,22,1,12.89,8.75,4.14,2023-03-11
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,automne,9,19,13,2,13.04,6.75,12.58,2023-09-19
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,hiver,2,26,18,6,24.67,11.07,81.6,2023-02-26
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,automne,11,25,10,5,4.3,2.21,10.45,2023-11-25
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,hiver,2,4,14,3,14.37,10.43,11.82,2023-02-04
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,hiver,1,16,13,2,3.99,3.18,1.62,2023-01-16
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,été,6,28,18,5,23.05,11.14,59.55,2023-06-28
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,hiver,1,3,21,5,10.38,6.84,17.7,2023-01-03
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,hiver,12,4,10,0,4.79,2.19,0.0,2023-12-04
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,été,6,3,9,7,16.12,12.32,26.6,2023-06-03
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,hiver,2,9,17,2,9.32,6.56,5.52,2023-02-09
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,printemps,5,28,15,7,14.56,10.48,28.56,2023-05-28
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,été,7,17,11,4,19.27,11.54,30.92,2023-07-17
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,été,8,26,16,3,15.25,6.8,25.35,2023-08-26
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,été,6,19,16,4,9.09,4.89,16.8,2023-06-19
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,printemps,4,23,18,5,1.98,1.01,4.85,2023-04-23
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,printemps,5,25,21,9,23.98,18.49,49.41,2023-05-25
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,printemps,4,3,22,7,6.72,2.91,26.67,2023-04-03
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,été,7,18,11,4,2.58,1.05,6.12,2023-07-18
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,été,7,12,10,4,5.83,3.13,10.8,2023-07-12
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,automne,9,21,19,2,10.16,8.01,4.3,2023-09-21
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,hiver,2,8,12,3,9.29,4.79,13.5,2023-02-08
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,hiver,1,7,20,5,18.89,12.2,33.45,2023-01-07
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,hiver,1,29,14,5,17.06,12.26,24.0,2023-01-29
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,printemps,5,6,9,1,17.37,9.66,7.71,2023-05-06
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,été,7,17,18,1,20.91,13.66,7.25,2023-07-17
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,automne,11,10,11,2,4.48,2.65,3.66,2023-11-10
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,hiver,12,4,16,5,6.24,4.2,10.2,2023-12-04
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,automne,10,1,22,0,9.34,4.15,0.0,2023-10-01
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,été,8,18,22,8,11.32,6.76,36.48,2023-08-18
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,hiver,12,26,8,1,15.93,10.1,5.83,2023-12-26
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,printemps,3,1,21,1,13.71,9.31,4.4,2023-03-01
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,printemps,4,13,8,2,4.15,3.3,1.7,2023-04-13
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,été,7,15,8,2,21.52,14.12,14.8,2023-07-15
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,printemps,4,21,16,1,18.74,11.82,6.92,2023-04-21
+EPICERIE,EPICERIE,Boissons,Oasis,Zone touristique bord de mer,automne,11,23,9,2,2.94,1.25,3.38,2023-11-23
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,automne,9,22,22,3,8.97,4.6,13.11,2023-09-22
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,été,8,12,9,2,4.01,2.43,3.16,2023-08-12
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone résidentielle,printemps,5,11,13,4,16.63,7.1,38.12,2023-05-11
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,hiver,12,25,15,7,9.38,3.91,38.29,2023-12-25
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,été,8,8,16,4,12.89,9.64,13.0,2023-08-08
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,hiver,2,24,11,1,1.6,0.99,0.61,2023-02-24
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,printemps,3,27,15,3,20.14,11.84,24.9,2023-03-27
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,printemps,5,30,10,2,9.0,6.1,5.8,2023-05-30
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,hiver,2,18,20,4,16.05,12.38,14.68,2023-02-18
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,automne,10,26,18,0,12.66,6.97,0.0,2023-10-26
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,été,7,24,14,5,19.59,11.02,42.85,2023-07-24
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,automne,10,24,9,1,19.37,9.64,9.73,2023-10-24
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,été,7,5,19,4,8.19,5.48,10.84,2023-07-05
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,été,8,28,22,8,9.4,5.47,31.44,2023-08-28
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,printemps,5,28,16,3,13.26,6.4,20.58,2023-05-28
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,hiver,1,2,8,2,20.55,13.89,13.32,2023-01-02
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,été,7,20,18,3,2.67,1.39,3.84,2023-07-20
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,hiver,2,14,17,3,2.07,1.46,1.83,2023-02-14
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,été,6,8,21,4,20.86,16.41,17.8,2023-06-08
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,hiver,12,16,8,2,16.11,7.93,16.36,2023-12-16
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,été,8,23,21,4,1.59,0.86,2.92,2023-08-23
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,hiver,1,19,13,2,17.5,13.63,7.74,2023-01-19
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,été,8,10,15,4,23.35,14.99,33.44,2023-08-10
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,hiver,2,18,16,3,15.24,6.86,25.14,2023-02-18
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone résidentielle,été,8,10,16,3,13.86,9.23,13.89,2023-08-10
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,été,8,10,14,2,11.93,8.74,6.38,2023-08-10
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,été,8,18,18,3,10.83,8.45,7.14,2023-08-18
+EPICERIE,EPICERIE,Boissons,Oasis,Zone touristique bord de mer,automne,10,25,17,2,7.18,3.79,6.78,2023-10-25
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,été,6,24,17,4,12.7,7.44,21.04,2023-06-24
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,hiver,1,16,22,8,3.2,2.19,8.08,2023-01-16
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,été,6,30,21,2,10.82,7.8,6.04,2023-06-30
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,automne,11,28,9,3,21.28,11.14,30.42,2023-11-28
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,automne,11,25,8,3,19.69,12.52,21.51,2023-11-25
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,hiver,1,9,14,3,5.45,2.27,9.54,2023-01-09
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,été,6,6,14,6,23.73,18.61,30.72,2023-06-06
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,automne,9,17,11,2,19.98,12.48,15.0,2023-09-17
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,automne,9,26,15,0,1.61,0.97,0.0,2023-09-26
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,automne,11,30,14,2,19.63,12.64,13.98,2023-11-30
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,hiver,1,13,20,1,18.52,9.67,8.85,2023-01-13
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,hiver,12,23,15,2,12.0,9.19,5.62,2023-12-23
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,hiver,1,15,9,3,11.41,6.09,15.96,2023-01-15
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,hiver,2,26,19,8,2.7,1.47,9.84,2023-02-26
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,hiver,1,8,17,2,16.1,6.82,18.56,2023-01-08
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,été,8,9,11,5,1.97,1.45,2.6,2023-08-09
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,été,8,12,19,2,13.11,5.56,15.1,2023-08-12
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,hiver,12,13,20,4,3.85,1.81,8.16,2023-12-13
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,automne,11,18,12,2,6.06,2.63,6.86,2023-11-18
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,printemps,5,8,14,2,22.25,12.22,20.06,2023-05-08
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,automne,11,13,10,4,5.18,3.3,7.52,2023-11-13
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,hiver,1,29,12,3,7.94,3.34,13.8,2023-01-29
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,hiver,12,17,19,2,12.29,6.63,11.32,2023-12-17
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,printemps,5,3,20,5,11.46,6.9,22.8,2023-05-03
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,printemps,4,24,14,3,21.27,10.53,32.22,2023-04-24
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,printemps,5,6,19,3,10.44,4.23,18.63,2023-05-06
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,été,8,8,15,1,5.83,2.43,3.4,2023-08-08
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,printemps,5,13,22,4,10.04,6.45,14.36,2023-05-13
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,printemps,5,15,15,4,2.14,1.07,4.28,2023-05-15
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,été,6,26,17,5,24.42,17.06,36.8,2023-06-26
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,printemps,3,5,16,2,6.03,2.62,6.82,2023-03-05
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,automne,10,25,17,2,12.05,7.71,8.68,2023-10-25
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,hiver,2,9,15,2,6.46,4.65,3.62,2023-02-09
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,hiver,2,18,14,0,6.2,2.71,0.0,2023-02-18
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,été,8,18,21,6,5.68,4.24,8.64,2023-08-18
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,automne,10,21,21,3,22.45,13.7,26.25,2023-10-21
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,automne,9,29,10,4,17.9,7.98,39.68,2023-09-29
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,printemps,4,24,20,4,24.62,11.76,51.44,2023-04-24
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,automne,10,28,16,2,19.32,8.68,21.28,2023-10-28
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,printemps,4,30,9,2,8.88,4.33,9.1,2023-04-30
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,automne,11,19,12,6,22.99,9.49,81.0,2023-11-19
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,été,8,24,15,4,16.45,12.45,16.0,2023-08-24
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,printemps,5,29,12,2,5.45,3.84,3.22,2023-05-29
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,printemps,3,22,19,0,8.07,5.84,0.0,2023-03-22
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,été,8,28,8,4,9.02,6.61,9.64,2023-08-28
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,automne,10,31,10,5,2.33,1.82,2.55,2023-10-31
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,été,6,27,11,6,6.95,3.85,18.6,2023-06-27
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,automne,11,17,21,1,14.23,9.99,4.24,2023-11-17
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,été,6,6,10,0,8.09,5.28,0.0,2023-06-06
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,automne,11,20,21,1,1.69,1.06,0.63,2023-11-20
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,printemps,4,18,13,5,15.62,11.49,20.65,2023-04-18
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,été,7,16,15,1,17.06,8.6,8.46,2023-07-16
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,hiver,12,22,11,6,24.29,13.29,66.0,2023-12-22
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,printemps,5,23,13,1,19.35,7.87,11.48,2023-05-23
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,été,8,11,9,2,12.58,8.57,8.02,2023-08-11
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,printemps,3,5,12,1,24.04,17.74,6.3,2023-03-05
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone touristique bord de mer,automne,9,21,20,8,3.18,1.8,11.04,2023-09-21
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,printemps,4,11,13,3,13.54,6.61,20.79,2023-04-11
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,printemps,3,14,15,3,14.41,7.94,19.41,2023-03-14
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,2,23,16,5,3.19,2.5,3.45,2023-02-23
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,printemps,3,5,22,0,11.99,6.14,0.0,2023-03-05
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,printemps,5,16,20,2,13.15,9.33,7.64,2023-05-16
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,été,7,1,21,2,5.97,4.18,3.58,2023-07-01
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,été,6,2,9,1,3.29,2.31,0.98,2023-06-02
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,hiver,1,18,20,1,11.11,6.21,4.9,2023-01-18
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,printemps,5,29,19,2,7.69,3.83,7.72,2023-05-29
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,hiver,1,17,18,4,17.56,13.45,16.44,2023-01-17
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,été,8,7,9,1,8.83,4.61,4.22,2023-08-07
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,automne,10,26,14,4,10.9,7.2,14.8,2023-10-26
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,printemps,5,27,21,4,1.91,0.98,3.72,2023-05-27
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,automne,9,16,15,4,16.66,12.25,17.64,2023-09-16
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,été,7,1,16,0,10.29,5.22,0.0,2023-07-01
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,automne,9,8,16,3,15.65,8.41,21.72,2023-09-08
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,automne,9,25,12,2,18.09,12.14,11.9,2023-09-25
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,printemps,4,11,16,4,3.03,1.52,6.04,2023-04-11
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,hiver,1,29,14,5,8.71,3.77,24.7,2023-01-29
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,hiver,2,23,22,1,17.83,9.86,7.97,2023-02-23
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,hiver,1,31,22,2,19.21,14.14,10.14,2023-01-31
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,hiver,12,7,12,3,4.65,3.24,4.23,2023-12-07
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,printemps,3,29,18,5,19.88,14.6,26.4,2023-03-29
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,automne,9,28,11,3,16.34,9.78,19.68,2023-09-28
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,hiver,1,6,13,1,14.86,6.77,8.09,2023-01-06
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,printemps,3,9,16,4,16.24,6.82,37.68,2023-03-09
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,automne,11,9,13,3,3.58,1.91,5.01,2023-11-09
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,automne,11,25,8,4,18.1,8.31,39.16,2023-11-25
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,été,7,14,8,5,8.27,3.4,24.35,2023-07-14
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,hiver,12,23,22,2,24.45,15.88,17.14,2023-12-23
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,automne,10,14,10,1,23.84,14.97,8.87,2023-10-14
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,automne,9,10,8,7,20.48,10.29,71.33,2023-09-10
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,été,7,31,21,5,20.29,11.2,45.45,2023-07-31
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,été,7,8,20,3,17.09,11.36,17.19,2023-07-08
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,printemps,3,26,19,5,14.11,5.65,42.3,2023-03-26
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,automne,10,2,19,3,8.5,6.6,5.7,2023-10-02
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,hiver,2,10,11,5,9.9,4.75,25.75,2023-02-10
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,hiver,12,29,15,3,24.19,10.52,41.01,2023-12-29
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,automne,9,27,14,2,17.57,13.93,7.28,2023-09-27
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,printemps,5,12,13,3,6.76,4.36,7.2,2023-05-12
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,hiver,12,2,19,0,2.66,1.15,0.0,2023-12-02
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,hiver,1,5,20,3,6.29,4.81,4.44,2023-01-05
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,printemps,4,23,15,2,19.07,10.49,17.16,2023-04-23
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,hiver,2,23,22,5,9.63,4.86,23.85,2023-02-23
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,hiver,12,23,21,2,20.14,13.08,14.12,2023-12-23
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,hiver,1,27,18,3,2.62,1.18,4.32,2023-01-27
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,été,7,21,16,0,9.23,6.09,0.0,2023-07-21
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,été,6,3,8,3,12.43,6.22,18.63,2023-06-03
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,automne,9,10,18,6,15.36,10.57,28.74,2023-09-10
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,automne,10,12,13,3,18.27,11.49,20.34,2023-10-12
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,été,8,10,19,1,15.54,12.08,3.46,2023-08-10
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,automne,9,8,8,3,12.18,5.52,19.98,2023-09-08
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,printemps,4,20,11,3,20.32,14.8,16.56,2023-04-20
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,hiver,12,27,20,3,21.57,16.32,15.75,2023-12-27
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,printemps,3,20,14,3,20.87,12.64,24.69,2023-03-20
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone montagne,été,6,6,14,1,24.45,17.2,7.25,2023-06-06
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,printemps,4,20,14,2,23.15,11.0,24.3,2023-04-20
+EPICERIE,EPICERIE,Boissons,Perrier,Zone montagne,printemps,4,21,15,2,21.18,14.59,13.18,2023-04-21
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,printemps,5,24,21,6,13.17,5.69,44.88,2023-05-24
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,automne,10,6,11,5,19.72,10.86,44.3,2023-10-06
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,automne,9,5,14,6,16.87,11.4,32.82,2023-09-05
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,hiver,1,26,18,2,8.55,5.13,6.84,2023-01-26
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,hiver,12,10,10,7,10.6,5.5,35.7,2023-12-10
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,automne,10,10,9,2,18.83,10.35,16.96,2023-10-10
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,automne,10,6,10,0,15.12,8.86,0.0,2023-10-06
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,printemps,4,9,18,3,21.22,13.91,21.93,2023-04-09
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,automne,10,24,8,4,23.4,12.53,43.48,2023-10-24
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,automne,9,10,9,2,21.64,14.71,13.86,2023-09-10
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,printemps,5,16,21,4,9.5,6.76,10.96,2023-05-16
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,été,8,25,10,6,13.53,9.69,23.04,2023-08-25
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,hiver,1,6,17,2,13.43,10.51,5.84,2023-01-06
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,hiver,2,4,11,3,13.71,10.59,9.36,2023-02-04
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,été,8,15,22,6,11.86,6.91,29.7,2023-08-15
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,hiver,12,1,11,4,14.88,11.27,14.44,2023-12-01
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone résidentielle,printemps,3,25,11,3,6.03,4.68,4.05,2023-03-25
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,printemps,3,4,11,4,22.36,17.15,20.84,2023-03-04
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,été,8,30,17,3,13.83,8.21,16.86,2023-08-30
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,printemps,5,9,20,1,5.2,2.72,2.48,2023-05-09
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,hiver,1,3,8,5,9.12,6.21,14.55,2023-01-03
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,été,7,27,14,3,4.59,2.69,5.7,2023-07-27
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,printemps,3,29,14,1,17.5,11.0,6.5,2023-03-29
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,printemps,4,7,11,0,1.81,1.42,0.0,2023-04-07
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,12,19,16,3,6.58,4.04,7.62,2023-12-19
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,hiver,2,15,21,2,7.6,4.39,6.42,2023-02-15
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,été,7,25,15,9,3.27,2.28,8.91,2023-07-25
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,automne,11,21,15,2,1.66,0.91,1.5,2023-11-21
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,automne,9,12,17,5,24.56,19.41,25.75,2023-09-12
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,printemps,3,8,13,3,3.23,1.46,5.31,2023-03-08
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,automne,10,22,18,3,21.5,15.08,19.26,2023-10-22
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,hiver,2,22,13,3,14.08,10.91,9.51,2023-02-22
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,printemps,4,2,12,2,16.85,13.16,7.38,2023-04-02
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,automne,10,20,8,4,19.43,9.53,39.6,2023-10-20
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,printemps,3,6,12,5,12.57,9.37,16.0,2023-03-06
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,automne,9,2,14,2,4.49,3.37,2.24,2023-09-02
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,printemps,4,4,14,4,8.8,3.75,20.2,2023-04-04
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,hiver,12,22,15,4,20.01,14.39,22.48,2023-12-22
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,été,8,10,15,4,23.83,17.27,26.24,2023-08-10
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,printemps,3,31,16,4,12.52,8.48,16.16,2023-03-31
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,été,6,6,9,4,3.35,2.17,4.72,2023-06-06
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,printemps,5,6,8,3,21.24,12.15,27.27,2023-05-06
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,hiver,12,10,18,3,22.01,14.59,22.26,2023-12-10
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,printemps,3,9,8,7,22.04,8.82,92.54,2023-03-09
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,automne,11,1,15,2,12.32,5.31,14.02,2023-11-01
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,hiver,2,10,22,5,8.19,5.75,12.2,2023-02-10
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,automne,11,4,10,4,12.91,7.82,20.36,2023-11-04
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,automne,11,1,11,4,2.4,1.73,2.68,2023-11-01
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,automne,9,28,21,4,17.6,13.61,15.96,2023-09-28
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,hiver,12,5,17,9,10.47,8.35,19.08,2023-12-05
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,automne,9,3,10,1,13.81,5.59,8.22,2023-09-03
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,automne,11,20,11,2,12.27,6.63,11.28,2023-11-20
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,automne,11,6,15,4,23.88,14.52,37.44,2023-11-06
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,automne,11,25,12,6,9.65,4.96,28.14,2023-11-25
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,hiver,2,10,12,8,10.61,5.36,42.0,2023-02-10
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,hiver,2,13,14,6,8.65,4.95,22.2,2023-02-13
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,printemps,4,18,17,8,23.4,9.51,111.12,2023-04-18
+EPICERIE,EPICERIE,Boissons,Perrier,Zone montagne,automne,10,28,22,3,14.44,6.98,22.38,2023-10-28
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,automne,10,18,17,2,24.1,13.62,20.96,2023-10-18
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,automne,10,13,14,5,20.29,11.49,44.0,2023-10-13
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,automne,10,2,16,2,21.16,10.08,22.16,2023-10-02
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,automne,11,6,20,2,7.34,4.62,5.44,2023-11-06
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,automne,10,25,20,4,20.29,9.13,44.64,2023-10-25
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,hiver,2,2,8,6,6.68,2.88,22.8,2023-02-02
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,été,6,25,22,2,3.52,2.4,2.24,2023-06-25
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,printemps,4,6,21,2,16.31,12.81,7.0,2023-04-06
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,automne,9,23,17,6,7.88,3.95,23.58,2023-09-23
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,été,7,11,10,7,6.88,5.46,9.94,2023-07-11
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,hiver,2,22,12,2,17.07,11.12,11.9,2023-02-22
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,hiver,2,14,21,3,6.93,2.9,12.09,2023-02-14
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,automne,9,29,21,4,8.62,6.8,7.28,2023-09-29
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,été,7,27,15,6,4.5,3.01,8.94,2023-07-27
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,printemps,4,8,14,2,7.65,3.42,8.46,2023-04-08
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,automne,9,17,11,1,8.95,5.82,3.13,2023-09-17
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,été,8,11,12,7,1.85,0.92,6.51,2023-08-11
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,printemps,4,6,13,7,5.85,3.78,14.49,2023-04-06
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,hiver,2,27,21,4,24.34,10.87,53.88,2023-02-27
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,été,8,28,10,1,4.23,1.99,2.24,2023-08-28
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,printemps,4,21,10,3,5.97,3.6,7.11,2023-04-21
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,été,8,22,22,3,20.22,9.67,31.65,2023-08-22
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,hiver,1,7,11,4,18.2,10.38,31.28,2023-01-07
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,printemps,4,17,8,1,20.22,12.48,7.74,2023-04-17
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,été,8,27,11,4,24.1,17.72,25.52,2023-08-27
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,printemps,3,22,17,3,18.69,9.92,26.31,2023-03-22
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,printemps,3,7,14,3,22.11,10.68,34.29,2023-03-07
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,printemps,4,12,15,3,9.28,4.47,14.43,2023-04-12
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,hiver,1,5,11,3,6.35,2.54,11.43,2023-01-05
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,hiver,12,18,16,4,8.25,5.9,9.4,2023-12-18
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,automne,10,8,11,4,24.63,16.24,33.56,2023-10-08
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,printemps,5,19,19,2,2.85,1.94,1.82,2023-05-19
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,printemps,3,31,13,4,19.03,12.76,25.08,2023-03-31
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,hiver,2,14,9,2,22.99,16.33,13.32,2023-02-14
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,printemps,4,24,9,4,24.6,12.56,48.16,2023-04-24
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,printemps,5,11,22,4,24.15,17.41,26.96,2023-05-11
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,été,8,30,9,4,21.16,12.12,36.16,2023-08-30
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,printemps,4,3,8,0,9.16,6.57,0.0,2023-04-03
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,été,8,16,15,5,15.59,12.36,16.15,2023-08-16
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,hiver,1,1,16,1,14.89,11.27,3.62,2023-01-01
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,hiver,2,24,19,5,4.25,2.12,10.65,2023-02-24
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,automne,11,1,10,4,12.46,8.14,17.28,2023-11-01
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,automne,9,20,13,2,18.75,14.72,8.06,2023-09-20
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,automne,11,30,9,2,14.33,10.13,8.4,2023-11-30
+EPICERIE,EPICERIE,Boissons,Perrier,Zone urbaine,été,8,29,11,5,13.17,6.77,32.0,2023-08-29
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,été,6,10,15,8,17.57,11.54,48.24,2023-06-10
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,été,7,1,17,1,4.06,2.26,1.8,2023-07-01
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,automne,10,24,18,2,23.11,11.18,23.86,2023-10-24
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,hiver,1,28,15,4,20.59,14.03,26.24,2023-01-28
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,été,6,10,15,3,13.42,6.56,20.58,2023-06-10
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,hiver,12,7,20,2,14.48,7.98,13.0,2023-12-07
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,hiver,12,13,8,3,12.99,10.16,8.49,2023-12-13
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,hiver,1,7,11,3,22.75,12.82,29.79,2023-01-07
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,automne,10,11,13,4,17.53,7.32,40.84,2023-10-11
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,printemps,3,7,11,6,7.79,4.63,18.96,2023-03-07
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone montagne,hiver,2,17,18,5,4.97,3.33,8.2,2023-02-17
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,automne,11,27,10,1,12.97,9.64,3.33,2023-11-27
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,été,7,15,10,0,18.61,11.55,0.0,2023-07-15
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,été,7,13,20,7,16.75,7.68,63.49,2023-07-13
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,hiver,1,28,13,2,8.22,5.13,6.18,2023-01-28
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,printemps,5,16,15,1,5.16,3.36,1.8,2023-05-16
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,été,6,12,15,2,12.5,8.88,7.24,2023-06-12
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,hiver,12,29,18,8,19.26,9.69,76.56,2023-12-29
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,été,8,27,17,1,13.81,10.48,3.33,2023-08-27
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,hiver,1,10,9,5,15.05,6.54,42.55,2023-01-10
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,hiver,1,11,16,8,11.84,9.15,21.52,2023-01-11
+EPICERIE,EPICERIE,Boissons,Orangina,Zone rurale,hiver,1,27,21,5,3.99,2.48,7.55,2023-01-27
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,12,27,18,3,16.02,6.62,28.2,2023-12-27
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,hiver,1,29,12,2,3.46,1.78,3.36,2023-01-29
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,printemps,5,20,17,0,15.89,9.63,0.0,2023-05-20
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,hiver,2,16,19,3,24.13,18.45,17.04,2023-02-16
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,printemps,5,9,14,4,17.42,13.22,16.8,2023-05-09
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,printemps,4,24,21,4,5.4,2.68,10.88,2023-04-24
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,hiver,12,7,11,1,2.73,1.81,0.92,2023-12-07
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,hiver,12,21,22,6,21.51,8.68,76.98,2023-12-21
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,été,8,8,17,2,23.11,14.04,18.14,2023-08-08
+EPICERIE,EPICERIE,Biscuits,Prince,Zone rurale,été,6,19,12,1,8.05,4.87,3.18,2023-06-19
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,été,6,20,18,8,24.79,19.71,40.64,2023-06-20
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,printemps,5,8,16,0,15.67,6.96,0.0,2023-05-08
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,hiver,2,5,13,1,11.13,8.03,3.1,2023-02-05
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,été,6,2,15,5,22.0,11.9,50.5,2023-06-02
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,printemps,4,29,13,1,11.68,7.98,3.7,2023-04-29
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,automne,10,2,16,3,22.43,17.89,13.62,2023-10-02
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,été,6,18,10,1,2.54,1.1,1.44,2023-06-18
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone résidentielle,hiver,1,9,11,2,21.89,17.03,9.72,2023-01-09
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,été,8,15,22,3,22.01,13.03,26.94,2023-08-15
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,automne,11,26,19,4,19.53,8.25,45.12,2023-11-26
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,été,8,23,18,5,2.41,1.06,6.75,2023-08-23
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone urbaine,hiver,12,4,21,2,11.45,5.32,12.26,2023-12-04
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,automne,10,26,21,7,15.43,11.37,28.42,2023-10-26
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,hiver,2,8,8,2,14.21,5.78,16.86,2023-02-08
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,été,7,21,18,4,8.86,6.64,8.88,2023-07-21
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,été,7,11,15,3,8.44,4.37,12.21,2023-07-11
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,hiver,1,14,16,4,18.67,11.55,28.48,2023-01-14
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,printemps,5,25,22,4,20.71,13.32,29.56,2023-05-25
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,printemps,4,15,20,2,8.61,6.76,3.7,2023-04-15
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,été,8,25,14,3,14.35,6.24,24.33,2023-08-25
+EPICERIE,EPICERIE,Boissons,Perrier,Zone résidentielle,hiver,2,5,18,4,6.6,3.49,12.44,2023-02-05
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,printemps,3,19,11,6,19.37,14.57,28.8,2023-03-19
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,été,6,3,22,2,18.22,12.36,11.72,2023-06-03
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,hiver,1,30,21,3,18.32,10.65,23.01,2023-01-30
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,printemps,3,19,11,6,3.27,1.8,8.82,2023-03-19
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,hiver,1,14,21,3,6.1,3.65,7.35,2023-01-14
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,automne,11,30,21,1,17.29,13.67,3.62,2023-11-30
+EPICERIE,EPICERIE,Snacks,Curly,Zone rurale,automne,11,2,21,2,21.18,11.83,18.7,2023-11-02
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,printemps,5,7,11,4,17.72,7.51,40.84,2023-05-07
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,printemps,4,6,10,2,13.83,10.45,6.76,2023-04-06
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone touristique bord de mer,automne,10,9,13,4,18.95,10.28,34.68,2023-10-09
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,automne,10,16,21,1,16.42,7.52,8.9,2023-10-16
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,été,7,21,11,1,13.04,5.68,7.36,2023-07-21
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,printemps,5,10,20,3,3.37,1.94,4.29,2023-05-10
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,hiver,12,31,11,2,18.02,13.63,8.78,2023-12-31
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,été,6,23,21,7,14.82,9.93,34.23,2023-06-23
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,hiver,12,18,10,4,17.73,11.71,24.08,2023-12-18
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,automne,9,29,11,6,14.07,9.33,28.44,2023-09-29
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,hiver,12,16,22,7,22.81,9.43,93.66,2023-12-16
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,hiver,1,8,19,1,11.37,8.23,3.14,2023-01-08
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,été,6,6,20,2,5.76,4.5,2.52,2023-06-06
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,printemps,4,15,12,4,8.69,5.49,12.8,2023-04-15
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,hiver,12,18,18,6,21.53,9.07,74.76,2023-12-18
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,hiver,2,8,19,1,18.85,7.85,11.0,2023-02-08
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,automne,9,5,10,3,17.35,12.56,14.37,2023-09-05
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,automne,10,21,16,1,4.43,2.14,2.29,2023-10-21
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,automne,9,12,19,4,17.22,13.57,14.6,2023-09-12
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,hiver,1,29,15,4,14.67,11.08,14.36,2023-01-29
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone résidentielle,printemps,3,30,13,3,23.39,10.82,37.71,2023-03-30
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,printemps,3,25,20,4,5.4,3.2,8.8,2023-03-25
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,hiver,12,7,14,4,11.18,4.56,26.48,2023-12-07
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,automne,10,9,11,7,20.98,13.82,50.12,2023-10-09
+EPICERIE,EPICERIE,Snacks,Chips,Zone rurale,hiver,1,24,20,1,7.28,4.43,2.85,2023-01-24
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,automne,9,13,20,1,21.26,14.9,6.36,2023-09-13
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,automne,10,4,15,6,21.83,16.89,29.64,2023-10-04
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,automne,9,19,10,7,13.3,7.7,39.2,2023-09-19
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,automne,10,23,13,2,1.58,1.21,0.74,2023-10-23
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,été,7,10,15,2,6.73,2.72,8.02,2023-07-10
+EPICERIE,EPICERIE,Boissons,Oasis,Zone touristique bord de mer,hiver,1,21,19,2,10.46,5.59,9.74,2023-01-21
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,été,7,3,21,4,21.2,10.26,43.76,2023-07-03
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,printemps,3,11,15,1,11.71,5.7,6.01,2023-03-11
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone résidentielle,printemps,4,23,15,3,17.34,8.23,27.33,2023-04-23
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone urbaine,printemps,4,30,20,3,6.89,4.06,8.49,2023-04-30
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,hiver,12,21,17,3,8.84,5.85,8.97,2023-12-21
+EPICERIE,EPICERIE,Boissons,Orangina,Zone touristique bord de mer,automne,11,27,15,4,22.44,14.59,31.4,2023-11-27
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,été,8,4,17,4,16.98,10.46,26.08,2023-08-04
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,hiver,12,28,13,1,8.72,6.03,2.69,2023-12-28
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,automne,9,8,18,3,17.87,12.81,15.18,2023-09-08
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone montagne,été,8,8,16,5,13.94,9.01,24.65,2023-08-08
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,hiver,2,11,19,4,10.25,5.08,20.68,2023-02-11
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,été,7,26,18,3,12.26,9.76,7.5,2023-07-26
+EPICERIE,EPICERIE,Boissons,Orangina,Zone montagne,été,6,21,10,3,8.79,6.53,6.78,2023-06-21
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,automne,10,21,18,4,24.67,12.12,50.2,2023-10-21
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone montagne,printemps,5,28,8,3,6.22,3.89,6.99,2023-05-28
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,été,8,28,11,0,10.43,5.74,0.0,2023-08-28
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone rurale,hiver,12,3,20,3,12.34,8.49,11.55,2023-12-03
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,automne,9,23,14,2,10.81,8.52,4.58,2023-09-23
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone urbaine,été,8,1,12,1,23.01,16.3,6.71,2023-08-01
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,printemps,5,27,13,2,19.15,13.9,10.5,2023-05-27
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,automne,10,22,21,4,8.55,6.55,8.0,2023-10-22
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone montagne,automne,10,21,8,0,16.99,9.44,0.0,2023-10-21
+EPICERIE,EPICERIE,Boissons,Oasis,Zone urbaine,printemps,4,6,10,2,4.22,2.26,3.92,2023-04-06
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,hiver,2,21,21,5,6.75,3.55,16.0,2023-02-21
+EPICERIE,EPICERIE,Boissons,Orangina,Zone résidentielle,automne,10,28,13,3,19.96,11.83,24.39,2023-10-28
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,hiver,2,5,10,2,21.61,15.65,11.92,2023-02-05
+EPICERIE,EPICERIE,Boissons,Perrier,Zone touristique bord de mer,automne,11,8,17,4,19.61,8.75,43.44,2023-11-08
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,été,7,30,16,0,11.79,7.08,0.0,2023-07-30
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,hiver,1,4,16,5,1.77,0.93,4.2,2023-01-04
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone résidentielle,hiver,1,17,18,1,6.89,2.92,3.97,2023-01-17
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,hiver,1,31,10,3,9.13,5.78,10.05,2023-01-31
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,printemps,3,11,8,1,11.59,5.33,6.26,2023-03-11
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,automne,10,26,19,3,10.59,4.69,17.7,2023-10-26
+EPICERIE,EPICERIE,Boissons,Oasis,Zone résidentielle,hiver,12,21,15,2,7.66,4.28,6.76,2023-12-21
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,automne,11,23,16,0,22.99,12.4,0.0,2023-11-23
+EPICERIE,EPICERIE,Boissons,Oasis,Zone touristique bord de mer,printemps,3,14,17,2,24.6,10.61,27.98,2023-03-14
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,été,6,11,21,4,5.98,4.21,7.08,2023-06-11
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,été,7,19,17,3,3.51,2.25,3.78,2023-07-19
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,printemps,5,31,18,2,18.24,13.79,8.9,2023-05-31
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone résidentielle,printemps,5,5,10,5,4.48,3.08,7.0,2023-05-05
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,printemps,3,1,9,1,22.63,17.83,4.8,2023-03-01
+EPICERIE,EPICERIE,Snacks,Chips,Zone montagne,hiver,1,13,13,1,2.58,1.29,1.29,2023-01-13
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone résidentielle,hiver,1,29,18,1,12.61,6.09,6.52,2023-01-29
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone rurale,automne,10,12,13,6,15.7,6.93,52.62,2023-10-12
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone résidentielle,hiver,2,18,18,1,16.89,10.0,6.89,2023-02-18
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,hiver,12,29,15,6,8.83,6.82,12.06,2023-12-29
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,hiver,2,17,8,3,19.13,13.36,17.31,2023-02-17
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,été,6,4,17,8,15.59,8.51,56.64,2023-06-04
+EPICERIE,EPICERIE,Snacks,Curly,Zone montagne,été,7,31,18,5,3.12,1.91,6.05,2023-07-31
+EPICERIE,EPICERIE,Boissons,Oasis,Zone montagne,été,7,26,8,1,23.78,18.99,4.79,2023-07-26
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone montagne,printemps,3,21,9,0,21.84,10.32,0.0,2023-03-21
+EPICERIE,EPICERIE,Snacks,Chips,Zone urbaine,automne,10,25,21,4,23.31,17.33,23.92,2023-10-25
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone rurale,automne,10,12,20,2,7.65,4.41,6.48,2023-10-12
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone résidentielle,hiver,2,7,17,1,7.3,4.6,2.7,2023-02-07
+EPICERIE,EPICERIE,Boissons,Perrier,Zone montagne,été,6,2,10,4,11.66,6.96,18.8,2023-06-02
+EPICERIE,EPICERIE,Boissons,Orangina,Zone urbaine,automne,9,26,14,4,3.79,2.93,3.44,2023-09-26
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,automne,9,4,11,4,13.96,10.73,12.92,2023-09-04
+EPICERIE,EPICERIE,Boissons,Oasis,Zone rurale,printemps,4,16,18,3,20.5,14.19,18.93,2023-04-16
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,hiver,1,18,22,4,19.27,10.35,35.68,2023-01-18
+EPICERIE,EPICERIE,Biscuits,Petit Beurre,Zone touristique bord de mer,automne,9,14,14,6,24.68,14.6,60.48,2023-09-14
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone résidentielle,été,7,30,12,1,7.88,4.72,3.16,2023-07-30
+EPICERIE,EPICERIE,Snacks,Curly,Zone touristique bord de mer,printemps,4,27,18,5,16.16,8.62,37.7,2023-04-27
+EPICERIE,EPICERIE,Biscuits,Prince,Zone montagne,hiver,1,22,19,5,23.09,16.73,31.8,2023-01-22
+EPICERIE,EPICERIE,Biscuits,Prince,Zone résidentielle,printemps,4,14,22,4,8.35,4.66,14.76,2023-04-14
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,automne,9,5,20,7,14.03,9.44,32.13,2023-09-05
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone rurale,été,6,3,16,0,7.67,5.77,0.0,2023-06-03
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,automne,9,28,17,3,6.44,3.46,8.94,2023-09-28
+EPICERIE,EPICERIE,Snacks,Chips,Zone résidentielle,automne,11,4,10,4,7.12,4.9,8.88,2023-11-04
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,hiver,12,25,19,0,24.2,18.48,0.0,2023-12-25
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone urbaine,été,8,7,12,4,2.46,1.02,5.76,2023-08-07
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone touristique bord de mer,hiver,1,22,16,3,14.71,9.25,16.38,2023-01-22
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone urbaine,été,6,25,10,5,11.45,7.44,20.05,2023-06-25
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone touristique bord de mer,été,7,24,13,9,7.72,3.1,41.58,2023-07-24
+EPICERIE,EPICERIE,Snacks,Curly,Zone résidentielle,hiver,2,17,16,5,24.45,12.97,57.4,2023-02-17
+EPICERIE,EPICERIE,Chocolat,Nutella,Zone touristique bord de mer,printemps,3,9,17,3,9.84,7.7,6.42,2023-03-09
+EPICERIE,EPICERIE,Bonbons,Haribo,Zone touristique bord de mer,été,7,6,18,3,12.48,7.08,16.2,2023-07-06
+EPICERIE,EPICERIE,Snacks,Chips,Zone touristique bord de mer,été,6,23,17,7,2.46,1.04,9.94,2023-06-23
+EPICERIE,EPICERIE,Boissons,Perrier,Zone rurale,automne,11,14,13,2,21.36,10.78,21.16,2023-11-14
+EPICERIE,EPICERIE,Biscuits,Prince,Zone urbaine,hiver,12,12,20,4,9.46,6.9,10.24,2023-12-12
+EPICERIE,EPICERIE,Biscuits,Prince,Zone touristique bord de mer,hiver,2,24,14,2,11.52,5.52,12.0,2023-02-24
+EPICERIE,EPICERIE,Bonbons,Têtes Brûlées,Zone rurale,printemps,3,2,10,1,9.25,5.87,3.38,2023-03-02
+EPICERIE,EPICERIE,Chocolat,Kinder,Zone rurale,hiver,1,19,16,1,15.03,11.8,3.23,2023-01-19
+EPICERIE,EPICERIE,Snacks,Curly,Zone urbaine,hiver,2,15,8,5,10.16,7.27,14.45,2023-02-15
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone urbaine,hiver,2,17,9,2,10.18,4.91,10.54,2023-02-17
+EPICERIE,EPICERIE,Chocolat,M&M’s,Zone résidentielle,automne,10,20,14,4,7.21,4.58,10.52,2023-10-20

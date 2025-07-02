@@ -1,0 +1,1648 @@
+client_id,type_commerce,categorie_produit,produit,zone,saison,mois,jour,heure,quantite,prix_unitaire,cout_unitaire,marge_totale,date_vente
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,hiver,1,4,20,3,20.44,13.88,19.68,2023-01-04
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,été,7,5,17,2,6.02,2.58,6.88,2023-07-05
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,hiver,12,4,15,1,23.75,11.07,12.68,2023-12-04
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone urbaine,automne,10,29,16,3,6.91,3.37,10.62,2023-10-29
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,printemps,4,28,9,5,22.78,16.94,29.2,2023-04-28
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,hiver,12,9,15,0,6.53,2.96,0.0,2023-12-09
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,été,8,5,10,1,8.05,4.02,4.03,2023-08-05
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,hiver,1,26,18,7,24.98,18.35,46.41,2023-01-26
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone rurale,automne,9,6,15,3,6.52,3.65,8.61,2023-09-06
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone urbaine,été,7,19,12,4,23.27,16.62,26.6,2023-07-19
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone montagne,hiver,2,1,19,1,8.87,3.73,5.14,2023-02-01
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,printemps,3,3,22,4,14.89,9.4,21.96,2023-03-03
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,hiver,12,3,17,1,14.78,7.78,7.0,2023-12-03
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,printemps,5,16,10,5,23.43,17.63,29.0,2023-05-16
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,été,8,13,21,5,14.27,7.43,34.2,2023-08-13
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,automne,10,11,10,2,7.9,5.07,5.66,2023-10-11
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone touristique bord de mer,hiver,1,23,8,3,9.34,4.22,15.36,2023-01-23
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,été,7,3,11,1,17.53,11.69,5.84,2023-07-03
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,été,6,20,20,4,23.37,16.85,26.08,2023-06-20
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,été,6,18,12,3,21.81,17.16,13.95,2023-06-18
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone résidentielle,automne,10,25,12,6,2.4,1.53,5.22,2023-10-25
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,hiver,1,1,16,6,23.25,14.31,53.64,2023-01-01
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,été,7,27,16,2,21.09,11.0,20.18,2023-07-27
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,hiver,12,2,13,6,12.43,7.17,31.56,2023-12-02
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,hiver,12,4,9,2,8.17,5.44,5.46,2023-12-04
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,automne,11,9,21,3,19.56,11.39,24.51,2023-11-09
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone résidentielle,printemps,4,1,20,8,24.01,14.58,75.44,2023-04-01
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,été,8,22,10,4,20.33,13.56,27.08,2023-08-22
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,été,8,1,14,2,9.28,5.44,7.68,2023-08-01
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone rurale,automne,10,27,19,4,1.96,1.47,1.96,2023-10-27
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,hiver,12,6,8,0,3.47,1.98,0.0,2023-12-06
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone rurale,hiver,12,9,9,3,14.75,7.19,22.68,2023-12-09
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,hiver,1,14,22,1,8.83,5.92,2.91,2023-01-14
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,printemps,3,3,20,3,24.62,17.56,21.18,2023-03-03
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,automne,11,30,12,5,15.97,12.26,18.55,2023-11-30
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,été,8,26,17,0,15.84,8.74,0.0,2023-08-26
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,automne,9,7,11,5,9.84,4.95,24.45,2023-09-07
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,hiver,12,20,10,2,6.0,4.17,3.66,2023-12-20
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,printemps,5,21,8,6,24.4,15.16,55.44,2023-05-21
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,automne,10,23,18,0,17.63,8.12,0.0,2023-10-23
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,hiver,12,5,9,1,5.19,2.44,2.75,2023-12-05
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone rurale,été,8,19,19,4,15.45,7.98,29.88,2023-08-19
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,hiver,12,26,21,3,12.17,8.21,11.88,2023-12-26
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,été,6,20,13,1,17.25,12.82,4.43,2023-06-20
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,automne,10,10,14,2,3.69,2.94,1.5,2023-10-10
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,automne,9,13,22,5,18.34,11.07,36.35,2023-09-13
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,été,8,22,8,1,18.48,10.42,8.06,2023-08-22
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,été,7,14,13,3,16.23,12.25,11.94,2023-07-14
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,hiver,2,20,20,6,16.39,12.28,24.66,2023-02-20
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone montagne,été,7,15,17,4,17.55,10.51,28.16,2023-07-15
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,printemps,5,27,20,1,20.27,13.03,7.24,2023-05-27
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,hiver,2,16,22,2,8.44,5.9,5.08,2023-02-16
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone montagne,été,7,7,16,3,13.29,6.76,19.59,2023-07-07
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,été,6,23,20,3,4.21,3.31,2.7,2023-06-23
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,été,7,7,9,1,20.08,8.14,11.94,2023-07-07
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone résidentielle,été,7,18,15,2,10.22,7.97,4.5,2023-07-18
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,automne,10,6,22,4,24.48,13.3,44.72,2023-10-06
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone urbaine,printemps,3,6,19,3,11.39,5.07,18.96,2023-03-06
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,automne,9,20,17,2,4.06,2.44,3.24,2023-09-20
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,hiver,2,3,10,4,7.96,5.2,11.04,2023-02-03
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,printemps,4,21,14,1,12.11,5.95,6.16,2023-04-21
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,été,6,30,9,7,15.08,7.32,54.32,2023-06-30
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,automne,9,6,17,5,11.89,6.06,29.15,2023-09-06
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone touristique bord de mer,été,6,17,9,3,1.68,1.17,1.53,2023-06-17
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,hiver,12,27,11,3,13.26,9.72,10.62,2023-12-27
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,été,8,12,17,3,10.91,4.71,18.6,2023-08-12
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,été,6,28,13,5,18.59,13.53,25.3,2023-06-28
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone résidentielle,printemps,5,12,11,3,5.58,2.57,9.03,2023-05-12
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone touristique bord de mer,hiver,2,9,18,5,21.81,16.19,28.1,2023-02-09
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,été,6,14,17,3,12.68,5.84,20.52,2023-06-14
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,hiver,2,13,16,3,16.68,6.93,29.25,2023-02-13
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,printemps,4,26,10,2,5.14,2.66,4.96,2023-04-26
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,hiver,1,20,18,4,9.41,6.65,11.04,2023-01-20
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,printemps,3,25,10,1,21.04,14.91,6.13,2023-03-25
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,été,7,30,13,3,17.39,8.61,26.34,2023-07-30
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,automne,10,11,22,1,3.91,2.89,1.02,2023-10-11
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,printemps,5,20,15,2,22.77,10.45,24.64,2023-05-20
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,printemps,3,16,10,5,2.4,1.84,2.8,2023-03-16
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,printemps,5,3,14,2,16.52,10.72,11.6,2023-05-03
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone montagne,automne,10,2,8,0,16.35,10.3,0.0,2023-10-02
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,automne,9,26,13,2,3.09,1.89,2.4,2023-09-26
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,printemps,3,10,8,1,9.78,5.24,4.54,2023-03-10
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,printemps,5,31,11,0,2.53,1.21,0.0,2023-05-31
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,été,7,23,21,2,14.26,7.15,14.22,2023-07-23
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,hiver,2,22,9,5,9.21,4.77,22.2,2023-02-22
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone résidentielle,automne,9,13,16,3,10.59,6.62,11.91,2023-09-13
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,hiver,12,30,9,3,14.42,7.44,20.94,2023-12-30
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone urbaine,été,7,4,16,10,14.95,8.78,24.68,2023-07-04
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,été,6,26,10,4,22.13,15.76,25.48,2023-06-26
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,printemps,3,26,10,4,9.08,6.21,11.48,2023-03-26
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,automne,10,1,9,2,13.31,6.22,14.18,2023-10-01
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone montagne,printemps,5,16,18,7,6.45,4.06,16.73,2023-05-16
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,été,8,23,11,3,6.56,3.55,9.03,2023-08-23
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,hiver,12,1,18,4,12.56,7.72,19.36,2023-12-01
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,été,7,7,20,3,10.98,4.59,19.17,2023-07-07
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,été,7,5,16,7,8.28,4.59,25.83,2023-07-05
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,automne,10,31,13,0,13.42,8.1,0.0,2023-10-31
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,3,19,14,1,17.73,10.0,7.73,2023-03-19
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,automne,10,9,22,1,5.21,3.44,1.77,2023-10-09
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,automne,10,1,19,4,18.49,14.32,16.68,2023-10-01
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,été,7,23,20,5,13.14,10.18,14.8,2023-07-23
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone rurale,été,8,7,16,0,9.21,5.16,0.0,2023-08-07
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone rurale,été,6,15,22,4,7.33,3.7,14.52,2023-06-15
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,été,6,4,17,5,18.49,7.48,55.05,2023-06-04
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone rurale,printemps,3,20,15,2,19.07,12.25,13.64,2023-03-20
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,printemps,4,14,17,0,14.11,6.57,0.0,2023-04-14
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,été,8,1,15,4,14.75,9.2,22.2,2023-08-01
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone touristique bord de mer,hiver,12,25,9,4,14.22,6.03,32.76,2023-12-25
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,été,7,29,10,6,19.57,13.82,34.5,2023-07-29
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,printemps,3,10,18,1,21.72,9.72,12.0,2023-03-10
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,hiver,1,17,20,0,17.01,10.99,0.0,2023-01-17
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone urbaine,hiver,2,21,17,7,2.29,1.46,5.81,2023-02-21
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone touristique bord de mer,printemps,4,30,21,2,23.04,14.53,17.02,2023-04-30
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,hiver,2,1,16,1,23.79,17.89,5.9,2023-02-01
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,automne,10,12,15,1,2.6,1.4,1.2,2023-10-12
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,automne,10,13,16,2,4.65,2.31,4.68,2023-10-13
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,été,8,19,21,3,10.22,6.28,11.82,2023-08-19
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone rurale,hiver,12,11,17,2,15.67,11.74,7.86,2023-12-11
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,printemps,4,22,15,2,6.41,4.89,3.04,2023-04-22
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,été,7,23,22,1,7.12,3.76,3.36,2023-07-23
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,hiver,1,9,12,2,14.5,9.19,10.62,2023-01-09
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,printemps,5,12,20,1,20.81,16.37,4.44,2023-05-12
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,automne,9,26,8,6,21.22,9.12,72.6,2023-09-26
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,été,8,22,13,7,2.92,1.91,1.01,2023-08-22
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone montagne,printemps,3,18,11,5,6.01,3.67,11.7,2023-03-18
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,automne,10,17,21,7,24.39,18.49,41.3,2023-10-17
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,automne,9,1,12,5,2.59,1.11,4.44,2023-09-01
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,été,6,5,8,1,23.8,12.68,11.12,2023-06-05
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,hiver,2,7,15,3,24.78,14.66,30.36,2023-02-07
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,hiver,12,13,20,2,5.36,4.25,2.22,2023-12-13
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,printemps,3,23,13,3,14.66,11.48,9.54,2023-03-23
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,printemps,4,6,18,2,16.95,9.46,14.98,2023-04-06
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,automne,10,23,9,3,20.29,12.47,23.46,2023-10-23
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone urbaine,printemps,4,4,13,4,17.8,10.76,28.16,2023-04-04
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,printemps,5,24,17,3,14.16,7.5,19.98,2023-05-24
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone urbaine,printemps,5,22,21,0,16.91,11.51,0.0,2023-05-22
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone touristique bord de mer,printemps,5,7,20,3,21.32,11.88,28.32,2023-05-07
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,automne,11,18,14,4,10.32,4.44,23.52,2023-11-18
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,hiver,12,22,22,6,22.12,12.87,55.5,2023-12-22
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone rurale,été,8,22,8,1,24.81,14.17,10.64,2023-08-22
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,automne,10,31,11,4,13.71,7.92,23.16,2023-10-31
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,été,8,5,19,2,4.61,1.97,5.28,2023-08-05
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,hiver,2,5,16,4,14.74,9.49,21.0,2023-02-05
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,automne,11,18,19,3,5.06,2.86,6.6,2023-11-18
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,printemps,5,4,15,3,16.49,7.06,28.29,2023-05-04
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,été,7,18,21,5,21.22,12.06,45.8,2023-07-18
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,printemps,5,27,18,5,18.25,12.9,26.75,2023-05-27
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,printemps,4,15,20,4,5.15,2.73,9.68,2023-04-15
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,hiver,1,29,12,2,17.15,11.37,11.56,2023-01-29
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone résidentielle,hiver,12,26,8,1,5.35,4.18,1.17,2023-12-26
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,hiver,2,22,22,4,14.99,10.33,18.64,2023-02-22
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,hiver,1,23,21,1,21.78,10.84,10.94,2023-01-23
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,automne,9,15,18,2,22.7,10.71,23.98,2023-09-15
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,printemps,3,19,8,2,23.41,9.59,27.64,2023-03-19
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,hiver,1,23,22,2,6.94,5.12,3.64,2023-01-23
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone rurale,été,6,10,14,2,4.34,2.36,3.96,2023-06-10
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,5,16,21,4,4.32,2.0,9.28,2023-05-16
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,automne,10,9,11,7,3.73,1.64,14.63,2023-10-09
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone urbaine,printemps,4,24,10,3,6.16,3.45,8.13,2023-04-24
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone résidentielle,hiver,2,17,22,2,21.41,15.49,11.84,2023-02-17
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone urbaine,printemps,3,28,22,1,14.99,10.92,4.07,2023-03-28
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,3,18,8,3,15.93,10.3,16.89,2023-03-18
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,printemps,5,8,18,1,24.86,15.35,9.51,2023-05-08
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,automne,9,3,16,2,19.86,10.68,18.36,2023-09-03
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,automne,9,29,13,3,19.52,15.61,11.73,2023-09-29
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone résidentielle,printemps,5,17,16,1,20.68,15.86,4.82,2023-05-17
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone rurale,été,7,1,22,7,21.22,15.66,38.92,2023-07-01
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone touristique bord de mer,hiver,12,24,13,2,22.98,9.45,27.06,2023-12-24
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,hiver,1,1,13,3,23.07,11.09,35.94,2023-01-01
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,été,6,15,8,6,2.01,1.28,4.38,2023-06-15
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone touristique bord de mer,hiver,2,7,13,5,18.06,12.01,30.25,2023-02-07
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone montagne,été,7,20,21,3,24.87,19.55,15.96,2023-07-20
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone touristique bord de mer,automne,11,10,11,5,16.53,7.3,46.15,2023-11-10
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,été,8,17,8,5,7.73,3.86,19.35,2023-08-17
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,hiver,1,1,8,3,10.57,7.33,9.72,2023-01-01
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,été,6,29,16,3,10.32,7.55,8.31,2023-06-29
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,automne,11,1,17,4,22.49,15.33,28.64,2023-11-01
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,automne,10,4,12,7,17.02,8.83,57.33,2023-10-04
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,automne,10,9,21,2,13.04,5.5,15.08,2023-10-09
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,hiver,12,5,18,3,15.61,7.49,24.36,2023-12-05
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone touristique bord de mer,hiver,2,11,15,3,21.33,11.16,30.51,2023-02-11
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,automne,10,20,18,6,24.59,11.29,79.8,2023-10-20
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,été,7,23,16,2,9.16,4.68,8.96,2023-07-23
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,hiver,2,21,22,3,3.98,2.83,3.45,2023-02-21
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,été,7,26,10,3,19.84,12.1,23.22,2023-07-26
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,printemps,5,21,13,1,20.85,12.55,8.3,2023-05-21
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone résidentielle,printemps,5,18,18,4,11.12,4.54,26.32,2023-05-18
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone touristique bord de mer,automne,10,15,18,4,15.45,7.93,30.08,2023-10-15
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,été,8,4,20,4,22.34,12.26,40.32,2023-08-04
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,hiver,1,10,18,5,1.6,1.11,2.45,2023-01-10
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,printemps,3,8,9,2,10.51,6.68,7.66,2023-03-08
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone touristique bord de mer,printemps,5,29,15,3,18.6,11.88,20.16,2023-05-29
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,printemps,4,25,19,8,24.64,11.94,101.6,2023-04-25
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,printemps,3,5,13,3,18.21,13.05,15.48,2023-03-05
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,hiver,12,20,9,5,11.29,6.23,25.3,2023-12-20
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,printemps,3,2,12,3,4.18,1.85,6.99,2023-03-02
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,automne,9,25,11,1,9.91,5.59,4.32,2023-09-25
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,printemps,4,17,19,4,23.43,12.47,43.84,2023-04-17
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone urbaine,automne,10,21,18,4,13.11,10.22,11.56,2023-10-21
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone résidentielle,été,6,18,13,1,22.52,17.61,4.91,2023-06-18
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,printemps,3,23,9,4,11.28,7.18,16.4,2023-03-23
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,automne,9,18,16,6,6.36,4.25,12.66,2023-09-18
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,hiver,2,24,12,7,15.86,7.53,58.31,2023-02-24
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,printemps,5,31,15,2,20.41,9.29,22.24,2023-05-31
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,printemps,5,29,18,6,9.61,6.43,9.54,2023-05-29
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,automne,10,5,8,1,9.93,5.77,4.16,2023-10-05
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,hiver,12,16,9,5,5.89,2.77,15.6,2023-12-16
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,été,7,26,9,3,9.71,7.32,7.17,2023-07-26
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,printemps,5,25,8,5,22.92,16.71,31.05,2023-05-25
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone touristique bord de mer,automne,10,13,9,2,15.01,7.37,15.28,2023-10-13
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,printemps,3,14,10,4,5.82,3.76,8.24,2023-03-14
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone résidentielle,printemps,4,24,19,6,18.89,10.85,48.24,2023-04-24
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,automne,10,30,11,2,22.8,14.15,17.3,2023-10-30
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,hiver,12,17,10,6,19.29,8.8,62.94,2023-12-17
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone montagne,hiver,12,4,21,2,24.24,16.83,14.82,2023-12-04
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,été,7,4,14,5,12.54,7.3,26.2,2023-07-04
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone urbaine,hiver,12,27,16,3,16.39,8.35,24.12,2023-12-27
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,printemps,4,25,16,5,11.04,8.02,15.1,2023-04-25
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone touristique bord de mer,printemps,4,19,10,4,5.89,3.21,10.72,2023-04-19
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone montagne,automne,10,31,10,2,4.67,2.83,3.68,2023-10-31
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,printemps,5,16,10,2,18.52,9.95,17.14,2023-05-16
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,été,7,29,12,4,5.94,4.06,7.52,2023-07-29
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,automne,9,24,8,1,10.31,4.97,5.34,2023-09-24
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,hiver,2,21,11,4,13.45,9.61,15.36,2023-02-21
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,hiver,2,15,9,3,7.68,4.21,10.41,2023-02-15
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,printemps,5,3,18,1,1.51,0.7,0.81,2023-05-03
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,automne,9,17,9,1,14.63,8.8,5.83,2023-09-17
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,été,6,11,14,5,23.95,14.53,47.1,2023-06-11
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,printemps,5,28,9,6,10.87,7.6,19.62,2023-05-28
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone résidentielle,automne,11,13,13,4,5.17,2.29,11.52,2023-11-13
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,automne,11,11,8,2,19.46,12.0,14.92,2023-11-11
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,été,6,11,15,1,22.61,17.01,5.6,2023-06-11
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,automne,9,2,16,4,2.27,1.22,4.2,2023-09-02
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,automne,10,25,9,4,9.15,5.9,13.0,2023-10-25
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,automne,10,12,14,1,21.62,10.34,11.28,2023-10-12
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,printemps,5,14,13,4,9.97,6.21,15.04,2023-05-14
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,printemps,3,31,20,0,8.19,4.34,0.0,2023-03-31
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone rurale,automne,11,20,17,0,14.93,11.04,0.0,2023-11-20
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone touristique bord de mer,printemps,4,27,13,3,8.95,4.62,12.99,2023-04-27
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,printemps,4,18,10,5,10.83,4.75,30.4,2023-04-18
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,automne,11,17,10,3,4.59,3.38,3.63,2023-11-17
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone touristique bord de mer,automne,9,1,15,3,24.41,15.04,28.11,2023-09-01
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone touristique bord de mer,printemps,4,7,14,1,22.23,12.78,9.45,2023-04-07
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone rurale,printemps,4,23,12,2,3.36,2.18,2.36,2023-04-23
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone résidentielle,printemps,5,29,9,1,16.47,10.66,5.81,2023-05-29
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone touristique bord de mer,printemps,5,18,10,2,18.31,12.65,11.32,2023-05-18
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone urbaine,automne,9,10,11,1,9.53,5.0,4.53,2023-09-10
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,automne,10,6,15,6,5.77,4.38,8.34,2023-10-06
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,printemps,5,1,18,3,11.7,4.75,20.85,2023-05-01
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone résidentielle,été,6,12,16,11,20.03,14.07,5.96,2023-06-12
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,automne,10,14,12,2,14.25,8.49,11.52,2023-10-14
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,printemps,5,3,13,3,18.44,12.23,18.63,2023-05-03
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone résidentielle,hiver,2,24,15,0,6.0,2.48,0.0,2023-02-24
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,hiver,1,7,22,6,23.14,15.33,46.86,2023-01-07
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,été,7,4,16,6,18.97,14.34,27.78,2023-07-04
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone résidentielle,automne,10,19,18,2,23.77,14.82,17.9,2023-10-19
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone montagne,été,7,25,16,3,9.43,4.37,15.18,2023-07-25
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone urbaine,hiver,12,20,21,1,7.98,4.96,3.02,2023-12-20
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone urbaine,automne,11,21,20,2,16.36,6.9,18.92,2023-11-21
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone rurale,automne,11,1,17,6,13.36,6.53,40.98,2023-11-01
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,automne,9,7,14,4,16.83,8.05,35.12,2023-09-07
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,hiver,12,31,8,2,2.43,1.87,1.12,2023-12-31
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,hiver,12,14,17,2,22.01,14.85,14.32,2023-12-14
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,printemps,3,11,14,4,24.9,19.68,20.88,2023-03-11
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,été,6,12,9,2,14.6,11.38,6.44,2023-06-12
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone résidentielle,hiver,1,16,20,2,8.99,7.09,3.8,2023-01-16
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,automne,11,7,17,2,15.89,10.15,11.48,2023-11-07
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,hiver,2,10,19,2,19.83,9.0,21.66,2023-02-10
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone urbaine,printemps,5,19,14,5,6.73,4.5,11.15,2023-05-19
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone résidentielle,été,8,13,21,4,16.0,10.8,20.8,2023-08-13
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,été,8,22,21,4,22.13,16.62,22.04,2023-08-22
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,hiver,1,21,16,4,10.6,7.48,12.48,2023-01-21
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone rurale,été,7,23,22,0,8.66,6.33,0.0,2023-07-23
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,hiver,2,16,19,4,13.27,6.26,28.04,2023-02-16
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,hiver,2,16,9,1,18.1,11.83,6.27,2023-02-16
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,automne,9,19,17,2,23.82,13.14,21.36,2023-09-19
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone rurale,été,6,7,12,1,18.66,14.64,4.02,2023-06-07
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,automne,10,6,20,7,1.64,1.24,2.8,2023-10-06
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone rurale,été,8,21,14,3,11.88,7.61,12.81,2023-08-21
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone touristique bord de mer,automne,11,14,18,4,14.6,10.66,15.76,2023-11-14
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone urbaine,hiver,12,1,13,5,2.36,1.75,3.05,2023-12-01
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,hiver,12,5,19,2,17.95,11.29,13.32,2023-12-05
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone touristique bord de mer,automne,9,27,14,2,13.83,9.38,8.9,2023-09-27
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,printemps,4,17,20,3,15.96,9.03,20.79,2023-04-17
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,automne,11,23,11,6,1.77,0.85,5.52,2023-11-23
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,été,7,22,19,5,14.87,11.66,16.05,2023-07-22
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone touristique bord de mer,hiver,12,11,15,7,23.03,16.56,45.29,2023-12-11
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,printemps,4,6,17,1,4.25,3.03,1.22,2023-04-06
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone rurale,automne,9,17,8,3,20.28,15.45,14.49,2023-09-17
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone rurale,automne,9,26,12,1,19.73,9.02,10.71,2023-09-26
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,printemps,4,16,19,2,2.36,1.31,2.1,2023-04-16
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone rurale,printemps,4,2,19,2,15.51,9.88,11.26,2023-04-02
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone montagne,printemps,5,13,22,1,10.04,4.75,5.29,2023-05-13
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,automne,10,9,8,3,1.52,0.95,1.71,2023-10-09
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,printemps,3,10,8,5,3.19,1.3,9.45,2023-03-10
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone rurale,hiver,12,27,13,1,4.16,2.47,1.69,2023-12-27
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,printemps,3,19,18,3,12.0,8.68,9.96,2023-03-19
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone résidentielle,automne,9,11,20,3,24.85,17.6,21.75,2023-09-11
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,printemps,4,18,17,5,18.76,10.09,43.35,2023-04-18
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,hiver,12,29,9,0,3.53,2.27,0.0,2023-12-29
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,été,8,7,19,9,22.73,16.09,59.76,2023-08-07
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,été,8,14,9,5,13.06,10.07,14.95,2023-08-14
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,été,7,16,19,4,20.72,12.28,33.76,2023-07-16
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,automne,10,4,18,1,8.73,5.36,3.37,2023-10-04
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,hiver,12,14,21,2,22.05,10.13,23.84,2023-12-14
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,automne,10,30,9,5,20.72,9.17,57.75,2023-10-30
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone résidentielle,été,6,21,9,5,4.34,1.98,11.8,2023-06-21
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone rurale,printemps,3,22,8,2,22.17,9.58,25.18,2023-03-22
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone montagne,printemps,5,26,14,4,17.8,12.76,20.16,2023-05-26
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone urbaine,automne,11,2,10,2,18.35,11.83,13.04,2023-11-02
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,été,8,3,8,3,14.61,6.97,22.92,2023-08-03
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone montagne,printemps,4,1,10,3,19.96,11.86,24.3,2023-04-01
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,automne,10,31,17,4,9.16,4.39,19.08,2023-10-31
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,été,8,30,17,2,12.88,9.74,6.28,2023-08-30
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone rurale,printemps,4,2,14,2,10.28,5.99,8.58,2023-04-02
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,printemps,4,14,13,4,4.49,3.04,5.8,2023-04-14
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,été,8,27,15,5,11.33,7.98,16.75,2023-08-27
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,automne,11,23,17,2,22.78,14.38,16.8,2023-11-23
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone montagne,hiver,1,18,14,3,13.98,8.27,17.13,2023-01-18
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,printemps,3,24,19,2,12.29,7.72,9.14,2023-03-24
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,été,6,21,19,1,23.41,14.18,9.23,2023-06-21
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,hiver,12,14,21,5,14.02,7.25,33.85,2023-12-14
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,printemps,5,31,14,2,24.29,14.98,18.62,2023-05-31
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,été,8,16,19,1,16.65,8.6,8.05,2023-08-16
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,automne,11,27,13,3,11.17,6.0,15.51,2023-11-27
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,printemps,4,4,10,3,21.22,14.37,20.55,2023-04-04
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,été,8,23,22,4,9.03,3.63,21.6,2023-08-23
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone urbaine,été,6,7,8,7,10.94,8.06,20.16,2023-06-07
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,hiver,2,12,16,3,21.46,14.4,21.18,2023-02-12
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,automne,9,9,13,3,15.67,9.47,18.6,2023-09-09
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,printemps,3,17,19,1,21.56,11.81,9.75,2023-03-17
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone rurale,été,8,15,12,2,5.35,3.7,3.3,2023-08-15
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone rurale,printemps,5,29,16,3,13.03,9.5,10.59,2023-05-29
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone touristique bord de mer,automne,11,24,21,4,16.46,7.4,36.24,2023-11-24
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,automne,11,3,19,3,10.0,5.92,12.24,2023-11-03
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone touristique bord de mer,été,7,10,20,5,12.9,6.92,29.9,2023-07-10
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone résidentielle,automne,9,15,11,5,21.04,15.11,29.65,2023-09-15
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,hiver,12,20,13,4,4.77,2.75,8.08,2023-12-20
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone résidentielle,été,6,7,10,1,6.43,5.1,1.33,2023-06-07
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone montagne,automne,10,31,8,4,12.52,9.56,11.84,2023-10-31
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone urbaine,hiver,2,19,20,7,4.41,2.83,11.06,2023-02-19
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,hiver,2,20,21,4,15.09,6.12,35.88,2023-02-20
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,printemps,3,29,22,1,19.22,7.72,11.5,2023-03-29
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,hiver,2,22,19,1,23.24,18.39,4.85,2023-02-22
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,printemps,4,13,17,1,21.33,11.98,9.35,2023-04-13
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,printemps,5,23,20,3,18.27,11.56,20.13,2023-05-23
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,hiver,2,20,19,3,2.74,1.17,4.71,2023-02-20
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone urbaine,été,7,16,15,2,8.89,4.89,8.0,2023-07-16
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,hiver,12,4,16,1,17.61,11.07,6.54,2023-12-04
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,été,7,30,13,4,2.83,1.41,5.68,2023-07-30
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,hiver,2,13,22,3,17.67,13.21,13.38,2023-02-13
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,automne,10,3,13,2,2.38,1.58,1.6,2023-10-03
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,printemps,5,16,8,3,8.49,5.34,9.45,2023-05-16
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,automne,10,24,9,4,15.41,7.85,30.24,2023-10-24
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,hiver,12,5,21,6,18.94,11.12,46.92,2023-12-05
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone touristique bord de mer,été,8,11,14,6,8.99,6.58,14.46,2023-08-11
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,printemps,5,17,21,5,8.25,3.83,22.1,2023-05-17
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,printemps,5,13,20,2,20.38,13.52,13.72,2023-05-13
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,hiver,1,11,8,4,21.7,9.41,49.16,2023-01-11
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone rurale,été,7,29,12,2,21.78,9.2,25.16,2023-07-29
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,été,8,13,18,3,8.95,6.49,7.38,2023-08-13
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,automne,10,8,19,3,9.18,6.22,8.88,2023-10-08
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,automne,11,19,15,6,20.09,9.13,65.76,2023-11-19
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,été,8,3,10,3,11.1,5.09,18.03,2023-08-03
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,été,6,20,22,5,7.02,5.36,8.3,2023-06-20
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,hiver,1,23,10,0,13.23,10.44,0.0,2023-01-23
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,hiver,1,28,11,3,4.99,2.45,7.62,2023-01-28
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,hiver,12,28,15,1,11.76,9.39,2.37,2023-12-28
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,automne,10,16,22,3,17.08,8.28,26.4,2023-10-16
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,été,8,2,22,6,3.31,2.34,5.82,2023-08-02
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,printemps,4,2,20,1,5.78,3.22,2.56,2023-04-02
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,été,6,10,17,7,18.52,13.02,38.5,2023-06-10
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,hiver,12,21,14,2,21.92,17.24,9.36,2023-12-21
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,printemps,4,18,15,5,16.74,11.05,28.45,2023-04-18
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone résidentielle,hiver,12,26,15,5,24.15,14.21,49.7,2023-12-26
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,été,8,31,9,3,13.13,10.18,8.85,2023-08-31
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,automne,11,13,11,2,4.34,2.13,4.42,2023-11-13
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone montagne,hiver,2,22,21,1,14.72,8.88,5.84,2023-02-22
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,été,7,5,10,4,18.62,12.72,23.6,2023-07-05
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,printemps,5,6,21,3,20.51,11.0,28.53,2023-05-06
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,hiver,2,13,13,4,8.9,7.06,7.36,2023-02-13
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,hiver,1,19,18,2,23.18,10.67,25.02,2023-01-19
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,automne,11,26,11,0,22.36,14.53,0.0,2023-11-26
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone rurale,printemps,3,8,15,4,6.55,2.82,14.92,2023-03-08
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,été,7,10,12,1,24.79,12.92,11.87,2023-07-10
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,été,6,8,17,3,12.13,6.49,16.92,2023-06-08
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,automne,9,1,16,0,22.58,10.12,0.0,2023-09-01
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,été,8,1,8,1,21.7,11.43,10.27,2023-08-01
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone rurale,hiver,12,14,10,2,2.88,2.26,1.24,2023-12-14
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone touristique bord de mer,été,7,19,9,4,9.02,5.1,15.68,2023-07-19
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,été,7,17,9,4,7.83,4.13,14.8,2023-07-17
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,hiver,12,12,9,7,7.29,4.53,19.32,2023-12-12
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,été,8,17,9,3,21.39,12.84,25.65,2023-08-17
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,printemps,5,6,16,3,23.89,18.74,15.45,2023-05-06
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone rurale,printemps,5,20,17,5,7.4,4.97,12.15,2023-05-20
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,hiver,1,9,22,6,17.76,11.7,36.36,2023-01-09
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,hiver,1,5,18,3,5.58,3.47,6.33,2023-01-05
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,hiver,1,11,20,3,8.11,6.23,5.64,2023-01-11
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone urbaine,printemps,5,23,17,4,13.26,6.21,28.2,2023-05-23
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,hiver,12,11,18,2,15.67,7.37,16.6,2023-12-11
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,hiver,2,7,20,4,15.6,8.98,26.48,2023-02-07
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,printemps,3,5,9,5,24.4,18.71,28.45,2023-03-05
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,été,8,21,16,2,9.21,4.39,9.64,2023-08-21
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone urbaine,automne,10,31,20,2,21.26,16.19,10.14,2023-10-31
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,été,7,1,14,2,12.81,8.31,9.0,2023-07-01
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone urbaine,hiver,1,31,10,4,8.82,5.07,15.0,2023-01-31
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,hiver,1,28,14,3,9.58,7.57,6.03,2023-01-28
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone urbaine,automne,9,11,11,1,23.12,15.16,7.96,2023-09-11
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone urbaine,automne,10,12,9,6,4.85,2.79,12.36,2023-10-12
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,été,7,9,20,1,10.25,4.8,5.45,2023-07-09
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,hiver,12,22,13,1,8.97,5.13,3.84,2023-12-22
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,automne,11,19,20,4,8.08,3.64,17.76,2023-11-19
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,automne,11,27,20,2,13.47,8.07,10.8,2023-11-27
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,printemps,5,1,14,2,6.64,3.78,5.72,2023-05-01
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,automne,10,7,18,2,3.34,1.71,3.26,2023-10-07
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone urbaine,été,7,4,8,2,14.33,7.65,13.36,2023-07-04
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,printemps,5,14,8,1,19.6,10.05,9.55,2023-05-14
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,printemps,4,18,15,4,6.99,4.44,10.2,2023-04-18
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,hiver,12,20,16,6,8.54,5.42,18.72,2023-12-20
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,hiver,1,17,21,2,17.69,10.53,14.32,2023-01-17
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone rurale,printemps,5,26,11,4,6.98,4.63,9.4,2023-05-26
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,automne,9,23,8,3,5.54,4.12,4.26,2023-09-23
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,automne,10,28,11,3,13.31,8.97,13.02,2023-10-28
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,automne,9,9,15,2,12.37,5.14,14.46,2023-09-09
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,été,6,27,19,2,21.3,15.27,12.06,2023-06-27
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone touristique bord de mer,automne,11,18,16,3,8.36,6.41,5.85,2023-11-18
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,été,8,19,10,2,7.44,4.48,5.92,2023-08-19
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,été,7,20,10,4,3.32,2.34,3.92,2023-07-20
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,printemps,4,23,22,2,3.77,2.77,2.0,2023-04-23
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone urbaine,été,7,2,13,5,5.58,3.13,12.25,2023-07-02
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,printemps,4,14,10,0,10.33,6.78,0.0,2023-04-14
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,été,6,18,10,4,8.04,5.29,11.0,2023-06-18
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,hiver,1,13,11,5,21.4,11.4,50.0,2023-01-13
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone urbaine,hiver,12,7,11,2,20.33,13.79,13.08,2023-12-07
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,été,6,14,10,3,11.9,4.79,21.33,2023-06-14
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,printemps,5,1,16,5,3.34,2.3,5.2,2023-05-01
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,été,8,7,21,4,3.46,2.64,3.28,2023-08-07
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone urbaine,hiver,1,7,21,9,13.27,9.16,24.66,2023-01-07
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,été,7,23,19,1,15.27,11.61,3.66,2023-07-23
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,automne,10,18,21,7,6.5,3.12,23.66,2023-10-18
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,automne,9,6,18,4,19.37,7.82,46.2,2023-09-06
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,hiver,1,2,15,3,21.96,12.31,28.95,2023-01-02
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone urbaine,automne,9,29,12,7,23.85,16.71,49.98,2023-09-29
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,hiver,12,18,18,3,21.94,13.29,25.95,2023-12-18
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,hiver,12,4,21,2,17.94,7.9,20.08,2023-12-04
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone urbaine,été,8,11,19,0,2.19,1.69,0.0,2023-08-11
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,automne,11,21,19,4,13.06,9.38,14.72,2023-11-21
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,printemps,4,7,19,2,23.64,14.87,17.54,2023-04-07
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,hiver,1,1,12,2,2.95,1.81,2.28,2023-01-01
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,hiver,12,15,15,3,4.96,2.55,7.23,2023-12-15
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,été,6,3,21,3,16.99,12.56,13.29,2023-06-03
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,été,8,5,18,6,12.63,6.81,34.92,2023-08-05
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,hiver,12,2,10,5,15.06,8.69,31.85,2023-12-02
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,hiver,2,22,18,3,19.96,14.84,15.36,2023-02-22
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone touristique bord de mer,automne,10,31,14,3,24.29,15.81,25.44,2023-10-31
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,hiver,12,21,20,5,17.26,7.52,48.7,2023-12-21
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone rurale,automne,11,25,18,3,22.85,11.2,34.95,2023-11-25
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone résidentielle,automne,11,3,19,1,5.73,3.56,2.17,2023-11-03
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,automne,11,5,16,7,6.58,3.58,21.0,2023-11-05
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,hiver,2,8,16,2,7.49,4.14,6.7,2023-02-08
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,printemps,5,11,18,2,11.5,7.79,7.42,2023-05-11
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,printemps,5,19,9,2,13.99,9.42,9.14,2023-05-19
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,été,7,13,11,5,10.4,4.6,29.0,2023-07-13
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone touristique bord de mer,automne,10,29,21,0,20.46,8.97,0.0,2023-10-29
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,été,6,6,14,3,19.61,14.47,15.42,2023-06-06
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,3,29,13,6,24.29,13.0,67.74,2023-03-29
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,été,7,21,11,1,23.19,17.89,5.3,2023-07-21
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,hiver,2,21,14,2,13.06,5.67,14.78,2023-02-21
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,été,6,3,13,7,11.57,5.47,42.7,2023-06-03
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone montagne,hiver,1,7,20,2,17.58,7.4,20.36,2023-01-07
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,printemps,4,9,22,1,4.94,2.01,2.93,2023-04-09
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone rurale,été,7,28,16,0,8.7,5.68,0.0,2023-07-28
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone rurale,automne,9,3,8,4,13.48,8.86,18.48,2023-09-03
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone urbaine,hiver,1,27,18,4,19.0,9.21,39.16,2023-01-27
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,automne,10,29,16,2,15.71,7.78,15.86,2023-10-29
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,été,6,25,12,4,18.55,14.76,15.16,2023-06-25
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,hiver,1,23,10,3,6.01,3.73,6.84,2023-01-23
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,automne,9,15,20,2,2.01,1.29,1.44,2023-09-15
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,hiver,1,21,18,0,4.98,3.75,0.0,2023-01-21
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,printemps,4,18,16,1,4.23,2.79,1.44,2023-04-18
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,été,6,16,8,5,16.21,6.55,48.3,2023-06-16
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,été,6,8,10,4,22.3,16.21,24.36,2023-06-08
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,hiver,2,26,21,4,1.82,1.33,1.96,2023-02-26
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone urbaine,printemps,5,18,10,3,23.56,15.07,25.47,2023-05-18
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone touristique bord de mer,hiver,12,29,9,2,6.25,3.7,5.1,2023-12-29
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,automne,11,6,10,3,5.68,3.48,6.6,2023-11-06
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,été,7,17,13,1,9.0,5.13,3.87,2023-07-17
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,printemps,3,10,22,1,4.09,3.13,0.96,2023-03-10
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone urbaine,hiver,1,7,17,9,21.03,11.92,54.66,2023-01-07
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,automne,9,28,19,4,23.8,14.0,39.2,2023-09-28
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,printemps,3,24,8,4,10.82,6.16,18.64,2023-03-24
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,été,7,13,10,3,18.96,10.62,25.02,2023-07-13
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone résidentielle,automne,10,14,17,2,21.28,15.46,11.64,2023-10-14
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,printemps,4,14,18,1,23.34,11.58,11.76,2023-04-14
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,automne,10,16,20,2,12.87,5.4,14.94,2023-10-16
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,printemps,5,25,14,2,13.26,6.97,12.58,2023-05-25
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,hiver,12,15,18,5,4.81,3.31,7.5,2023-12-15
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,été,6,10,10,3,23.45,10.89,37.68,2023-06-10
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,été,8,19,12,1,22.12,17.62,4.5,2023-08-19
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,printemps,5,6,19,4,20.8,8.39,49.64,2023-05-06
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,automne,10,19,14,6,21.56,10.55,66.06,2023-10-19
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,hiver,2,28,12,4,12.18,7.53,18.6,2023-02-28
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,4,20,8,1,6.47,2.65,3.82,2023-04-20
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone rurale,été,6,25,20,5,8.48,4.07,22.05,2023-06-25
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,automne,9,24,19,3,1.59,0.92,2.01,2023-09-24
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,hiver,2,19,8,5,6.64,5.26,6.9,2023-02-19
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,été,7,31,14,3,9.77,7.14,7.89,2023-07-31
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,automne,11,27,19,3,19.94,11.13,26.43,2023-11-27
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,printemps,4,10,16,3,21.25,14.67,19.74,2023-04-10
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,hiver,1,12,14,3,3.23,2.53,2.1,2023-01-12
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone rurale,été,6,10,18,2,22.85,16.53,12.64,2023-06-10
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,hiver,12,4,17,4,16.33,12.12,16.84,2023-12-04
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,automne,11,11,17,6,14.34,6.64,46.2,2023-11-11
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone urbaine,printemps,4,22,8,4,9.2,4.49,18.84,2023-04-22
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,été,7,3,11,4,3.21,2.13,4.32,2023-07-03
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,printemps,4,30,16,6,3.06,1.57,8.94,2023-04-30
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,automne,10,15,12,3,18.33,14.27,12.18,2023-10-15
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone rurale,automne,9,13,8,3,24.77,14.08,32.07,2023-09-13
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,été,6,17,17,2,10.5,6.62,7.76,2023-06-17
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,été,6,22,18,3,1.88,1.11,2.31,2023-06-22
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone rurale,printemps,4,26,10,6,3.57,2.46,6.66,2023-04-26
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,hiver,12,4,18,3,18.78,9.06,29.16,2023-12-04
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone urbaine,printemps,4,19,8,3,17.26,10.14,21.36,2023-04-19
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone rurale,été,8,20,21,4,16.08,7.74,33.36,2023-08-20
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,été,8,9,11,4,5.04,3.03,8.04,2023-08-09
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone urbaine,automne,10,22,12,1,7.11,4.36,2.75,2023-10-22
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,été,7,2,15,4,2.23,1.41,3.28,2023-07-02
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,été,8,19,22,1,13.88,7.02,6.86,2023-08-19
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone montagne,hiver,12,26,13,2,21.1,9.48,23.24,2023-12-26
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone résidentielle,été,6,29,22,2,8.16,6.07,4.18,2023-06-29
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,hiver,12,22,13,2,13.34,8.99,8.7,2023-12-22
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,hiver,12,10,8,7,12.38,8.73,25.55,2023-12-10
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,hiver,1,28,19,2,6.32,2.89,6.86,2023-01-28
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,hiver,2,19,11,2,6.3,3.71,5.18,2023-02-19
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,hiver,12,15,15,4,21.69,14.03,30.64,2023-12-15
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,printemps,5,22,8,4,24.57,13.34,44.92,2023-05-22
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,hiver,12,14,15,3,9.11,4.49,13.86,2023-12-14
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,hiver,1,20,21,3,19.12,11.02,24.3,2023-01-20
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,automne,9,28,20,4,20.07,8.72,45.4,2023-09-28
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,printemps,4,15,8,4,20.54,15.56,19.92,2023-04-15
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,automne,9,23,22,6,15.86,8.32,45.24,2023-09-23
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,été,6,18,22,5,19.3,14.76,22.7,2023-06-18
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone urbaine,automne,10,16,22,5,15.84,11.63,21.05,2023-10-16
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,automne,11,3,19,2,15.89,6.87,18.04,2023-11-03
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone résidentielle,automne,10,1,17,6,21.72,14.61,42.66,2023-10-01
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,printemps,5,9,16,1,6.34,4.32,2.02,2023-05-09
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,hiver,12,24,16,6,13.33,5.62,46.26,2023-12-24
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,automne,11,29,20,1,12.16,5.42,6.74,2023-11-29
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,automne,9,11,8,9,21.78,12.06,87.48,2023-09-11
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,printemps,4,5,18,2,11.63,4.9,13.46,2023-04-05
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,printemps,3,9,22,1,1.86,1.34,0.52,2023-03-09
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,hiver,2,27,16,6,3.32,1.6,10.32,2023-02-27
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,hiver,2,9,22,0,24.82,15.54,0.0,2023-02-09
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,printemps,4,29,15,2,8.9,7.02,3.76,2023-04-29
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,hiver,12,12,17,2,17.15,11.01,12.28,2023-12-12
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,été,7,18,22,3,11.43,5.15,18.84,2023-07-18
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,hiver,2,12,10,3,22.55,14.37,24.54,2023-02-12
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,automne,9,23,12,4,15.02,9.71,21.24,2023-09-23
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,printemps,3,2,12,5,7.94,4.57,16.85,2023-03-02
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,hiver,2,24,22,5,6.94,3.55,16.95,2023-02-24
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,printemps,3,28,8,1,15.56,6.47,9.09,2023-03-28
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,été,8,16,22,2,11.66,5.89,11.54,2023-08-16
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,été,7,1,20,2,3.36,2.41,1.9,2023-07-01
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,automne,9,6,21,2,5.9,3.53,4.74,2023-09-06
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone montagne,printemps,4,20,8,3,11.71,6.98,14.19,2023-04-20
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,été,6,15,12,4,17.36,9.8,30.24,2023-06-15
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,automne,11,9,13,3,4.54,2.8,5.22,2023-11-09
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,printemps,5,29,20,3,5.29,2.91,7.14,2023-05-29
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,hiver,1,18,12,3,19.12,13.87,15.75,2023-01-18
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,4,14,9,1,7.71,5.11,2.6,2023-04-14
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,automne,10,15,10,3,6.38,4.96,4.26,2023-10-15
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone montagne,automne,11,3,14,2,21.98,11.15,21.66,2023-11-03
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,automne,9,13,13,1,24.05,11.89,12.16,2023-09-13
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,été,7,12,10,5,19.29,8.97,51.6,2023-07-12
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone montagne,printemps,4,26,13,1,16.28,12.55,3.73,2023-04-26
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,printemps,3,6,20,4,13.77,9.06,18.84,2023-03-06
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,été,8,6,18,3,12.58,6.55,18.09,2023-08-06
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,été,7,13,20,4,10.56,6.23,17.32,2023-07-13
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,été,8,12,16,3,11.88,8.06,11.46,2023-08-12
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,hiver,1,6,11,2,11.89,7.26,9.26,2023-01-06
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,hiver,2,18,22,2,10.17,5.1,10.14,2023-02-18
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,automne,11,28,12,1,16.58,9.27,7.31,2023-11-28
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,hiver,2,12,10,1,11.92,6.08,5.84,2023-02-12
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,printemps,3,30,18,3,19.05,14.0,15.15,2023-03-30
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,été,6,29,9,6,9.52,5.97,21.3,2023-06-29
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone montagne,automne,11,17,8,1,19.52,13.97,5.55,2023-11-17
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,hiver,2,11,22,3,18.52,9.24,27.84,2023-02-11
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone touristique bord de mer,hiver,12,24,15,4,7.72,4.6,12.48,2023-12-24
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,automne,10,3,17,5,6.45,4.39,10.3,2023-10-03
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,automne,9,1,10,2,12.48,6.6,11.76,2023-09-01
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone rurale,été,6,21,13,3,16.73,7.36,28.11,2023-06-21
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone urbaine,hiver,2,16,12,3,20.13,9.19,32.82,2023-02-16
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,printemps,4,5,11,0,21.66,12.45,0.0,2023-04-05
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone résidentielle,été,6,12,20,4,23.48,13.15,41.32,2023-06-12
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone résidentielle,hiver,1,23,11,3,8.6,3.76,14.52,2023-01-23
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,hiver,12,18,19,2,3.88,2.89,1.98,2023-12-18
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone résidentielle,automne,10,22,16,3,10.52,6.12,13.2,2023-10-22
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,été,7,10,20,4,12.63,6.74,23.56,2023-07-10
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone touristique bord de mer,hiver,12,29,17,3,7.56,4.58,8.94,2023-12-29
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,automne,10,21,15,3,6.56,5.08,4.44,2023-10-21
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,hiver,1,3,14,3,6.37,4.54,5.49,2023-01-03
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone urbaine,hiver,12,30,13,9,6.69,4.31,11.9,2023-12-30
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,été,6,5,12,6,19.15,11.12,48.18,2023-06-05
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,hiver,1,12,13,2,15.83,7.39,16.88,2023-01-12
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,automne,11,6,21,4,9.28,7.13,8.6,2023-11-06
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone urbaine,hiver,1,4,19,4,2.26,1.52,2.96,2023-01-04
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,été,7,31,18,5,9.49,7.26,11.15,2023-07-31
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone touristique bord de mer,printemps,3,17,17,2,1.78,0.97,1.62,2023-03-17
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,automne,9,25,13,1,10.38,8.0,2.38,2023-09-25
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,printemps,4,16,11,3,5.03,3.24,5.37,2023-04-16
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,printemps,4,14,13,4,17.11,9.57,30.16,2023-04-14
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,printemps,5,19,16,4,24.1,17.8,25.2,2023-05-19
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,printemps,4,17,11,1,7.23,5.09,2.14,2023-04-17
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,printemps,4,4,11,6,19.8,13.96,35.04,2023-04-04
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,été,6,13,20,6,13.96,6.16,46.8,2023-06-13
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,été,6,16,16,3,14.66,7.03,22.89,2023-06-16
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,printemps,5,21,9,3,3.25,1.51,5.22,2023-05-21
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,printemps,5,6,13,2,14.96,10.55,8.82,2023-05-06
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,été,7,22,20,4,12.93,5.42,30.04,2023-07-22
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,automne,11,29,11,1,19.17,13.55,5.62,2023-11-29
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,hiver,1,4,17,3,20.96,8.54,37.26,2023-01-04
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,printemps,5,13,21,4,6.74,4.51,8.92,2023-05-13
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,été,6,5,10,5,11.47,5.83,28.2,2023-06-05
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,été,8,14,9,3,21.1,11.61,28.47,2023-08-14
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone urbaine,automne,9,8,19,3,15.71,11.0,14.13,2023-09-08
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,hiver,2,3,14,3,23.73,15.68,24.15,2023-02-03
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,été,8,30,8,5,23.86,12.17,58.45,2023-08-30
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone urbaine,hiver,2,1,17,2,20.36,15.2,10.32,2023-02-01
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,été,7,26,18,3,10.27,7.56,8.13,2023-07-26
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,été,7,13,20,2,15.56,9.49,12.14,2023-07-13
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone touristique bord de mer,printemps,4,25,9,1,11.37,4.85,6.52,2023-04-25
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,5,12,10,5,9.09,5.6,17.45,2023-05-12
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone urbaine,été,7,26,12,5,22.34,9.88,62.3,2023-07-26
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,été,6,18,19,6,24.39,16.28,48.66,2023-06-18
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone résidentielle,printemps,3,24,14,1,9.08,5.71,3.37,2023-03-24
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,hiver,2,26,9,10,14.44,7.48,48.72,2023-02-26
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,printemps,3,14,21,3,17.49,12.42,15.21,2023-03-14
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,automne,9,27,17,4,19.83,12.4,29.72,2023-09-27
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,automne,9,25,14,5,22.5,13.21,46.45,2023-09-25
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,hiver,2,8,12,7,18.15,12.11,42.28,2023-02-08
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,hiver,2,4,8,4,19.25,8.78,41.88,2023-02-04
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,printemps,5,22,10,0,22.48,10.1,0.0,2023-05-22
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,été,6,9,16,3,3.91,2.55,4.08,2023-06-09
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,hiver,1,21,14,1,21.19,10.64,10.55,2023-01-21
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone résidentielle,hiver,1,13,18,0,23.73,10.43,0.0,2023-01-13
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,été,6,16,15,4,17.93,11.72,24.84,2023-06-16
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,automne,11,28,13,2,18.91,13.26,11.3,2023-11-28
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,été,6,30,17,4,14.15,10.22,15.72,2023-06-30
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,hiver,2,16,18,5,11.04,7.16,19.4,2023-02-16
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone montagne,hiver,12,6,14,2,21.53,9.87,23.32,2023-12-06
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,automne,9,11,11,2,21.08,16.72,8.72,2023-09-11
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone résidentielle,printemps,3,16,8,3,8.47,6.66,5.43,2023-03-16
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,automne,11,18,17,2,22.38,17.72,9.32,2023-11-18
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,hiver,2,9,19,4,4.66,3.47,4.76,2023-02-09
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,été,6,8,16,3,17.88,9.33,25.65,2023-06-08
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,printemps,3,15,20,2,14.18,9.54,9.28,2023-03-15
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,été,7,31,19,1,5.29,2.53,2.76,2023-07-31
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,hiver,12,25,18,1,10.61,5.97,4.64,2023-12-25
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,hiver,2,18,10,2,1.54,1.22,0.64,2023-02-18
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone rurale,été,6,6,8,5,20.3,12.73,37.85,2023-06-06
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,hiver,1,16,17,3,2.41,1.48,2.79,2023-01-16
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,été,6,28,18,5,5.74,3.49,11.25,2023-06-28
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,printemps,3,21,17,5,23.12,17.92,26.0,2023-03-21
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,été,7,26,14,1,10.36,6.18,4.18,2023-07-26
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,hiver,12,31,13,0,3.21,1.55,0.0,2023-12-31
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,hiver,1,8,8,1,23.17,11.18,11.99,2023-01-08
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,été,7,25,8,4,5.16,3.3,7.44,2023-07-25
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,hiver,1,6,18,3,17.77,7.41,31.08,2023-01-06
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,automne,10,12,21,0,13.2,5.95,0.0,2023-10-12
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,hiver,2,27,11,2,2.39,1.33,2.12,2023-02-27
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,été,8,12,17,1,10.22,7.11,3.11,2023-08-12
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,automne,9,23,16,3,1.91,1.31,1.8,2023-09-23
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,été,8,24,19,5,12.13,9.47,13.3,2023-08-24
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,printemps,4,10,21,4,18.64,13.3,21.36,2023-04-10
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone touristique bord de mer,été,8,28,11,5,21.9,9.9,60.0,2023-08-28
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone urbaine,hiver,1,5,22,5,21.76,9.16,63.0,2023-01-05
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,printemps,3,19,11,4,8.73,3.72,20.04,2023-03-19
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,hiver,12,25,12,2,17.71,13.49,8.44,2023-12-25
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,hiver,2,19,20,5,2.43,1.83,3.0,2023-02-19
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone touristique bord de mer,printemps,5,30,19,4,20.13,14.39,22.96,2023-05-30
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,automne,10,20,20,7,7.07,3.08,27.93,2023-10-20
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone touristique bord de mer,automne,11,13,9,2,5.17,3.36,3.62,2023-11-13
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone rurale,été,6,14,18,6,13.94,8.23,34.26,2023-06-14
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,hiver,12,28,10,2,12.53,8.68,7.7,2023-12-28
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone résidentielle,printemps,3,25,14,1,16.43,10.46,5.97,2023-03-25
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone urbaine,été,7,20,15,4,5.02,2.69,9.32,2023-07-20
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,été,6,5,21,3,23.95,14.84,27.33,2023-06-05
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone montagne,automne,9,13,14,1,11.73,8.69,3.04,2023-09-13
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,été,6,23,18,2,8.8,5.7,6.2,2023-06-23
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone résidentielle,été,6,10,18,3,23.02,18.16,14.58,2023-06-10
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,printemps,3,15,12,2,2.09,1.38,1.42,2023-03-15
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,été,7,22,10,5,9.18,6.74,12.2,2023-07-22
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,automne,10,17,20,5,14.86,11.19,18.35,2023-10-17
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,automne,9,12,9,5,23.28,10.61,63.35,2023-09-12
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,hiver,2,17,20,2,9.97,5.41,9.12,2023-02-17
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,automne,9,10,14,1,14.31,8.73,5.58,2023-09-10
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,été,7,18,20,6,16.41,9.16,43.5,2023-07-18
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone urbaine,printemps,4,17,11,5,15.19,6.12,45.35,2023-04-17
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,printemps,5,25,12,1,14.57,8.81,5.76,2023-05-25
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone touristique bord de mer,été,6,21,11,4,9.19,4.63,18.24,2023-06-21
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,hiver,1,15,15,4,15.68,10.36,21.28,2023-01-15
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone touristique bord de mer,hiver,12,20,18,4,6.54,4.17,9.48,2023-12-20
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,automne,11,2,12,1,20.18,13.46,6.72,2023-11-02
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone urbaine,hiver,1,1,21,4,2.23,0.94,5.16,2023-01-01
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,été,8,16,14,5,18.63,14.61,20.1,2023-08-16
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone résidentielle,automne,11,27,11,2,24.32,16.94,14.76,2023-11-27
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,été,8,22,22,9,23.41,18.57,43.56,2023-08-22
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone rurale,printemps,3,31,8,4,4.15,2.86,5.16,2023-03-31
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone urbaine,automne,11,29,8,2,22.03,16.17,11.72,2023-11-29
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,été,6,20,22,3,9.93,5.83,12.3,2023-06-20
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,printemps,4,27,18,8,18.18,9.71,67.76,2023-04-27
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,automne,10,8,22,3,10.78,7.14,10.92,2023-10-08
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,hiver,12,22,12,0,7.18,4.04,0.0,2023-12-22
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,printemps,4,8,8,4,1.88,0.97,3.64,2023-04-08
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone urbaine,printemps,5,10,15,2,23.85,13.57,20.56,2023-05-10
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,automne,10,29,22,2,12.74,8.23,9.02,2023-10-29
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,automne,9,13,13,1,9.76,4.9,4.86,2023-09-13
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,printemps,5,4,17,2,24.62,10.19,28.86,2023-05-04
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,automne,9,6,11,4,1.63,1.16,1.88,2023-09-06
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,hiver,1,13,15,3,13.16,9.45,11.13,2023-01-13
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone résidentielle,hiver,2,14,17,3,5.89,2.82,9.21,2023-02-14
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,automne,10,14,8,2,6.96,3.19,7.54,2023-10-14
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,hiver,1,6,13,2,2.91,2.08,1.66,2023-01-06
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,automne,10,27,16,1,1.71,1.29,0.42,2023-10-27
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,printemps,4,20,11,3,17.1,10.11,20.97,2023-04-20
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone rurale,automne,10,11,18,4,16.24,12.07,16.68,2023-10-11
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone montagne,printemps,3,16,21,6,19.37,11.45,47.52,2023-03-16
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,automne,11,17,20,2,11.22,7.3,7.84,2023-11-17
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,été,8,10,8,5,21.96,15.64,31.6,2023-08-10
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone rurale,été,8,19,17,4,21.15,10.36,43.16,2023-08-19
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,été,7,28,18,7,21.99,14.38,53.27,2023-07-28
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,automne,9,12,20,4,3.26,2.09,4.68,2023-09-12
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,5,24,15,2,16.78,13.33,6.9,2023-05-24
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,automne,11,1,9,0,12.69,7.04,0.0,2023-11-01
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone urbaine,été,7,5,20,2,20.33,8.58,23.5,2023-07-05
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,automne,10,2,12,2,4.49,1.97,5.04,2023-10-02
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone résidentielle,automne,10,5,17,4,1.91,0.89,4.08,2023-10-05
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,printemps,3,30,22,2,6.68,2.96,7.44,2023-03-30
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,automne,10,24,21,2,15.59,8.65,13.88,2023-10-24
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone urbaine,été,7,29,19,4,11.94,5.49,25.8,2023-07-29
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,été,7,14,17,2,22.13,17.36,9.54,2023-07-14
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,printemps,4,28,12,3,10.11,8.08,6.09,2023-04-28
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone touristique bord de mer,hiver,1,25,20,1,6.87,4.69,2.18,2023-01-25
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone montagne,hiver,1,26,12,3,3.36,2.6,2.28,2023-01-26
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,hiver,2,4,20,4,3.89,2.83,4.24,2023-02-04
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,automne,10,11,20,6,10.17,4.8,32.22,2023-10-11
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,été,7,21,10,2,5.42,3.18,4.48,2023-07-21
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone touristique bord de mer,automne,10,21,20,2,8.06,4.02,8.08,2023-10-21
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,printemps,3,24,18,2,15.74,6.56,18.36,2023-03-24
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,été,7,12,12,1,10.28,5.41,4.87,2023-07-12
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,automne,11,23,20,2,4.96,3.7,2.52,2023-11-23
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone touristique bord de mer,hiver,1,31,8,4,13.47,8.79,18.72,2023-01-31
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone touristique bord de mer,hiver,1,7,10,2,6.07,3.81,4.52,2023-01-07
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone touristique bord de mer,automne,9,5,20,5,3.05,1.79,6.3,2023-09-05
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,hiver,2,10,18,1,12.3,9.35,2.95,2023-02-10
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone résidentielle,printemps,4,23,22,4,23.97,14.04,39.72,2023-04-23
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,été,7,5,14,2,18.95,10.76,16.38,2023-07-05
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,été,7,27,21,3,11.66,6.6,15.18,2023-07-27
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,été,6,7,11,4,12.93,10.33,10.4,2023-06-07
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,été,6,17,17,2,10.36,4.49,11.74,2023-06-17
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone résidentielle,automne,10,4,14,2,13.08,5.71,14.74,2023-10-04
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone urbaine,hiver,1,21,17,4,1.51,1.16,1.4,2023-01-21
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,printemps,5,17,17,3,8.35,6.14,6.63,2023-05-17
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,hiver,2,3,15,2,15.74,7.93,15.62,2023-02-03
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,hiver,2,10,8,1,15.31,6.84,8.47,2023-02-10
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,hiver,2,7,12,3,19.6,13.23,19.11,2023-02-07
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,hiver,1,17,21,7,21.55,10.79,75.32,2023-01-17
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,hiver,12,30,21,6,9.1,4.12,29.88,2023-12-30
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,automne,9,7,22,5,24.73,11.36,66.85,2023-09-07
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,automne,9,11,12,3,22.82,15.71,21.33,2023-09-11
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone montagne,printemps,4,14,11,3,4.97,3.34,4.89,2023-04-14
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,automne,11,8,17,3,6.93,3.65,9.84,2023-11-08
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,été,7,22,12,7,1.6,0.79,5.67,2023-07-22
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,hiver,1,2,14,0,2.62,1.13,0.0,2023-01-02
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,été,6,18,10,1,14.31,6.87,7.44,2023-06-18
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,printemps,3,28,18,4,8.37,4.21,16.64,2023-03-28
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,été,7,5,9,5,19.48,10.04,47.2,2023-07-05
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone résidentielle,hiver,2,28,20,2,12.11,5.43,13.36,2023-02-28
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,printemps,4,7,16,4,23.71,16.36,29.4,2023-04-07
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,hiver,12,7,22,4,10.25,5.49,19.04,2023-12-07
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,printemps,5,16,20,4,9.34,7.06,9.12,2023-05-16
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,hiver,2,10,11,1,2.65,1.39,1.26,2023-02-10
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone urbaine,été,8,29,20,12,9.99,6.16,22.98,2023-08-29
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,printemps,5,8,19,5,2.59,1.11,7.4,2023-05-08
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,hiver,2,24,13,5,6.35,2.91,17.2,2023-02-24
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,été,7,16,11,4,24.68,15.32,37.44,2023-07-16
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,hiver,12,9,22,1,14.57,9.4,5.17,2023-12-09
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,hiver,12,20,9,6,3.93,2.98,5.7,2023-12-20
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,été,8,28,14,2,14.07,9.78,8.58,2023-08-28
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,printemps,3,11,11,5,18.84,9.18,48.3,2023-03-11
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone urbaine,automne,10,28,14,1,4.33,2.22,2.11,2023-10-28
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone résidentielle,hiver,1,24,19,2,5.72,4.18,3.08,2023-01-24
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone rurale,hiver,2,1,18,6,12.06,7.81,25.5,2023-02-01
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone touristique bord de mer,automne,11,18,20,2,22.18,11.53,21.3,2023-11-18
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,hiver,2,25,9,2,19.46,9.43,20.06,2023-02-25
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,printemps,4,28,19,3,20.6,10.43,30.51,2023-04-28
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,hiver,2,27,16,4,12.76,9.75,12.04,2023-02-27
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,automne,10,6,22,1,3.24,1.99,1.25,2023-10-06
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,hiver,2,17,12,4,7.64,4.73,11.64,2023-02-17
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone rurale,printemps,4,16,10,3,20.37,9.94,31.29,2023-04-16
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,hiver,2,20,15,9,19.92,12.26,38.3,2023-02-20
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,hiver,1,22,13,4,10.42,4.34,24.32,2023-01-22
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,hiver,2,15,13,5,18.51,9.44,45.35,2023-02-15
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,printemps,3,4,11,2,11.2,8.05,6.3,2023-03-04
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,automne,10,13,15,5,16.03,11.46,22.85,2023-10-13
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,printemps,4,5,10,3,3.02,1.53,4.47,2023-04-05
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone touristique bord de mer,automne,9,28,9,6,22.42,17.18,31.44,2023-09-28
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,printemps,4,7,16,1,16.72,9.36,7.36,2023-04-07
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone résidentielle,hiver,12,23,14,4,16.05,8.31,30.96,2023-12-23
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,été,7,28,12,5,5.23,2.6,13.15,2023-07-28
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,hiver,1,22,10,0,10.98,5.4,0.0,2023-01-22
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone résidentielle,été,7,1,11,1,20.97,10.55,10.42,2023-07-01
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,automne,9,27,15,4,18.45,13.19,21.04,2023-09-27
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone touristique bord de mer,été,8,30,18,6,18.02,9.11,53.46,2023-08-30
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,printemps,5,27,9,2,14.17,6.95,14.44,2023-05-27
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone résidentielle,automne,11,7,17,5,13.39,5.75,38.2,2023-11-07
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone urbaine,automne,9,24,22,2,6.27,3.49,5.56,2023-09-24
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone touristique bord de mer,automne,10,11,8,2,20.15,16.0,8.3,2023-10-11
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,automne,9,2,21,2,17.18,10.65,13.06,2023-09-02
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone touristique bord de mer,été,8,20,19,6,17.81,11.44,38.22,2023-08-20
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,automne,10,25,19,1,3.02,1.56,1.46,2023-10-25
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,été,7,26,17,1,14.66,11.36,3.3,2023-07-26
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,été,6,16,18,4,17.07,13.03,16.16,2023-06-16
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,hiver,2,20,18,1,21.02,15.83,5.19,2023-02-20
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,été,6,22,22,4,19.13,9.58,38.2,2023-06-22
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,printemps,3,18,11,3,15.31,10.86,13.35,2023-03-18
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,printemps,4,14,9,1,3.41,1.63,1.78,2023-04-14
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,automne,11,23,12,6,7.85,5.95,11.4,2023-11-23
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,hiver,12,10,10,4,15.51,8.34,28.68,2023-12-10
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone montagne,hiver,2,4,20,2,19.78,8.09,23.38,2023-02-04
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,printemps,4,14,13,2,23.02,12.9,20.24,2023-04-14
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,automne,11,5,10,3,1.51,0.67,2.52,2023-11-05
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,hiver,2,25,22,2,4.83,2.83,4.0,2023-02-25
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,été,8,19,19,4,2.04,1.46,2.32,2023-08-19
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone urbaine,été,7,12,16,2,4.88,3.24,3.28,2023-07-12
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone touristique bord de mer,été,6,17,18,2,5.24,4.18,2.12,2023-06-17
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,été,7,14,20,7,3.33,2.15,8.26,2023-07-14
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,printemps,4,11,15,3,24.86,10.32,43.62,2023-04-11
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,hiver,1,16,18,6,22.53,12.26,61.62,2023-01-16
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,printemps,4,6,18,5,7.3,5.7,8.0,2023-04-06
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,automne,10,29,11,4,21.91,10.71,44.8,2023-10-29
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone touristique bord de mer,automne,11,14,22,2,6.54,3.71,5.66,2023-11-14
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone touristique bord de mer,été,7,10,18,4,6.89,4.54,9.4,2023-07-10
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone résidentielle,automne,11,26,22,3,20.91,16.65,12.78,2023-11-26
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,printemps,4,17,8,2,9.11,5.4,7.42,2023-04-17
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,printemps,3,10,11,3,21.15,9.53,34.86,2023-03-10
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,printemps,3,14,17,1,3.62,2.63,0.99,2023-03-14
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,automne,11,27,15,0,5.63,3.28,0.0,2023-11-27
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone résidentielle,automne,10,17,18,2,15.19,7.21,15.96,2023-10-17
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,printemps,3,21,17,2,23.95,18.29,11.32,2023-03-21
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,hiver,2,21,19,4,11.54,6.13,21.64,2023-02-21
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,hiver,12,26,11,4,20.05,14.88,20.68,2023-12-26
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,printemps,5,10,17,3,20.55,14.59,17.88,2023-05-10
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone résidentielle,été,8,14,9,5,5.31,2.83,12.4,2023-08-14
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone touristique bord de mer,été,6,4,11,9,23.18,15.26,71.28,2023-06-04
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,hiver,1,12,20,0,5.01,3.16,0.0,2023-01-12
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone urbaine,automne,11,21,10,1,18.7,8.34,10.36,2023-11-21
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone rurale,été,8,27,20,10,17.01,7.17,49.2,2023-08-27
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone urbaine,été,8,17,10,6,18.49,12.29,37.2,2023-08-17
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone urbaine,automne,10,13,18,7,10.78,6.58,29.4,2023-10-13
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,été,6,29,19,2,10.44,7.48,5.92,2023-06-29
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone urbaine,printemps,3,21,8,2,4.81,2.85,3.92,2023-03-21
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,automne,11,11,10,3,12.76,7.95,14.43,2023-11-11
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,hiver,1,12,14,1,6.86,3.09,3.77,2023-01-12
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,automne,10,6,8,2,13.65,9.9,7.5,2023-10-06
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone rurale,hiver,12,31,11,6,9.31,7.33,11.88,2023-12-31
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,hiver,1,9,17,0,11.72,6.32,0.0,2023-01-09
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone urbaine,été,6,20,11,1,24.99,18.03,6.96,2023-06-20
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,été,8,14,22,6,7.47,4.3,19.02,2023-08-14
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,hiver,1,17,8,1,24.53,13.77,10.76,2023-01-17
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone montagne,automne,9,6,18,5,12.48,9.55,14.65,2023-09-06
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone montagne,printemps,5,1,16,2,19.55,12.14,14.82,2023-05-01
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,printemps,5,11,17,2,15.81,6.56,18.5,2023-05-11
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,automne,9,6,15,3,14.92,7.45,22.41,2023-09-06
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,printemps,4,18,19,2,17.69,10.72,13.94,2023-04-18
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone résidentielle,été,8,9,21,2,24.72,16.42,16.6,2023-08-09
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone urbaine,automne,9,21,15,2,20.77,12.8,15.94,2023-09-21
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone rurale,hiver,1,29,21,2,5.22,3.48,3.48,2023-01-29
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,hiver,2,18,21,0,23.38,18.11,0.0,2023-02-18
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone montagne,automne,10,20,16,3,15.49,11.68,11.43,2023-10-20
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,été,8,5,9,2,9.83,4.11,11.44,2023-08-05
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,été,7,17,10,5,5.26,4.07,5.95,2023-07-17
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,été,7,22,15,4,5.06,4.02,4.16,2023-07-22
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone montagne,printemps,5,8,13,5,17.04,13.54,17.5,2023-05-08
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,hiver,1,23,22,5,7.48,4.66,14.1,2023-01-23
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,printemps,3,26,13,4,22.8,11.66,44.56,2023-03-26
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone touristique bord de mer,hiver,1,15,20,3,14.83,8.32,19.53,2023-01-15
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,hiver,2,3,20,3,13.62,9.26,13.08,2023-02-03
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone montagne,printemps,4,5,22,2,10.77,5.93,9.68,2023-04-05
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,printemps,5,7,19,5,23.33,17.63,28.5,2023-05-07
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,été,8,31,9,2,11.43,7.9,7.06,2023-08-31
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,été,7,22,11,2,11.4,5.69,11.42,2023-07-22
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,printemps,5,9,10,4,2.6,2.0,2.4,2023-05-09
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,été,7,15,20,2,4.57,2.99,3.16,2023-07-15
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone résidentielle,printemps,5,31,10,2,24.14,17.36,13.56,2023-05-31
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,hiver,2,10,10,3,8.1,6.43,5.01,2023-02-10
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,automne,10,1,20,3,13.65,7.58,18.21,2023-10-01
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone urbaine,hiver,2,25,15,2,15.34,12.16,6.36,2023-02-25
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,automne,9,3,13,3,6.86,3.69,9.51,2023-09-03
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,été,7,5,20,5,19.18,14.96,21.1,2023-07-05
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone touristique bord de mer,été,6,6,18,2,10.13,6.69,6.88,2023-06-06
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,automne,9,8,10,3,2.22,1.66,1.68,2023-09-08
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,hiver,1,17,14,1,15.81,11.34,4.47,2023-01-17
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,automne,9,15,21,3,4.9,3.18,5.16,2023-09-15
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,hiver,1,7,8,0,21.66,16.14,0.0,2023-01-07
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,printemps,5,23,12,3,7.48,5.0,7.44,2023-05-23
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,automne,9,13,8,3,10.71,7.78,8.79,2023-09-13
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone urbaine,hiver,1,23,21,2,4.25,2.01,4.48,2023-01-23
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone urbaine,hiver,12,21,16,7,10.57,6.06,31.57,2023-12-21
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone montagne,automne,11,20,17,2,17.28,10.77,13.02,2023-11-20
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,automne,10,5,13,4,3.86,2.49,5.48,2023-10-05
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,printemps,4,14,12,1,14.52,8.0,6.52,2023-04-14
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,automne,10,12,16,5,22.6,14.15,42.25,2023-10-12
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,hiver,1,3,20,4,23.67,17.96,22.84,2023-01-03
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,5,29,19,2,3.62,2.53,2.18,2023-05-29
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,printemps,3,25,10,3,15.67,9.26,19.23,2023-03-25
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,hiver,1,4,15,2,3.05,2.18,1.74,2023-01-04
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,automne,10,31,13,2,17.49,7.03,20.92,2023-10-31
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone touristique bord de mer,hiver,1,24,10,2,9.77,6.1,7.34,2023-01-24
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,été,7,27,21,4,7.92,4.9,12.08,2023-07-27
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,printemps,4,10,17,3,14.38,11.44,8.82,2023-04-10
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,été,7,27,22,6,4.74,1.99,16.5,2023-07-27
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone touristique bord de mer,hiver,1,15,18,3,24.77,10.92,41.55,2023-01-15
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone urbaine,été,8,25,20,5,13.43,7.46,29.85,2023-08-25
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,printemps,3,28,18,5,2.06,1.41,3.25,2023-03-28
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,été,8,13,22,2,8.87,6.36,5.02,2023-08-13
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone urbaine,été,6,22,11,3,21.78,16.82,14.88,2023-06-22
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone urbaine,hiver,1,5,14,3,8.26,5.54,8.16,2023-01-05
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,printemps,4,15,19,0,22.59,10.11,0.0,2023-04-15
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,automne,11,12,22,8,5.6,3.46,17.12,2023-11-12
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone rurale,automne,10,19,17,4,1.81,0.74,4.28,2023-10-19
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,automne,9,14,12,3,17.82,8.02,29.4,2023-09-14
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,printemps,5,28,12,1,15.15,11.9,3.25,2023-05-28
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,printemps,4,22,10,3,16.37,11.97,13.2,2023-04-22
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,été,6,10,12,4,4.56,2.54,8.08,2023-06-10
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,hiver,1,21,18,4,22.53,12.81,38.88,2023-01-21
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone rurale,été,7,9,13,2,13.74,5.92,15.64,2023-07-09
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone résidentielle,hiver,2,4,13,3,22.81,13.91,26.7,2023-02-04
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,hiver,1,3,18,0,10.1,4.42,0.0,2023-01-03
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,printemps,4,19,16,4,10.23,6.34,15.56,2023-04-19
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,automne,10,19,19,4,12.4,9.79,10.44,2023-10-19
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,été,7,15,16,3,13.64,9.32,12.96,2023-07-15
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,5,23,18,2,6.47,2.93,7.08,2023-05-23
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone résidentielle,printemps,4,23,21,3,4.58,3.15,4.29,2023-04-23
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,été,6,21,22,6,2.61,1.31,7.8,2023-06-21
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone touristique bord de mer,automne,11,1,11,3,23.47,13.52,29.85,2023-11-01
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,automne,11,3,9,0,11.27,8.49,0.0,2023-11-03
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,printemps,4,22,9,5,23.69,9.75,69.7,2023-04-22
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,hiver,2,4,17,2,10.6,4.93,11.34,2023-02-04
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,printemps,3,20,9,2,14.9,10.75,8.3,2023-03-20
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,hiver,12,23,13,0,7.76,3.57,0.0,2023-12-23
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone urbaine,hiver,2,10,19,8,21.11,15.61,22.0,2023-02-10
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,printemps,4,1,13,5,8.21,3.36,24.25,2023-04-01
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone rurale,été,8,20,10,11,15.07,8.44,33.15,2023-08-20
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,hiver,12,4,8,4,2.35,1.81,2.16,2023-12-04
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone urbaine,automne,11,6,12,1,6.83,4.3,2.53,2023-11-06
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,automne,11,18,19,9,3.54,2.82,6.48,2023-11-18
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone résidentielle,été,7,13,17,6,9.63,6.58,18.3,2023-07-13
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,été,8,29,14,2,3.65,1.53,4.24,2023-08-29
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone résidentielle,hiver,12,20,10,9,4.83,2.24,12.95,2023-12-20
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,printemps,5,6,9,4,21.59,9.63,47.84,2023-05-06
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,5,22,9,4,20.95,8.43,50.08,2023-05-22
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone résidentielle,été,7,17,10,5,10.93,4.62,31.55,2023-07-17
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone touristique bord de mer,hiver,2,14,14,1,24.47,12.41,12.06,2023-02-14
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,été,6,18,14,6,7.88,4.95,17.58,2023-06-18
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,été,7,26,15,2,14.0,9.22,9.56,2023-07-26
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,automne,9,29,16,1,16.11,10.62,5.49,2023-09-29
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone résidentielle,hiver,1,24,10,2,4.34,1.86,4.96,2023-01-24
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,5,20,12,3,14.73,8.58,18.45,2023-05-20
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,été,8,29,11,5,2.38,1.66,3.6,2023-08-29
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,été,8,27,19,3,1.69,0.92,2.31,2023-08-27
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone résidentielle,été,8,25,14,4,17.35,9.9,29.8,2023-08-25
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone montagne,printemps,5,29,22,6,13.83,10.23,21.6,2023-05-29
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,automne,9,23,13,1,6.03,3.93,2.1,2023-09-23
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone touristique bord de mer,printemps,5,23,17,4,11.67,6.09,22.32,2023-05-23
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone résidentielle,automne,10,18,8,5,20.84,9.52,56.6,2023-10-18
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone touristique bord de mer,automne,10,10,12,3,5.95,4.04,5.73,2023-10-10
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone résidentielle,printemps,4,8,21,3,11.07,8.56,7.53,2023-04-08
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,été,8,13,22,2,8.22,4.82,6.8,2023-08-13
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone résidentielle,été,6,13,8,2,5.15,3.17,3.96,2023-06-13
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,printemps,3,11,8,3,4.66,2.61,6.15,2023-03-11
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone urbaine,printemps,4,28,8,4,6.66,3.34,13.28,2023-04-28
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,automne,9,2,17,1,15.83,11.09,4.74,2023-09-02
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone montagne,printemps,5,13,21,4,12.96,6.4,26.24,2023-05-13
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,hiver,1,24,10,1,14.19,8.28,5.91,2023-01-24
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,été,7,31,22,4,21.04,13.98,28.24,2023-07-31
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,printemps,4,27,16,4,22.0,12.68,37.28,2023-04-27
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,hiver,1,22,11,4,17.88,14.18,14.8,2023-01-22
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,printemps,3,31,10,3,22.77,17.72,15.15,2023-03-31
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone touristique bord de mer,été,6,4,15,2,22.11,16.22,11.78,2023-06-04
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone résidentielle,printemps,3,19,9,2,23.82,11.18,25.28,2023-03-19
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,automne,9,19,18,2,22.92,10.2,25.44,2023-09-19
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,printemps,3,10,21,6,21.17,8.48,76.14,2023-03-10
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone résidentielle,été,8,12,20,2,4.9,2.11,5.58,2023-08-12
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone urbaine,hiver,1,24,12,2,5.33,2.67,5.32,2023-01-24
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone rurale,automne,9,19,22,2,22.18,15.73,12.9,2023-09-19
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,automne,10,6,14,2,5.93,2.6,6.66,2023-10-06
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,été,7,1,16,5,17.69,13.62,20.35,2023-07-01
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,automne,9,16,13,5,16.42,12.37,20.25,2023-09-16
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone résidentielle,printemps,3,21,18,2,13.39,6.2,14.38,2023-03-21
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,hiver,2,20,18,5,14.2,8.57,28.15,2023-02-20
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,automne,11,4,19,2,21.62,13.22,16.8,2023-11-04
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,été,6,7,17,1,13.42,8.4,5.02,2023-06-07
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,automne,11,5,12,0,17.27,11.25,0.0,2023-11-05
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,printemps,3,11,17,0,21.75,8.9,0.0,2023-03-11
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone rurale,printemps,3,13,15,2,2.42,1.36,2.12,2023-03-13
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,automne,9,5,12,3,17.17,10.58,19.77,2023-09-05
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,printemps,5,15,21,1,21.58,17.22,4.36,2023-05-15
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone résidentielle,été,8,7,13,4,22.38,10.05,49.32,2023-08-07
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,printemps,5,10,10,7,15.63,12.12,24.57,2023-05-10
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,printemps,4,26,13,1,1.64,1.2,0.44,2023-04-26
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,printemps,4,22,9,2,5.41,3.96,2.9,2023-04-22
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,automne,11,24,10,1,16.38,9.59,6.79,2023-11-24
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,automne,11,25,16,2,18.69,12.09,13.2,2023-11-25
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,hiver,12,31,21,1,8.85,4.98,3.87,2023-12-31
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,été,7,5,12,0,15.58,7.84,0.0,2023-07-05
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,été,6,1,9,3,21.08,15.55,16.59,2023-06-01
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,hiver,12,26,20,3,24.53,14.32,30.63,2023-12-26
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone urbaine,automne,9,29,11,3,11.4,8.54,8.58,2023-09-29
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,automne,11,26,16,1,23.08,18.28,4.8,2023-11-26
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,été,7,22,10,2,15.31,9.65,11.32,2023-07-22
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,hiver,1,25,16,2,15.5,8.31,14.38,2023-01-25
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,printemps,4,30,21,4,23.38,15.98,29.6,2023-04-30
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone montagne,automne,11,1,14,1,17.09,8.82,8.27,2023-11-01
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,automne,10,27,11,4,6.69,4.79,7.6,2023-10-27
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,automne,9,16,16,5,19.15,13.44,28.55,2023-09-16
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone urbaine,automne,10,21,8,6,17.72,9.41,49.86,2023-10-21
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,automne,10,6,13,0,24.42,19.31,0.0,2023-10-06
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone touristique bord de mer,printemps,5,7,14,4,23.98,15.48,34.0,2023-05-07
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,automne,11,29,14,3,11.13,5.98,15.45,2023-11-29
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,hiver,2,12,14,4,20.47,10.29,40.72,2023-02-12
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone résidentielle,hiver,1,5,12,5,4.85,2.75,10.5,2023-01-05
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,automne,10,31,13,5,20.16,15.54,23.1,2023-10-31
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,hiver,1,5,17,1,1.79,1.37,0.42,2023-01-05
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone urbaine,hiver,12,1,13,5,12.08,5.48,33.0,2023-12-01
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,hiver,1,31,17,2,12.84,8.3,9.08,2023-01-31
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,printemps,5,22,16,4,23.87,9.82,56.2,2023-05-22
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone touristique bord de mer,hiver,2,10,15,3,21.29,15.27,18.06,2023-02-10
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,hiver,12,22,18,3,17.33,8.13,27.6,2023-12-22
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,hiver,1,27,8,3,6.02,3.33,8.07,2023-01-27
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,hiver,2,5,17,6,9.97,5.62,26.1,2023-02-05
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone résidentielle,printemps,3,11,13,1,23.95,14.97,8.98,2023-03-11
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone résidentielle,automne,11,12,15,3,3.6,2.52,3.24,2023-11-12
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,printemps,3,24,9,1,4.07,2.51,1.56,2023-03-24
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone urbaine,printemps,5,10,13,5,21.95,15.01,34.7,2023-05-10
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,printemps,5,12,12,3,7.25,3.06,12.57,2023-05-12
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone touristique bord de mer,printemps,3,9,10,0,9.97,4.36,0.0,2023-03-09
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone montagne,printemps,5,20,12,7,18.93,10.95,55.86,2023-05-20
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,printemps,5,18,12,1,12.22,5.0,7.22,2023-05-18
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,printemps,4,25,17,4,24.19,13.65,42.16,2023-04-25
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone urbaine,hiver,1,10,16,4,13.7,6.84,27.44,2023-01-10
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,printemps,5,22,18,3,6.65,3.82,8.49,2023-05-22
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,hiver,2,12,22,2,3.76,2.83,1.86,2023-02-12
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,hiver,1,10,11,3,16.44,11.87,13.71,2023-01-10
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,printemps,3,11,15,6,6.84,5.23,9.66,2023-03-11
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone urbaine,printemps,3,23,17,3,3.73,2.64,3.27,2023-03-23
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,hiver,2,24,16,3,4.23,2.4,5.49,2023-02-24
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,été,6,27,17,2,1.92,1.28,1.28,2023-06-27
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,automne,11,21,12,5,10.5,8.26,11.2,2023-11-21
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,printemps,5,2,8,1,10.1,6.95,3.15,2023-05-02
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,été,8,23,18,6,23.89,13.32,63.42,2023-08-23
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,hiver,12,27,20,2,10.6,5.73,9.74,2023-12-27
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,printemps,5,10,17,2,18.85,10.23,17.24,2023-05-10
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,automne,9,29,10,3,12.39,4.97,22.26,2023-09-29
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone résidentielle,hiver,2,16,10,2,20.66,11.33,18.66,2023-02-16
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,hiver,2,12,20,5,18.57,9.26,46.55,2023-02-12
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone urbaine,été,6,9,17,4,18.98,11.6,29.52,2023-06-09
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone résidentielle,hiver,2,21,19,4,18.65,13.97,18.72,2023-02-21
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,printemps,5,4,9,0,19.13,11.45,0.0,2023-05-04
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,été,8,1,8,2,19.85,8.77,22.16,2023-08-01
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,hiver,2,20,17,1,16.73,12.35,4.38,2023-02-20
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,automne,9,25,19,3,1.58,0.72,2.58,2023-09-25
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,hiver,2,26,20,4,15.97,12.62,13.4,2023-02-26
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,automne,10,29,18,5,24.71,12.37,61.7,2023-10-29
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,printemps,4,10,20,0,19.55,9.49,0.0,2023-04-10
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,5,13,20,4,24.85,14.82,40.12,2023-05-13
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone urbaine,été,8,18,22,4,13.08,9.46,14.48,2023-08-18
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone touristique bord de mer,automne,10,16,15,6,13.41,7.2,37.26,2023-10-16
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone résidentielle,hiver,2,1,21,2,13.25,5.95,14.6,2023-02-01
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone touristique bord de mer,hiver,2,7,21,1,8.59,6.35,2.24,2023-02-07
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,5,9,10,4,1.74,1.15,2.36,2023-05-09
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,automne,9,16,21,3,12.67,5.33,22.02,2023-09-16
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,printemps,5,1,12,4,1.64,1.17,1.88,2023-05-01
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone résidentielle,automne,11,12,22,6,14.27,6.36,47.46,2023-11-12
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,printemps,4,17,17,2,21.63,10.2,22.86,2023-04-17
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,automne,10,9,8,0,3.75,2.97,0.0,2023-10-09
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone rurale,hiver,1,10,22,1,6.58,5.26,1.32,2023-01-10
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,printemps,5,14,8,3,5.17,2.79,7.14,2023-05-14
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,automne,9,10,10,3,14.21,6.18,24.09,2023-09-10
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,été,6,4,21,4,1.57,1.1,1.88,2023-06-04
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,hiver,1,24,10,1,5.88,2.53,3.35,2023-01-24
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,printemps,3,22,13,2,23.99,11.97,24.04,2023-03-22
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone résidentielle,été,7,3,9,3,2.46,1.78,2.04,2023-07-03
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,printemps,3,25,17,4,11.53,4.65,27.52,2023-03-25
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone rurale,printemps,4,12,9,2,12.81,6.71,12.2,2023-04-12
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,été,7,22,15,5,3.29,1.62,8.35,2023-07-22
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,hiver,12,4,19,4,22.16,16.86,21.2,2023-12-04
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone urbaine,été,6,3,11,2,17.16,7.2,19.92,2023-06-03
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,printemps,3,9,10,2,24.31,14.6,19.42,2023-03-09
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,hiver,12,25,22,10,14.18,6.29,78.9,2023-12-25
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,automne,10,5,15,4,13.08,7.49,22.36,2023-10-05
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone touristique bord de mer,hiver,1,5,20,2,4.0,1.89,4.22,2023-01-05
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,printemps,3,31,17,0,1.77,0.72,0.0,2023-03-31
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,automne,10,25,13,3,11.61,5.5,18.33,2023-10-25
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone touristique bord de mer,été,8,26,9,2,3.54,2.25,2.58,2023-08-26
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,hiver,2,28,8,10,16.61,11.91,18.8,2023-02-28
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,printemps,5,28,9,1,23.01,11.01,12.0,2023-05-28
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,automne,9,25,13,2,12.7,7.21,10.98,2023-09-25
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,printemps,5,9,17,4,8.37,5.44,11.72,2023-05-09
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,été,8,31,13,3,21.67,9.54,36.39,2023-08-31
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone touristique bord de mer,automne,10,2,13,2,19.02,10.49,17.06,2023-10-02
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,hiver,1,22,12,1,17.67,8.29,9.38,2023-01-22
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone résidentielle,automne,9,2,16,7,3.32,2.22,7.7,2023-09-02
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,hiver,2,18,12,2,6.72,4.05,5.34,2023-02-18
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,hiver,12,22,9,7,13.71,9.96,26.25,2023-12-22
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,hiver,12,28,11,3,11.94,9.15,8.37,2023-12-28
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone rurale,hiver,12,25,20,2,22.36,10.02,24.68,2023-12-25
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone rurale,été,7,30,22,5,21.65,16.55,25.5,2023-07-30
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,automne,10,21,14,4,6.3,4.23,8.28,2023-10-21
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,automne,9,15,20,1,12.82,7.18,5.64,2023-09-15
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,printemps,5,15,18,3,21.63,12.31,27.96,2023-05-15
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone urbaine,été,7,25,20,3,5.33,4.12,3.63,2023-07-25
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,printemps,4,15,20,3,20.4,11.94,25.38,2023-04-15
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,printemps,3,22,8,0,6.35,4.31,0.0,2023-03-22
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone urbaine,automne,11,3,10,1,11.19,5.81,5.38,2023-11-03
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,printemps,3,18,16,1,5.39,4.2,1.19,2023-03-18
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,printemps,3,17,16,0,13.43,8.48,0.0,2023-03-17
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,automne,11,4,22,3,22.52,16.74,17.34,2023-11-04
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,3,9,8,1,14.6,8.94,5.66,2023-03-09
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone urbaine,été,8,22,8,4,16.44,11.87,18.28,2023-08-22
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone urbaine,été,6,1,20,1,17.06,11.31,5.75,2023-06-01
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone touristique bord de mer,printemps,5,8,8,6,5.79,4.42,8.22,2023-05-08
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone résidentielle,été,7,12,13,4,4.62,3.26,5.44,2023-07-12
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,été,7,26,20,4,12.39,8.8,14.36,2023-07-26
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,automne,11,14,10,5,1.76,1.0,3.8,2023-11-14
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,été,7,28,10,5,5.94,3.2,13.7,2023-07-28
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,été,7,24,16,2,13.6,9.3,8.6,2023-07-24
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,hiver,1,3,22,5,3.06,1.59,7.35,2023-01-03
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,automne,11,14,19,4,16.75,7.07,38.72,2023-11-14
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone résidentielle,hiver,1,16,17,3,23.41,18.67,14.22,2023-01-16
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,printemps,4,26,9,4,16.93,10.04,27.56,2023-04-26
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone résidentielle,printemps,5,31,21,3,24.91,12.7,36.63,2023-05-31
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,été,6,14,9,3,19.77,12.72,21.15,2023-06-14
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,hiver,1,2,8,2,8.2,5.21,5.98,2023-01-02
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,été,6,9,9,2,14.18,11.26,5.84,2023-06-09
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,printemps,3,18,10,3,3.41,2.1,3.93,2023-03-18
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,hiver,2,16,22,7,10.48,7.09,23.73,2023-02-16
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone rurale,été,6,3,12,4,21.48,12.91,34.28,2023-06-03
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,hiver,2,19,13,4,14.12,8.77,21.4,2023-02-19
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone résidentielle,automne,11,4,22,0,12.55,5.06,0.0,2023-11-04
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,automne,11,24,22,2,6.12,3.53,5.18,2023-11-24
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,automne,11,13,17,2,9.47,4.71,9.52,2023-11-13
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,été,7,22,14,1,7.11,5.2,1.91,2023-07-22
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,printemps,3,3,8,6,21.7,13.77,47.58,2023-03-03
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,printemps,3,22,19,2,6.2,4.82,2.76,2023-03-22
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,automne,11,16,19,3,14.04,5.86,24.54,2023-11-16
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,été,7,23,14,6,5.19,2.42,16.62,2023-07-23
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,printemps,3,9,11,2,9.8,7.82,3.96,2023-03-09
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,été,8,5,15,5,20.51,10.8,48.55,2023-08-05
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,automne,10,20,8,3,10.28,4.85,16.29,2023-10-20
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,été,7,7,11,2,3.78,2.74,2.08,2023-07-07
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone rurale,printemps,4,19,20,3,17.54,8.49,27.15,2023-04-19
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone rurale,été,7,12,17,2,21.7,14.35,14.7,2023-07-12
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,printemps,3,12,11,2,24.1,14.41,19.38,2023-03-12
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,printemps,3,18,22,3,15.79,11.37,13.26,2023-03-18
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,hiver,1,16,8,6,18.34,10.22,48.72,2023-01-16
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,hiver,12,25,8,1,23.94,13.42,10.52,2023-12-25
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,automne,11,11,13,5,5.48,3.3,10.9,2023-11-11
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,hiver,1,21,11,5,18.1,8.62,47.4,2023-01-21
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,hiver,12,14,15,3,19.09,14.04,15.15,2023-12-14
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,hiver,2,21,10,1,3.87,2.66,1.21,2023-02-21
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,hiver,12,25,9,3,5.79,3.36,7.29,2023-12-25
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,automne,11,29,15,2,2.86,1.9,1.92,2023-11-29
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,automne,10,22,18,4,10.2,5.33,19.48,2023-10-22
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,printemps,4,14,14,3,20.39,8.57,35.46,2023-04-14
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,été,6,13,19,5,12.07,7.27,24.0,2023-06-13
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,été,6,22,16,2,19.99,11.31,17.36,2023-06-22
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,été,8,7,8,3,13.55,6.68,20.61,2023-08-07
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,printemps,3,20,22,2,6.49,4.27,4.44,2023-03-20
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone touristique bord de mer,hiver,1,25,16,2,15.87,9.74,12.26,2023-01-25
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,printemps,4,19,12,2,17.2,6.96,20.48,2023-04-19
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,automne,11,24,18,2,23.9,15.04,17.72,2023-11-24
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone touristique bord de mer,automne,9,29,17,2,24.41,11.13,26.56,2023-09-29
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,hiver,12,7,15,3,12.57,7.71,14.58,2023-12-07
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,été,7,26,10,2,21.32,10.35,21.94,2023-07-26
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,automne,10,24,8,6,24.55,18.5,36.3,2023-10-24
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,hiver,1,29,8,3,18.15,13.04,15.33,2023-01-29
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,hiver,1,30,16,0,15.15,8.3,0.0,2023-01-30
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,hiver,1,15,18,1,21.47,14.93,6.54,2023-01-15
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone touristique bord de mer,hiver,12,20,15,1,1.81,1.08,0.73,2023-12-20
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,hiver,12,3,22,4,22.18,9.76,49.68,2023-12-03
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,automne,9,26,15,1,16.02,10.74,5.28,2023-09-26
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,printemps,3,20,22,6,6.83,4.5,13.98,2023-03-20
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone résidentielle,printemps,3,10,17,2,9.0,4.39,9.22,2023-03-10
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone montagne,hiver,12,7,9,8,11.01,6.83,33.44,2023-12-07
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone résidentielle,été,8,1,14,3,12.13,5.45,20.04,2023-08-01
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone touristique bord de mer,automne,11,11,17,3,14.29,6.13,24.48,2023-11-11
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,automne,10,11,11,3,22.44,13.36,27.24,2023-10-11
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,été,6,5,21,1,10.79,5.87,4.92,2023-06-05
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,automne,10,18,17,3,19.88,10.79,27.27,2023-10-18
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,automne,10,9,14,5,12.81,6.05,33.8,2023-10-09
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,été,7,13,19,5,18.87,8.18,53.45,2023-07-13
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone touristique bord de mer,hiver,1,8,17,1,9.07,4.51,4.56,2023-01-08
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone résidentielle,automne,10,26,9,2,9.13,7.08,4.1,2023-10-26
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,automne,10,8,15,1,3.79,2.45,1.34,2023-10-08
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,automne,11,30,21,4,1.55,1.16,1.56,2023-11-30
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,printemps,4,5,11,2,2.77,2.17,1.2,2023-04-05
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone urbaine,hiver,2,19,12,8,20.02,8.23,94.32,2023-02-19
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,hiver,12,6,19,4,15.93,6.67,37.04,2023-12-06
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone touristique bord de mer,automne,10,1,12,4,6.41,4.04,9.48,2023-10-01
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone touristique bord de mer,printemps,4,3,16,0,10.4,8.21,0.0,2023-04-03
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,printemps,5,11,13,1,21.06,11.89,9.17,2023-05-11
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,automne,11,17,22,3,21.87,10.87,33.0,2023-11-17
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,été,7,16,14,1,10.22,5.45,4.77,2023-07-16
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,3,22,13,4,20.01,14.99,20.08,2023-03-22
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone rurale,printemps,4,11,19,4,16.19,12.51,14.72,2023-04-11
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,été,7,31,20,3,3.88,2.69,3.57,2023-07-31
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,automne,10,30,18,3,7.05,4.54,7.53,2023-10-30
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,hiver,12,2,11,2,17.82,7.76,20.12,2023-12-02
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone résidentielle,été,8,31,10,9,10.42,6.13,4.29,2023-08-31
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone touristique bord de mer,automne,10,2,17,2,11.45,6.79,9.32,2023-10-02
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone rurale,printemps,4,11,17,0,19.55,13.94,0.0,2023-04-11
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,printemps,3,13,19,5,23.37,17.39,29.9,2023-03-13
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,automne,10,27,8,2,19.39,8.39,22.0,2023-10-27
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone touristique bord de mer,printemps,4,21,15,2,23.06,13.09,19.94,2023-04-21
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone touristique bord de mer,automne,10,6,9,1,3.94,1.59,2.35,2023-10-06
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone montagne,automne,10,15,21,10,22.22,16.47,57.5,2023-10-15
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,hiver,2,7,22,3,16.09,6.69,28.2,2023-02-07
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,hiver,12,10,9,0,12.91,10.01,0.0,2023-12-10
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,printemps,3,1,11,3,22.11,15.77,19.02,2023-03-01
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,hiver,1,9,10,1,8.63,5.05,3.58,2023-01-09
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,hiver,12,2,9,0,8.3,3.72,0.0,2023-12-02
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone urbaine,été,6,21,11,3,9.29,5.24,12.15,2023-06-21
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone touristique bord de mer,automne,9,7,19,2,20.51,15.87,9.28,2023-09-07
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,hiver,12,1,13,2,11.02,4.52,13.0,2023-12-01
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone rurale,automne,10,5,17,4,2.89,1.47,5.68,2023-10-05
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,printemps,3,14,8,1,12.59,5.88,6.71,2023-03-14
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone montagne,printemps,3,21,12,1,1.81,0.93,0.88,2023-03-21
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,automne,10,11,12,4,12.13,8.75,13.52,2023-10-11
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,printemps,5,7,13,1,17.17,12.54,4.63,2023-05-07
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone touristique bord de mer,printemps,3,2,18,3,17.95,11.95,18.0,2023-03-02
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,été,8,16,12,3,23.38,17.8,16.74,2023-08-16
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,printemps,3,20,16,4,15.78,9.74,24.16,2023-03-20
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,été,7,18,13,2,11.38,5.65,11.46,2023-07-18
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,printemps,5,4,19,1,4.81,2.41,2.4,2023-05-04
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,hiver,1,17,12,5,3.38,2.31,5.35,2023-01-17
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,printemps,4,5,22,4,22.22,14.37,31.4,2023-04-05
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,automne,9,6,12,2,23.86,15.27,17.18,2023-09-06
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone urbaine,été,7,28,15,5,14.23,10.07,20.8,2023-07-28
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,automne,10,30,10,4,22.65,12.52,40.52,2023-10-30
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,printemps,4,24,10,7,20.76,14.54,43.54,2023-04-24
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,printemps,3,22,16,3,2.56,1.57,2.97,2023-03-22
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,printemps,4,19,13,5,16.05,9.56,32.45,2023-04-19
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,printemps,3,19,11,3,17.57,7.89,29.04,2023-03-19
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,hiver,1,12,8,7,2.18,1.52,4.62,2023-01-12
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,printemps,4,17,10,2,7.6,4.09,7.02,2023-04-17
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone touristique bord de mer,hiver,12,8,21,2,2.21,1.23,1.96,2023-12-08
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,automne,9,7,10,2,24.85,13.08,23.54,2023-09-07
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,été,6,11,8,4,24.03,15.17,35.44,2023-06-11
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,printemps,3,12,9,5,4.58,2.03,12.75,2023-03-12
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,printemps,4,28,18,4,15.86,7.19,34.68,2023-04-28
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,hiver,12,24,19,3,7.84,3.34,13.5,2023-12-24
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone montagne,printemps,5,30,16,2,23.08,10.4,25.36,2023-05-30
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone touristique bord de mer,printemps,5,30,14,2,4.08,2.2,3.76,2023-05-30
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone rurale,été,7,17,22,2,13.46,5.79,15.34,2023-07-17
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,automne,11,21,18,4,3.92,2.38,6.16,2023-11-21
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,été,6,13,13,2,13.38,6.41,13.94,2023-06-13
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,printemps,5,15,8,3,3.64,2.81,2.49,2023-05-15
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone urbaine,été,7,27,22,11,15.75,10.67,20.32,2023-07-27
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone montagne,automne,9,18,10,4,8.13,4.51,14.48,2023-09-18
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone résidentielle,automne,9,21,13,2,6.31,4.8,3.02,2023-09-21
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,été,8,30,10,2,22.32,16.45,11.74,2023-08-30
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone urbaine,printemps,3,14,19,3,21.65,9.88,35.31,2023-03-14
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,automne,9,26,21,4,7.01,3.61,13.6,2023-09-26
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,hiver,12,30,16,5,23.22,18.44,23.9,2023-12-30
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,printemps,5,1,13,1,22.62,16.69,5.93,2023-05-01
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,hiver,1,7,9,1,22.82,9.65,13.17,2023-01-07
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,automne,11,1,17,1,7.02,4.36,2.66,2023-11-01
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,été,6,21,19,1,23.87,10.16,13.71,2023-06-21
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,automne,9,24,9,1,9.7,7.7,2.0,2023-09-24
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,été,7,23,21,2,22.6,14.99,15.22,2023-07-23
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone résidentielle,été,6,24,18,2,1.81,1.19,1.24,2023-06-24
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,hiver,1,13,19,2,20.51,12.26,16.5,2023-01-13
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,automne,10,9,16,2,17.07,9.69,14.76,2023-10-09
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,été,8,8,18,2,5.26,2.98,4.56,2023-08-08
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,été,6,3,11,6,21.97,15.19,40.68,2023-06-03
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,automne,11,2,10,3,14.0,7.85,18.45,2023-11-02
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,été,8,23,11,4,8.09,6.21,7.52,2023-08-23
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone montagne,printemps,5,16,20,2,17.57,11.75,11.64,2023-05-16
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone montagne,été,6,19,11,1,3.35,2.31,1.04,2023-06-19
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone résidentielle,hiver,12,3,13,4,15.04,7.67,29.48,2023-12-03
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,été,8,24,21,7,7.71,4.78,20.51,2023-08-24
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,hiver,12,13,13,4,9.69,5.2,17.96,2023-12-13
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,hiver,1,21,20,4,15.69,11.98,14.84,2023-01-21
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,hiver,2,18,9,2,12.7,9.66,6.08,2023-02-18
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,hiver,2,18,21,2,4.8,2.09,5.42,2023-02-18
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,printemps,5,12,16,4,4.29,3.39,3.6,2023-05-12
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,automne,10,12,16,1,24.0,12.56,11.44,2023-10-12
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone touristique bord de mer,printemps,3,9,15,1,10.0,5.48,4.52,2023-03-09
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone montagne,automne,9,5,15,2,4.29,2.82,2.94,2023-09-05
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,printemps,3,14,18,4,15.94,11.12,19.28,2023-03-14
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,été,6,14,15,5,6.62,3.87,13.75,2023-06-14
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,été,6,27,21,5,15.48,10.02,27.3,2023-06-27
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone rurale,automne,9,24,11,4,14.67,9.12,22.2,2023-09-24
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone touristique bord de mer,hiver,1,29,10,3,15.47,9.3,18.51,2023-01-29
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,hiver,12,7,10,4,11.99,5.14,27.4,2023-12-07
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone urbaine,printemps,5,1,16,3,16.95,7.93,27.06,2023-05-01
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone montagne,printemps,4,11,18,3,18.68,14.06,13.86,2023-04-11
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,automne,11,7,13,2,3.95,1.92,4.06,2023-11-07
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,hiver,2,26,22,1,19.86,13.93,5.93,2023-02-26
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,été,6,23,14,7,20.83,13.33,52.5,2023-06-23
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,automne,9,14,14,3,19.13,14.13,15.0,2023-09-14
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,hiver,2,24,10,4,18.94,13.37,22.28,2023-02-24
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,automne,9,2,19,7,8.23,6.56,11.69,2023-09-02
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,hiver,12,18,18,2,23.3,16.42,13.76,2023-12-18
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,printemps,4,22,8,1,8.48,5.7,2.78,2023-04-22
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,hiver,12,17,12,2,5.59,3.74,3.7,2023-12-17
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,automne,10,14,20,5,24.09,9.66,72.15,2023-10-14
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,hiver,12,5,18,3,5.44,4.21,3.69,2023-12-05
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,été,7,25,18,1,2.76,2.02,0.74,2023-07-25
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,hiver,2,9,14,6,24.79,13.37,68.52,2023-02-09
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone rurale,automne,11,11,21,6,13.88,7.04,41.04,2023-11-11
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone montagne,hiver,1,29,11,4,12.69,5.91,27.12,2023-01-29
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,été,7,27,20,2,2.38,1.61,1.54,2023-07-27
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,été,8,29,17,5,10.9,7.24,18.3,2023-08-29
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,été,8,8,15,5,2.18,1.48,3.5,2023-08-08
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,hiver,12,28,12,4,24.4,16.65,31.0,2023-12-28
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,automne,11,27,10,5,18.77,14.6,20.85,2023-11-27
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,printemps,4,28,20,1,20.52,11.59,8.93,2023-04-28
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,été,6,10,12,1,22.69,9.93,12.76,2023-06-10
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,hiver,12,3,9,3,24.53,13.9,31.89,2023-12-03
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,hiver,12,17,18,3,16.15,9.75,19.2,2023-12-17
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,hiver,1,14,18,3,6.19,3.43,8.28,2023-01-14
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,été,8,10,17,3,17.1,13.67,10.29,2023-08-10
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,été,8,6,18,3,5.68,3.96,5.16,2023-08-06
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,été,7,9,9,0,23.57,16.38,0.0,2023-07-09
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,hiver,1,11,15,1,7.82,4.19,3.63,2023-01-11
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,automne,10,14,18,4,22.73,13.85,35.52,2023-10-14
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone montagne,automne,10,29,13,3,7.94,4.92,9.06,2023-10-29
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone touristique bord de mer,été,8,18,9,5,9.41,5.57,19.2,2023-08-18
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,automne,10,21,11,1,19.33,10.88,8.45,2023-10-21
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,3,17,8,1,23.72,16.58,7.14,2023-03-17
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,printemps,4,19,18,4,15.49,8.69,27.2,2023-04-19
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone rurale,hiver,12,14,14,4,3.59,2.46,4.52,2023-12-14
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,été,6,10,19,0,2.47,1.59,0.0,2023-06-10
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,automne,9,3,14,2,12.48,5.39,14.18,2023-09-03
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,automne,11,15,17,2,2.87,1.19,3.36,2023-11-15
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone rurale,hiver,1,15,21,5,24.99,17.36,38.15,2023-01-15
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone touristique bord de mer,automne,10,27,20,3,17.14,12.51,13.89,2023-10-27
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone montagne,automne,9,14,17,1,15.4,8.62,6.78,2023-09-14
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,été,8,19,21,4,7.23,4.49,10.96,2023-08-19
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,été,6,23,10,6,7.64,3.97,22.02,2023-06-23
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,été,7,31,12,5,23.25,17.34,29.55,2023-07-31
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,été,6,19,13,3,20.48,15.07,16.23,2023-06-19
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,automne,11,14,10,7,6.56,3.16,23.8,2023-11-14
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,automne,9,30,20,5,23.93,10.45,67.4,2023-09-30
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone touristique bord de mer,automne,10,22,15,2,19.0,9.44,19.12,2023-10-22
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,printemps,3,30,9,4,13.6,6.28,29.28,2023-03-30
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,été,6,1,19,8,10.94,5.24,45.6,2023-06-01
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,été,7,5,11,4,21.45,16.75,18.8,2023-07-05
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,printemps,3,14,14,1,23.56,17.51,6.05,2023-03-14
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone urbaine,hiver,1,24,18,2,17.03,13.03,8.0,2023-01-24
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,été,7,3,21,2,8.56,5.06,7.0,2023-07-03
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,automne,9,16,13,4,11.74,9.22,10.08,2023-09-16
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,automne,9,9,16,3,13.45,8.13,15.96,2023-09-09
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,hiver,12,4,8,8,11.29,5.09,49.6,2023-12-04
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,hiver,2,20,20,3,18.58,8.87,29.13,2023-02-20
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,printemps,4,20,16,4,1.89,1.0,3.56,2023-04-20
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,printemps,4,21,18,5,2.82,1.76,5.3,2023-04-21
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,printemps,5,6,13,2,6.43,3.7,5.46,2023-05-06
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,printemps,3,3,21,1,19.08,8.53,10.55,2023-03-03
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,automne,9,16,21,5,5.82,4.27,7.75,2023-09-16
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,automne,9,26,12,4,19.34,13.86,21.92,2023-09-26
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,printemps,3,27,15,2,10.47,6.51,7.92,2023-03-27
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone résidentielle,hiver,12,30,16,1,20.79,11.22,9.57,2023-12-30
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,été,7,9,9,7,5.1,3.42,11.76,2023-07-09
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,automne,10,5,10,2,13.72,9.18,9.08,2023-10-05
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,hiver,12,6,17,1,12.68,7.3,5.38,2023-12-06
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,été,6,2,21,1,4.15,2.01,2.14,2023-06-02
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,hiver,1,23,10,2,20.0,15.28,9.44,2023-01-23
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,automne,9,13,12,4,10.26,7.25,12.04,2023-09-13
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone urbaine,printemps,4,8,17,3,20.88,9.19,35.07,2023-04-08
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,hiver,12,14,8,3,16.99,7.06,29.79,2023-12-14
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,été,7,16,15,5,14.96,9.85,25.55,2023-07-16
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,printemps,5,20,11,3,2.61,1.53,3.24,2023-05-20
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,été,7,31,15,2,19.56,14.74,9.64,2023-07-31
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,hiver,12,11,19,2,6.87,3.75,6.24,2023-12-11
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,été,7,19,14,6,23.57,10.41,78.96,2023-07-19
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,printemps,3,27,9,0,7.7,5.11,0.0,2023-03-27
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,hiver,1,30,11,2,14.49,9.55,9.88,2023-01-30
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone touristique bord de mer,hiver,1,31,22,6,3.79,1.8,11.94,2023-01-31
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,hiver,1,6,11,3,1.54,0.91,1.89,2023-01-06
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,hiver,2,18,15,1,4.96,2.54,2.42,2023-02-18
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,hiver,12,17,20,3,6.92,4.66,6.78,2023-12-17
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone résidentielle,été,6,22,21,5,17.06,7.61,47.25,2023-06-22
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,printemps,3,2,13,4,23.17,9.89,53.12,2023-03-02
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,été,6,24,10,1,10.94,4.39,6.55,2023-06-24
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,hiver,1,13,16,4,18.13,10.56,30.28,2023-01-13
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,5,3,22,2,20.38,15.09,10.58,2023-05-03
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone résidentielle,printemps,4,7,9,6,14.93,8.17,40.56,2023-04-07
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone rurale,automne,9,14,15,3,22.83,17.29,16.62,2023-09-14
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,printemps,5,13,9,1,19.27,11.2,8.07,2023-05-13
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone résidentielle,printemps,5,16,17,1,20.09,14.05,6.04,2023-05-16
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,printemps,4,18,12,4,13.41,6.8,26.44,2023-04-18
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,printemps,3,30,10,0,17.03,7.03,0.0,2023-03-30
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone résidentielle,automne,11,12,17,5,23.33,11.69,58.2,2023-11-12
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,automne,11,10,13,2,16.88,8.04,17.68,2023-11-10
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone montagne,hiver,1,6,12,4,5.42,2.93,9.96,2023-01-06
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone touristique bord de mer,automne,10,14,14,3,24.16,18.58,16.74,2023-10-14
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,été,6,23,18,3,3.36,2.61,2.25,2023-06-23
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,hiver,2,12,19,3,22.36,12.17,30.57,2023-02-12
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,été,6,30,10,2,7.1,4.84,4.52,2023-06-30
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,automne,11,22,12,4,6.14,4.63,6.04,2023-11-22
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,automne,10,18,12,3,1.72,0.73,2.97,2023-10-18
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,printemps,4,29,8,2,15.49,6.72,17.54,2023-04-29
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,hiver,1,11,20,6,5.47,3.13,14.04,2023-01-11
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,printemps,5,1,14,5,9.12,3.8,26.6,2023-05-01
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone montagne,hiver,1,9,17,4,2.39,1.88,2.04,2023-01-09
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,été,7,28,9,3,21.82,14.36,22.38,2023-07-28
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,été,6,8,9,2,21.36,9.85,23.02,2023-06-08
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone résidentielle,été,6,27,8,1,9.12,3.91,5.21,2023-06-27
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone résidentielle,été,6,17,9,5,20.74,12.34,42.0,2023-06-17
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,automne,10,1,21,4,13.22,9.54,14.72,2023-10-01
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,hiver,2,26,13,0,17.76,13.2,0.0,2023-02-26
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,hiver,1,13,22,3,23.43,9.77,40.98,2023-01-13
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,hiver,1,1,19,2,16.5,10.26,12.48,2023-01-01
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,automne,9,21,19,2,11.32,6.22,10.2,2023-09-21
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone montagne,été,6,27,14,0,9.28,6.65,0.0,2023-06-27
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,automne,9,4,20,1,7.19,4.82,2.37,2023-09-04
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,automne,9,4,9,6,15.41,7.16,49.5,2023-09-04
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone urbaine,printemps,3,12,13,3,23.95,12.36,34.77,2023-03-12
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,hiver,1,15,8,4,15.14,7.82,29.28,2023-01-15
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,printemps,3,22,10,2,9.42,5.47,7.9,2023-03-22
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,été,7,15,19,5,12.5,9.27,16.15,2023-07-15
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone urbaine,hiver,12,4,13,6,13.69,9.51,25.08,2023-12-04
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,automne,9,27,16,2,8.41,4.29,8.24,2023-09-27
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone résidentielle,été,8,25,9,9,8.55,3.56,19.96,2023-08-25
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone urbaine,hiver,12,23,10,2,10.44,5.77,9.34,2023-12-23
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,printemps,5,16,15,2,23.37,16.71,13.32,2023-05-16
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone montagne,hiver,2,23,9,4,23.68,18.94,18.96,2023-02-23
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,été,8,16,21,2,15.3,6.13,18.34,2023-08-16
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,été,6,1,18,5,20.71,12.08,43.15,2023-06-01
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone résidentielle,hiver,2,23,12,1,20.52,11.11,9.41,2023-02-23
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone urbaine,printemps,4,25,10,4,11.53,8.34,12.76,2023-04-25
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone urbaine,hiver,1,14,16,4,15.66,10.3,21.44,2023-01-14
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,été,7,27,20,1,4.0,3.18,0.82,2023-07-27
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,automne,10,21,22,4,8.78,4.2,18.32,2023-10-21
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone montagne,hiver,2,22,9,4,23.39,10.05,53.36,2023-02-22
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,hiver,1,27,8,6,8.03,3.29,28.44,2023-01-27
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,hiver,2,14,20,3,9.88,7.31,7.71,2023-02-14
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,automne,10,26,10,1,10.54,5.92,4.62,2023-10-26
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,été,6,5,20,4,11.55,8.84,10.84,2023-06-05
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,printemps,3,5,22,1,19.48,14.94,4.54,2023-03-05
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,été,6,4,14,4,6.4,4.08,9.28,2023-06-04
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,automne,10,4,14,2,10.84,7.58,6.52,2023-10-04
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,automne,11,6,21,1,21.53,9.08,12.45,2023-11-06
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,hiver,1,28,8,3,2.63,1.14,4.47,2023-01-28
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,hiver,2,12,21,4,9.18,3.94,20.96,2023-02-12
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,automne,10,15,12,2,20.01,15.75,8.52,2023-10-15
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone touristique bord de mer,hiver,12,7,12,2,13.94,8.33,11.22,2023-12-07
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone montagne,automne,10,8,10,2,22.15,9.05,26.2,2023-10-08
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,printemps,5,28,9,4,12.8,5.44,29.44,2023-05-28
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,automne,10,20,19,3,6.86,3.24,10.86,2023-10-20
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,printemps,5,4,15,6,15.2,9.76,32.64,2023-05-04
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,automne,9,3,9,1,21.26,11.2,10.06,2023-09-03
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,automne,11,15,13,3,9.6,6.22,10.14,2023-11-15
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,printemps,5,18,18,3,3.51,1.49,6.06,2023-05-18
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone rurale,hiver,12,16,19,3,13.76,6.62,21.42,2023-12-16
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,été,8,7,13,0,19.42,10.03,0.0,2023-08-07
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,automne,10,6,15,6,7.45,4.99,14.76,2023-10-06
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,hiver,1,6,15,6,4.66,2.31,14.1,2023-01-06
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone résidentielle,hiver,1,2,19,4,22.75,15.19,30.24,2023-01-02
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,automne,10,14,8,4,21.82,9.7,48.48,2023-10-14
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,automne,10,31,20,2,14.38,5.86,17.04,2023-10-31
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone résidentielle,printemps,4,14,14,3,18.17,11.59,19.74,2023-04-14
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone montagne,automne,9,22,17,0,16.01,7.86,0.0,2023-09-22
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,hiver,12,23,11,2,2.7,2.06,1.28,2023-12-23
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,été,7,17,18,3,19.62,10.54,27.24,2023-07-17
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone urbaine,hiver,12,18,21,0,12.45,9.75,0.0,2023-12-18
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,été,6,11,18,2,2.1,1.37,1.46,2023-06-11
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone résidentielle,hiver,12,16,20,5,10.73,5.13,28.0,2023-12-16
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,été,8,13,19,3,11.02,8.4,7.86,2023-08-13
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone résidentielle,hiver,12,2,19,3,16.36,8.93,22.29,2023-12-02
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,hiver,2,1,12,2,17.44,9.84,15.2,2023-02-01
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,été,7,24,17,4,10.36,6.88,13.92,2023-07-24
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,printemps,4,5,18,2,5.82,2.47,6.7,2023-04-05
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone résidentielle,printemps,5,10,12,5,15.87,9.25,33.1,2023-05-10
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,automne,10,29,19,5,16.43,12.09,21.7,2023-10-29
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,automne,9,3,9,3,5.25,4.03,3.66,2023-09-03
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone résidentielle,printemps,3,16,16,3,6.98,4.09,8.67,2023-03-16
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone urbaine,hiver,2,10,10,2,11.4,7.19,8.42,2023-02-10
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,hiver,12,27,14,5,10.09,6.38,18.55,2023-12-27
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,été,7,29,8,2,21.35,12.1,18.5,2023-07-29
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,automne,11,11,16,5,13.25,7.7,27.75,2023-11-11
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,été,7,24,16,2,2.94,1.88,2.12,2023-07-24
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,été,7,13,12,4,24.99,19.69,21.2,2023-07-13
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,hiver,12,17,13,6,7.1,3.9,19.2,2023-12-17
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,hiver,12,17,14,2,12.92,9.81,6.22,2023-12-17
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,été,8,29,13,6,22.75,16.29,38.76,2023-08-29
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,automne,10,21,20,2,19.91,12.81,14.2,2023-10-21
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,hiver,12,3,8,1,20.3,12.35,7.95,2023-12-03
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,printemps,3,29,12,2,18.76,12.56,12.4,2023-03-29
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone touristique bord de mer,printemps,5,5,13,4,4.92,2.84,8.32,2023-05-05
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone rurale,printemps,5,16,10,2,9.63,7.58,4.1,2023-05-16
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,automne,10,8,21,7,3.9,2.51,9.73,2023-10-08
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,automne,11,8,19,3,14.19,8.21,17.94,2023-11-08
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,hiver,1,25,20,2,7.88,5.68,4.4,2023-01-25
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,été,8,1,22,2,23.05,15.59,14.92,2023-08-01
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,hiver,2,1,20,4,12.44,8.25,16.76,2023-02-01
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone résidentielle,automne,11,30,19,4,19.14,11.42,30.88,2023-11-30
+PIZZERIA,PIZZERIA,Pizza,Reine,Zone résidentielle,automne,11,17,9,2,6.43,4.37,4.12,2023-11-17
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,printemps,3,29,22,1,17.08,11.65,5.43,2023-03-29
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,automne,10,4,16,3,21.88,12.78,27.3,2023-10-04
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,hiver,1,15,19,4,7.22,2.91,17.24,2023-01-15
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,printemps,4,27,21,3,6.71,4.4,6.93,2023-04-27
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,printemps,3,29,16,4,9.59,7.38,8.84,2023-03-29
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,automne,10,6,17,4,9.26,5.68,14.32,2023-10-06
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,automne,9,7,14,4,2.06,1.28,3.12,2023-09-07
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,hiver,12,22,9,2,7.17,5.58,3.18,2023-12-22
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,été,8,23,12,3,21.19,10.15,33.12,2023-08-23
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,printemps,3,15,20,3,23.43,18.2,15.69,2023-03-15
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone urbaine,hiver,12,7,10,12,12.63,7.0,67.56,2023-12-07
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone touristique bord de mer,hiver,1,5,19,3,18.0,11.4,19.8,2023-01-05
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,hiver,12,4,10,2,9.81,6.17,7.28,2023-12-04
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,été,8,31,9,4,6.25,4.0,9.0,2023-08-31
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,automne,9,15,9,3,24.86,10.34,43.56,2023-09-15
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,hiver,12,31,9,3,15.09,10.12,14.91,2023-12-31
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,hiver,12,2,11,3,17.73,13.49,12.72,2023-12-02
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,automne,9,3,12,5,2.34,1.7,3.2,2023-09-03
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone résidentielle,printemps,3,23,8,1,19.44,15.44,4.0,2023-03-23
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,hiver,1,16,11,4,19.35,12.18,28.68,2023-01-16
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,automne,10,14,14,3,6.15,2.91,9.72,2023-10-14
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone urbaine,automne,10,22,14,1,19.87,15.61,4.26,2023-10-22
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,printemps,5,13,19,2,7.03,3.53,7.0,2023-05-13
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,été,8,23,13,4,9.61,4.49,20.48,2023-08-23
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,printemps,3,2,9,4,8.71,6.68,8.12,2023-03-02
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,automne,9,22,17,3,5.41,3.78,4.89,2023-09-22
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,hiver,12,30,18,5,7.84,6.18,8.3,2023-12-30
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,printemps,5,17,20,4,2.14,1.1,4.16,2023-05-17
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,hiver,1,11,20,3,15.26,7.68,22.74,2023-01-11
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,hiver,12,21,20,9,7.6,5.75,16.65,2023-12-21
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone montagne,automne,11,18,12,3,14.71,7.0,23.13,2023-11-18
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,hiver,12,23,19,4,24.28,17.92,25.44,2023-12-23
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,automne,9,14,8,5,24.23,10.78,67.25,2023-09-14
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,été,6,10,19,3,9.74,4.48,15.78,2023-06-10
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,printemps,5,21,18,2,12.22,8.36,7.72,2023-05-21
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone montagne,automne,10,14,10,1,22.26,15.39,6.87,2023-10-14
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone urbaine,hiver,12,12,22,1,13.76,8.78,4.98,2023-12-12
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone rurale,automne,10,23,9,2,4.23,2.4,3.66,2023-10-23
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone touristique bord de mer,printemps,5,11,14,3,18.25,7.9,31.05,2023-05-11
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,hiver,1,31,20,2,15.05,8.21,13.68,2023-01-31
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone urbaine,printemps,4,7,18,4,24.84,14.63,40.84,2023-04-07
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,été,8,2,22,1,18.27,12.89,5.38,2023-08-02
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,printemps,5,20,16,5,7.88,3.64,21.2,2023-05-20
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,hiver,1,31,21,3,12.66,6.51,18.45,2023-01-31
+PIZZERIA,PIZZERIA,Pizza,Kebab,Zone touristique bord de mer,printemps,3,9,20,3,5.01,2.38,7.89,2023-03-09
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,hiver,1,30,11,3,4.44,3.1,4.02,2023-01-30
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,automne,9,21,11,0,14.03,7.67,0.0,2023-09-21
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone résidentielle,été,8,14,9,6,15.42,11.11,25.86,2023-08-14
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,automne,11,7,15,2,22.97,15.41,15.12,2023-11-07
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,automne,10,25,21,4,17.34,13.62,14.88,2023-10-25
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone urbaine,automne,9,20,15,1,6.6,2.78,3.82,2023-09-20
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone touristique bord de mer,automne,9,16,15,2,7.8,3.79,8.02,2023-09-16
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,hiver,1,3,20,3,3.76,1.69,6.21,2023-01-03
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,printemps,3,20,14,3,8.77,6.75,6.06,2023-03-20
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,été,8,14,20,3,14.4,6.09,24.93,2023-08-14
+PIZZERIA,PIZZERIA,Pizza,Margherita,Zone montagne,automne,10,20,18,2,15.4,10.31,10.18,2023-10-20
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,été,7,27,17,0,9.25,7.39,0.0,2023-07-27
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone rurale,hiver,1,17,21,5,7.03,4.08,14.75,2023-01-17
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,printemps,4,18,13,5,21.89,12.43,47.3,2023-04-18
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,hiver,12,24,13,2,24.51,15.21,18.6,2023-12-24
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,printemps,4,24,11,2,6.59,2.98,7.22,2023-04-24
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone résidentielle,automne,10,13,22,2,18.31,13.05,10.52,2023-10-13
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone urbaine,printemps,4,10,12,0,15.05,7.0,0.0,2023-04-10
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone touristique bord de mer,hiver,1,22,18,5,2.73,2.18,2.75,2023-01-22
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,été,8,30,15,3,10.04,6.25,11.37,2023-08-30
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,hiver,1,25,21,2,16.62,10.25,12.74,2023-01-25
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,hiver,12,9,19,4,16.66,8.2,33.84,2023-12-09
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,automne,11,4,14,3,14.54,9.81,14.19,2023-11-04
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,hiver,1,4,16,8,4.38,3.13,10.0,2023-01-04
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,printemps,5,10,12,2,19.06,13.78,10.56,2023-05-10
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,hiver,12,21,17,8,13.24,5.84,59.2,2023-12-21
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone touristique bord de mer,été,8,6,17,7,9.15,4.69,31.22,2023-08-06
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone urbaine,printemps,5,29,17,6,9.94,7.67,13.62,2023-05-29
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,hiver,12,17,12,5,2.55,1.08,7.35,2023-12-17
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone touristique bord de mer,automne,9,25,21,0,16.05,10.27,0.0,2023-09-25
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,été,7,5,21,1,2.83,2.01,0.82,2023-07-05
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone résidentielle,été,6,19,11,3,19.54,9.29,30.75,2023-06-19
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,été,7,31,8,4,9.24,7.25,7.96,2023-07-31
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone urbaine,printemps,3,17,22,2,22.14,11.25,21.78,2023-03-17
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone rurale,automne,9,4,17,7,19.41,8.94,73.29,2023-09-04
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone montagne,automne,10,17,21,5,17.51,12.23,26.4,2023-10-17
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone urbaine,hiver,1,22,20,3,17.51,9.69,23.46,2023-01-22
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone résidentielle,été,6,11,12,2,8.44,4.0,8.88,2023-06-11
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone rurale,été,8,31,14,5,10.42,5.75,23.35,2023-08-31
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,automne,10,7,15,4,8.53,5.82,10.84,2023-10-07
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,printemps,5,27,13,2,4.84,3.46,2.76,2023-05-27
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone montagne,automne,9,3,9,3,20.55,13.84,20.13,2023-09-03
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone montagne,automne,10,30,10,3,13.23,6.64,19.77,2023-10-30
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone urbaine,printemps,3,24,10,2,5.88,4.4,2.96,2023-03-24
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone montagne,printemps,4,22,20,2,10.81,6.33,8.96,2023-04-22
+PIZZERIA,PIZZERIA,Pizza,4 fromages,Zone résidentielle,printemps,5,10,18,0,22.98,11.08,0.0,2023-05-10
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,été,7,12,12,2,16.21,9.91,12.6,2023-07-12
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone touristique bord de mer,automne,10,24,13,1,23.25,16.16,7.09,2023-10-24
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone rurale,printemps,4,10,22,3,17.7,9.46,24.72,2023-04-10
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,automne,11,7,8,3,17.47,10.41,21.18,2023-11-07
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,hiver,1,1,12,7,8.15,5.7,17.15,2023-01-01
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone rurale,printemps,3,2,8,4,20.32,14.32,24.0,2023-03-02
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,été,7,5,22,4,17.53,11.35,24.72,2023-07-05
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,printemps,3,2,9,5,17.51,9.16,41.75,2023-03-02
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,automne,9,8,14,3,21.23,14.08,21.45,2023-09-08
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone touristique bord de mer,printemps,5,24,16,2,21.87,9.03,25.68,2023-05-24
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,printemps,4,18,8,2,24.24,18.18,12.12,2023-04-18
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone rurale,printemps,4,22,10,2,20.55,14.03,13.04,2023-04-22
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,printemps,3,14,14,3,9.98,4.91,15.21,2023-03-14
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone touristique bord de mer,hiver,2,5,8,3,22.11,9.03,39.24,2023-02-05
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone touristique bord de mer,printemps,5,9,11,5,22.4,12.97,47.15,2023-05-09
+PIZZERIA,PIZZERIA,Pizza,Calzone,Zone urbaine,printemps,3,7,11,1,13.06,6.55,6.51,2023-03-07
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone montagne,été,8,17,8,3,9.36,6.34,9.06,2023-08-17
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone urbaine,hiver,1,23,18,4,20.36,11.44,35.68,2023-01-23
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone montagne,automne,9,17,11,0,20.11,14.37,0.0,2023-09-17
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone résidentielle,printemps,4,16,21,5,22.93,9.52,67.05,2023-04-16
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone montagne,été,7,25,14,3,6.1,2.49,10.83,2023-07-25
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone montagne,automne,11,26,17,1,4.26,2.31,1.95,2023-11-26
+PIZZERIA,PIZZERIA,Pizza,Pepperoni,Zone résidentielle,printemps,3,25,8,3,4.26,3.18,3.24,2023-03-25
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone résidentielle,hiver,2,10,18,2,23.76,10.83,25.86,2023-02-10
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone montagne,printemps,3,6,20,2,22.85,11.89,21.92,2023-03-06
+PIZZERIA,PIZZERIA,Desserts,Tiramisu,Zone montagne,printemps,5,2,22,2,24.24,18.51,11.46,2023-05-02
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone touristique bord de mer,automne,11,23,18,1,9.19,5.61,3.58,2023-11-23
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone montagne,printemps,3,22,15,3,4.92,3.3,4.86,2023-03-22
+PIZZERIA,PIZZERIA,Desserts,Moelleux choco,Zone résidentielle,hiver,12,2,12,4,8.27,5.66,10.44,2023-12-02
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone urbaine,été,8,16,22,5,21.49,13.72,38.85,2023-08-16
+PIZZERIA,PIZZERIA,Pizza,Poulet BBQ,Zone rurale,printemps,3,17,21,0,8.28,5.26,0.0,2023-03-17
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone rurale,automne,11,12,8,1,1.9,0.81,1.09,2023-11-12
+PIZZERIA,PIZZERIA,Boissons,Eau,Zone urbaine,printemps,3,21,22,8,19.73,9.1,85.04,2023-03-21
+PIZZERIA,PIZZERIA,Desserts,Glace,Zone rurale,été,7,4,11,5,20.42,15.86,22.8,2023-07-04
+PIZZERIA,PIZZERIA,Pizza,Saumon,Zone touristique bord de mer,été,7,6,13,3,14.56,10.43,12.39,2023-07-06
+PIZZERIA,PIZZERIA,Boissons,Ice Tea,Zone résidentielle,printemps,4,15,13,5,20.17,15.55,23.1,2023-04-15
+PIZZERIA,PIZZERIA,Boissons,Coca,Zone urbaine,été,8,31,9,4,10.21,5.43,19.12,2023-08-31
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone montagne,été,7,16,22,1,2.59,2.01,0.58,2023-07-16
+PIZZERIA,PIZZERIA,Pizza,Végétarienne,Zone touristique bord de mer,hiver,1,25,8,4,15.86,7.55,33.24,2023-01-25
+
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,hiver,12,15,19,4,11.99,6.30,22.76,2023-12-15
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,hiver,1,9,20,3,12.50,6.20,19.80,2023-01-09
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,hiver,2,12,21,5,13.00,6.00,35.00,2023-02-12
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,hiver,12,21,19,2,10.99,5.50,10.98,2023-12-21
+PIZZERIA,PIZZERIA,Pizza,Raclette,Zone montagne,hiver,12,28,22,3,13.49,7.10,19.17,2023-12-28
