@@ -2,7 +2,7 @@
 
 > **Optimisation intelligente des prix en fonction de l’heure pour les commerces de nuit**  
 > Projet personnel présenté dans le cadre du cours **Application Data**  
-> **Data Storytelling Project — Paris Ynov Campus (Master 1 IA & Data)**
+> **Data Storytelling Project — Paris Ynov Campus (Bachelor 3 IA & Data)**
 
 ---
 
@@ -35,7 +35,7 @@ Ce projet a été imaginé comme une **mise à jour intelligente** de l’offre 
 
 _Aperçu du notebook utilisé pour l’analyse initiale et l’application de la logique de majoration :_
 
-📸 **[Insérer capture d’écran du notebook ici]**
+![Image](https://github.com/user-attachments/assets/533dfe3d-33c1-4dd8-abb2-ec9427172051)
 
 ---
 
@@ -43,7 +43,7 @@ _Aperçu du notebook utilisé pour l’analyse initiale et l’application de la
 
 _Aperçu de l’interface principale de l’application Streamlit :_
 
-📸 **[Insérer capture d’écran de la page d’accueil de l’app ici]**
+![Image](https://github.com/user-attachments/assets/14cc7537-2421-4385-b278-cb548c81b913)
 
 ---
 
@@ -51,12 +51,10 @@ _Aperçu de l’interface principale de l’application Streamlit :_
 
 _Aperçu des différentes sections de l’application :_
 
-- Visualisation marge avant / après majoration  
-  📸 **[Insérer capture section "Avant vs Après"]**
-- Affichage des produits impactés  
-  📸 **[Insérer capture d’un produit avec majoration active]**
-- Bouton retour aux prix d’origine  
-  📸 **[Insérer capture bouton ou section]**
+![Image](https://github.com/user-attachments/assets/dc1d1c46-643c-4250-87b7-f51c6e86168e)
+![Image](https://github.com/user-attachments/assets/dc3dd9c0-19cb-4dd8-b324-a91c14504edf)
+![Image](https://github.com/user-attachments/assets/bd14a651-1aa8-4371-a464-41e3130b6c8f)
+![Image](https://github.com/user-attachments/assets/1f84758c-79f6-47d5-85fc-72a37758479f)
 
 ---
 
@@ -68,6 +66,7 @@ _Aperçu des différentes sections de l’application :_
 - ✅ **Mode clair / sombre**
 - ✅ **Bouton pour réinitialiser les prix**
 - ✅ **Hébergement gratuit possible avec Streamlit Cloud**
+![Image](https://github.com/user-attachments/assets/4b360a7f-784f-4806-9cfa-41e1c3176a4f)
 
 ---
 
@@ -104,7 +103,7 @@ silent-surge/
 
 ### 1. Cloner le dépôt
 
-```bash
+```
 git clone https://github.com/ton-utilisateur/silent-surge.git
 cd silent-surge
 ```
@@ -135,9 +134,11 @@ streamlit run app/app.py
 
 ## 📸 Présentation 
 
-_Aperçu de la présentation réalisée devant le jury / professeur (support PowerPoint)_
+_Aperçu de la présentation (support PowerPoint)_
 
-📸 **[Insérer ici une capture d’écran de la présentation orale]**
+
+![Image](https://github.com/user-attachments/assets/a2f6514e-8274-4bbf-938e-c829db9515ed)
+![Image](https://github.com/user-attachments/assets/646235a3-7109-4273-b713-b881d7995e41)
 
 ---
 
