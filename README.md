@@ -50,11 +50,10 @@ _Aperçu de l’interface principale de l’application Streamlit :_
 ### ⚙️ Fonctionnalités clés
 
 _Aperçu des différentes sections de l’application :_
-
-![Image](https://github.com/user-attachments/assets/dc1d1c46-643c-4250-87b7-f51c6e86168e)
 ![Image](https://github.com/user-attachments/assets/dc3dd9c0-19cb-4dd8-b324-a91c14504edf)
-![Image](https://github.com/user-attachments/assets/bd14a651-1aa8-4371-a464-41e3130b6c8f)
 ![Image](https://github.com/user-attachments/assets/1f84758c-79f6-47d5-85fc-72a37758479f)
+![Image](https://github.com/user-attachments/assets/dc1d1c46-643c-4250-87b7-f51c6e86168e)
+![Image](https://github.com/user-attachments/assets/bd14a651-1aa8-4371-a464-41e3130b6c8f)
 
 ---
 
@@ -75,18 +74,46 @@ _Aperçu des différentes sections de l’application :_
 ```
 silent-surge/
 │
+├── app/
+│ ├── app.py # Point d’entrée principal de l'app Streamlit
+│ ├── Home.py # Page d’accueil personnalisée
+│ ├── logo.png # Logo du projet
+│ ├── style.css # Feuille de style Streamlit personnalisée
+│ ├── pages/ # Pages par type de commerce
+│ │ ├── 1_Pizzeria.py
+│ │ ├── 2_Boucherie.py
+│ │ └── 3_Epicerie.py
+│ ├── model_cache/ # Modèles ML joblib
+│ │ ├── boucherie_model.joblib
+│ │ ├── epicerie_model.joblib
+│ │ └── pizzeria_model.joblib
+│ └── utils/
+│ ├── data_loader.py # Chargement des données
+│ └── model_predictor.py # Prédictions sur les ventes
+│
+├── app/v1/
+│ ├── surge.py # Logique de majoration horaire
+│ └── data/
+│ ├── produits.csv
+│ └── ventes_silent_surge.csv
+│
 ├── data/
-│ └── silent_surge_dataset.csv # Données simulées
+│ ├── ventes_boucherie.csv
+│ ├── ventes_epicerie.csv
+│ └── ventes_pizzeria.csv
+│
+├── models/ # (Réservé aux modèles supplémentaires)
 │
 ├── notebooks/
-│ ├── 01_exploration.ipynb # Exploration des données
-│ └── 02_majoration_logique.ipynb # Définition de la logique métier
+│ ├── eda_silent_surge.ipynb # Analyse exploratoire (EDA)
+│ ├── model_silent_surge.ipynb # Entraînement des modèles
+│ └── analyse_strategique.xlsx # Support stratégique / scoring
 │
-├── app/
-│ └── app.py # App Streamlit principale
+├── screenshots/ # Captures d’écran pour présentation
 │
-├── README.md # Ce fichier
-└── requirements.txt # Librairies nécessaires
+├── venv/ # Environnement virtuel local (à ignorer dans Git)
+├── README.md # Fichier de présentation du projet
+└── requirements.txt # Liste des dépendances Python
 ```
 
 ## 📂 Jeu de données simulé
@@ -104,7 +131,7 @@ silent-surge/
 ### 1. Cloner le dépôt
 
 ```
-git clone https://github.com/ton-utilisateur/silent-surge.git
+git clone https://github.com/Sajedd/silent-surge.git
 cd silent-surge
 ```
 
@@ -136,9 +163,8 @@ streamlit run app/app.py
 
 _Aperçu de la présentation (support PowerPoint)_
 
-
-![Image](https://github.com/user-attachments/assets/a2f6514e-8274-4bbf-938e-c829db9515ed)
 ![Image](https://github.com/user-attachments/assets/646235a3-7109-4273-b713-b881d7995e41)
+![Image](https://github.com/user-attachments/assets/a2f6514e-8274-4bbf-938e-c829db9515ed)
 
 ---
 
