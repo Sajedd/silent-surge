@@ -120,29 +120,42 @@ pip install -r requirements.txt
 ```
 streamlit run app/app.py
 ```
+---
 
-🧠 Technologies utilisées
-Python 3.11
+## 🧠 Technologies utilisées
 
-Streamlit
+- Python 3.11  
+- Streamlit  
+- Pandas / Numpy  
+- Matplotlib / Seaborn  
+- Darklight Theme Streamlit  
+- Hébergement : Streamlit Cloud (optionnel)
 
-Pandas / Numpy
+---
 
-Matplotlib / Seaborn
+## 📸 Présentation 
 
-Darklight Theme Streamlit
+_Aperçu de la présentation réalisée devant le jury / professeur (support PowerPoint)_
 
-Hébergement : Streamlit Cloud (optionnel)
+📸 **[Insérer ici une capture d’écran de la présentation orale]**
 
-📈 Impact potentiel
-✅ Augmentation des marges de 12 à 25 % sur produits clés
+---
 
-✅ Amélioration des revenus nocturnes sans changer les habitudes de gestion
+## 📈 Impact potentiel
 
-✅ Possibilité d’industrialisation ou d’intégration directe dans IC-ETAG-SOLUTIONS
+- ✅ Augmentation des marges de **12 à 25 %** sur produits clés
+- ✅ Amélioration des revenus nocturnes **sans changer les habitudes de gestion**
+- ✅ Possibilité d’**industrialisation** ou d’**intégration directe** dans IC-ETAG-SOLUTIONS
 
-🔚 Conclusion
-Silent Surge démontre comment une idée simple, basée sur des données et une observation terrain, peut devenir une solution à fort impact économique et stratégique. Le projet illustre parfaitement l’approche Data Storytelling appliquée à un cas métier, avec une mise en œuvre technique complète et visuellement professionnelle.
+---
 
-📍 Projet présenté en Juillet 2025 — Paris Ynov Campus
-📧 Contact : sajed.ben@gmail.com
+## 🔚 Conclusion
+
+**Silent Surge** démontre comment une idée simple, basée sur des données et une observation terrain, peut devenir une solution à fort **impact économique et stratégique**.
+
+Ce projet illustre parfaitement l’approche **Data Storytelling** appliquée à un cas métier réel, avec une **mise en œuvre technique complète et visuellement professionnelle**.
+
+---
+
+📍 *Projet présenté en Juillet 2025 — Paris Ynov Campus*  
+📧 *Contact : sajed.benyoussef@ynov.com*
